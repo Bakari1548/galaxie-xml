@@ -1,0 +1,200 @@
+from lxml import etree
+from random import choice, random
+import json
+
+
+def extaire_deputes_depuis_json(fichier_json):
+    """
+    Extraction des députés de la 15eme législature depuis le fichier JSON
+    deputes.json et retourne une liste de dictionnaires.
+    """
+    with open(fichier_json, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    allDeputes = []
+
+    for i in data:
+        deputies = data[i]['deputies']
+        for depute in deputies:
+            allDeputes.append(depute)
+    print(f"Nombre total de députés extraits : {len(allDeputes)}")
+
+    with open('deputes_extraits.json', 'w', encoding='utf-8') as wf:
+        json.dump(allDeputes, wf, ensure_ascii=False, indent=4)
+    return allDeputes
+
+
+
+def extraire_lois_depuis_json(fichier_json):
+    """
+    Extraction des projet lois de la 15eme législature (2024-2029) depuis le fichier JSON
+    prjet_loi.json et retourne une liste de dictionnaires.
+    """
+
+    with open(fichier_json, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    projetsDeLoi = []
+
+    for i in data:
+        lois = data[i]
+        for loi in lois:
+            projetsDeLoi.append(loi)
+    print(f"Nombre total de lois extraits : {len(projetsDeLoi)}")
+
+    with open('lois_extraites.json', 'w', encoding='utf-8') as wf:
+        json.dump(projetsDeLoi, wf, ensure_ascii=False, indent=4)
+    return projetsDeLoi
+
+
+VILLE_CHOICES = [
+    "Dakar", "Thiès", "Saint-Louis", "Kaolack", "Ziguinchor",
+    "Mbour", "Touba", "Diourbel", "Louga", "Fatick", "Tambacounda",
+    "Kolda", "Kédougou", "Matam", "Rufisque", "Pikine", "Guédiawaye", "Dakar Plateau"
+]
+
+PARTI_CHOICES = [
+    'Pastef', 'BBY', 'PDS', 'Yewwi Askan Wi', 'APR', 'Rewmi', 'Bokk Gis Gis',
+    'PIRE'
+]
+
+BATIMENT_CHOICES = ['A', 'B', 'C', 'D']
+
+def generer_id_depute():
+    return f"DPT{int(random() * 100000):05d}"
+
+
+def generer_donnees_xml(nom_fichier, nbr_donnees):
+
+    allDeputes = extaire_deputes_depuis_json('deputes.json')
+
+    # 'with' garantit la fermeture propre du fichier
+    with etree.xmlfile(nom_fichier, encoding='utf-8') as xf:
+        xf.write_declaration()
+        # On définit l'élément racine
+        with xf.element('assemblee_nationale'):
+
+            # Écriture de la déclaration DTD
+            # xf.write('&lt;!DOCTYPE assemblee_nationale SYSTEM "assemblee_nationale.dtd"&gt;')
+
+            # ========= Génération des informations generales de l'assemblee ========
+
+            informations_generales = etree.Element('informations_generales')
+            pays = etree.SubElement(informations_generales, 'pays')
+            pays.text = 'Sénégal'
+            legislature = etree.SubElement(informations_generales, 'legislature')
+            legislature.text = '15ème législature (2024-2029)'
+            date_debut = etree.SubElement(informations_generales, 'date_debut')
+            date_debut.text = '2022-07-30'
+            siege = etree.SubElement(informations_generales, 'siege')
+            siege.text = 'Dakar'
+            description = etree.SubElement(informations_generales, 'description')
+            description.text = """
+                L'Assemblée nationale est l'institution législative qui représente le peuple et exerce 
+                le pouvoir législatif. Elle est composée de plusieurs organes essentiels assurant son 
+                bon fonctionnement et la mise en œuvre de ses missions républicaines.
+            """
+            nombre_deputes = etree.SubElement(informations_generales, 'nombre_deputes')
+            nombre_deputes.text = str(nbr_donnees)
+            
+            xf.write(informations_generales)
+            
+            # ======== Génération des députés ========
+            deputes = etree.Element('deputes')
+            
+            for i in range(nbr_donnees):
+                # Création d'un depute
+                depute = etree.SubElement(deputes, 'depute', id=generer_id_depute())
+                # les sous-element identifiant d'un depute
+                identifiant = etree.SubElement(depute, 'identifiant')
+
+                nom = etree.SubElement(identifiant, 'nom')
+                nom.text = allDeputes[i]['first_name']
+                prenom = etree.SubElement(identifiant, 'prenom')
+                prenom.text = allDeputes[i]['last_name']
+                nom_complet = etree.SubElement(identifiant, 'nom_complet')
+                nom_complet.text = f"{allDeputes[i]['last_name']} {allDeputes[i]['first_name']}"
+                date_naissance = etree.SubElement(identifiant, 'date_naissance')
+                date_naissance.text = allDeputes[i]['birth_date']
+                lieu_naissance = etree.SubElement(identifiant, 'lieu_naissance')
+                lieu_naissance.text = allDeputes[i]['birth_place']
+
+                # Sous element parti d'un depute
+                parti = etree.SubElement(depute, 'parti')
+                parti.text = allDeputes[i]['party']['name']
+
+    
+                profession = etree.SubElement(depute, 'profession')
+                profession.text = allDeputes[i]['profession']
+
+                # Sous element contact d'un depute
+                contact = etree.SubElement(depute, 'contact')
+                email = etree.SubElement(contact, 'email')
+                email.text = allDeputes[i]['email']
+                telephone = etree.SubElement(contact, 'telephone')
+                telephone.text = f'77{1000000 + i}'
+                adresse_bureau = etree.SubElement(contact, 'adresse_bureau')
+                adresse_bureau.text = f'Batiment {choice(BATIMENT_CHOICES)} Bureau {i + 1}'
+
+                reseaux_sociaux = etree.SubElement(contact, 'reseaux_sociaux')
+                twitter = etree.SubElement(reseaux_sociaux, 'twitter')
+                twitter.text = f'@{allDeputes[i]["last_name"].lower()}_{allDeputes[i]["first_name"].lower()}'
+                facebook = etree.SubElement(reseaux_sociaux, 'facebook')
+                facebook.text = f'facebook.com/{allDeputes[i]["last_name"].lower()}.{allDeputes[i]["first_name"].lower()}'
+                linkedin = etree.SubElement(reseaux_sociaux, 'linkedin')
+                linkedin.text = f'linkedin.com/in/{allDeputes[i]["last_name"].lower()}.{allDeputes[i]["first_name"].lower()}'
+                # xf.write(depute)
+
+            xf.write(deputes)
+
+    print(f"Fichier '{nom_fichier}' généré avec {nbr_donnees} députés.")
+
+
+
+# extaire_deputes_depuis_json('deputes.json')
+extraire_lois_depuis_json('prjet_loi.json')
+# generer_donnees_xml('assemblee_nationale.xml', 165)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#             dtd_str = '''<!DOCTYPE assemblee_nationale [
+# <!ELEMENT assemblee_nationale (deputes, commissions, sessions, lois)>
+# <!ELEMENT deputes (depute*)> 
+# <!ELEMENT depute (identifiant, parti, biographie, contact)>
+# <!ATTLIST depute id ID #REQUIRED>
+# <!ELEMENT identifiant (nom, prenom, nom_complet, date_naissance, lieu_naissance)>
+# <!ELEMENT nom (#PCDATA)>
+# <!ELEMENT prenom (#PCDATA)>
+# <!ELEMENT nom_complet (#PCDATA)>
+# <!ELEMENT date_naissance (#PCDATA)>
+# <!ELEMENT lieu_naissance (#PCDATA)>
+# <!ELEMENT parti (#PCDATA)>
+# <!ELEMENT biographie (formation, profession)>
+# <!ELEMENT formation (diplome, universite)>
+# <!ELEMENT diplome (#PCDATA)>
+# <!ELEMENT universite (#PCDATA)>
+# <!ELEMENT profession (#PCDATA)>
+# <!ELEMENT contact (email, telephone, adresse_bureau, reseaux_sociaux)>
+# <!ELEMENT email (#PCDATA)>
+# <!ELEMENT telephone (#PCDATA)>
+# <!ELEMENT adresse_bureau (#PCDATA)>
+# <!ELEMENT reseaux_sociaux (twitter, facebook, linkedin)>
+# <!ELEMENT twitter (#PCDATA)>
+# <!ELEMENT facebook (#PCDATA)>
+# <!ELEMENT linkedin (#PCDATA)>  '''

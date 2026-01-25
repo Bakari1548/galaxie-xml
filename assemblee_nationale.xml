@@ -1,0 +1,3482 @@
+<?xml version='1.0' encoding='utf-8'?>
+<assemblee_nationale>
+    <informations_generales>
+        <pays>Sénégal</pays>
+        <legislature>15ème législature</legislature>
+        <date_debut>2022-07-30</date_debut>
+        <siege>Dakar</siege>
+        <description>
+                L'Assemblée nationale est l'institution législative qui représente le peuple et exerce 
+                le pouvoir législatif. Elle est composée de plusieurs organes essentiels assurant son 
+                bon fonctionnement et la mise en œuvre de ses missions républicaines.
+        </description>
+        <nombre_deputes>165</nombre_deputes>
+    </informations_generales>
+    <deputes>
+        <depute id="DPT57354">
+            <identifiant>
+                <nom>SYLLA</nom>
+                <prenom>ABDOULAYE</prenom>
+                <nom_complet>ABDOULAYE SYLLA</nom_complet>
+                <date_naissance>1971-11-15</date_naissance>
+                <lieu_naissance>Diourbel</lieu_naissance>
+            </identifiant>
+            <parti>And Beesal Senegal</parti>
+            <profession>Administrateur de sociétés</profession>
+            <contact>
+                <email>abdoulaye.sylla@assemblee.sn</email>
+                <telephone>771000000</telephone>
+                <adresse_bureau>Batiment C Bureau 1</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@abdoulaye_sylla</twitter>
+                    <facebook>facebook.com/abdoulaye.sylla</facebook>
+                    <linkedin>linkedin.com/in/abdoulaye.sylla</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT10777">
+            <identifiant>
+                <nom>SALL</nom>
+                <prenom>ABDOU KARIM</prenom>
+                <nom_complet>ABDOU KARIM SALL</nom_complet>
+                <date_naissance>1965-01-01</date_naissance>
+                <lieu_naissance>Orkadiéré</lieu_naissance>
+            </identifiant>
+            <parti>AND-CI-KOOLUTE</parti>
+            <profession>Ingénieur Télécom</profession>
+            <contact>
+                <email>abdoukarim.sall@assemblee.sn</email>
+                <telephone>771000001</telephone>
+                <adresse_bureau>Batiment C Bureau 2</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@abdou karim_sall</twitter>
+                    <facebook>facebook.com/abdou karim.sall</facebook>
+                    <linkedin>linkedin.com/in/abdou karim.sall</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT94643">
+            <identifiant>
+                <nom>DIALLO</nom>
+                <prenom>ADAMA</prenom>
+                <nom_complet>ADAMA DIALLO</nom_complet>
+                <date_naissance>1973-02-21</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Andu Nawle</parti>
+            <profession>administrateur civil</profession>
+            <contact>
+                <email>adama.diallo@assemblee.sn</email>
+                <telephone>771000002</telephone>
+                <adresse_bureau>Batiment C Bureau 3</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@adama_diallo</twitter>
+                    <facebook>facebook.com/adama.diallo</facebook>
+                    <linkedin>linkedin.com/in/adama.diallo</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT24972">
+            <identifiant>
+                <nom>SENE</nom>
+                <prenom>MAGUETTE</prenom>
+                <nom_complet>MAGUETTE SENE</nom_complet>
+                <date_naissance>1970-01-16</date_naissance>
+                <lieu_naissance>Mbour</lieu_naissance>
+            </identifiant>
+            <parti>Andu Nawle</parti>
+            <profession>Administrateur civil</profession>
+            <contact>
+                <email>maguette.sene@assemblee.sn</email>
+                <telephone>771000003</telephone>
+                <adresse_bureau>Batiment C Bureau 4</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@maguette_sene</twitter>
+                    <facebook>facebook.com/maguette.sene</facebook>
+                    <linkedin>linkedin.com/in/maguette.sene</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT51411">
+            <identifiant>
+                <nom>ANNE</nom>
+                <prenom>CHEIKH OUMAR</prenom>
+                <nom_complet>CHEIKH OUMAR ANNE</nom_complet>
+                <date_naissance>1960-02-21</date_naissance>
+                <lieu_naissance>Thiès</lieu_naissance>
+            </identifiant>
+            <parti>Diam Ak Njarin</parti>
+            <profession>Ensegnant Chercheur</profession>
+            <contact>
+                <email>cheikhoumar.anne@assemblee.sn</email>
+                <telephone>771000004</telephone>
+                <adresse_bureau>Batiment C Bureau 5</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@cheikh oumar_anne</twitter>
+                    <facebook>facebook.com/cheikh oumar.anne</facebook>
+                    <linkedin>linkedin.com/in/cheikh oumar.anne</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT60292">
+            <identifiant>
+                <nom>BA N°1</nom>
+                <prenom>AMADOU</prenom>
+                <nom_complet>AMADOU BA N°1</nom_complet>
+                <date_naissance>1961-05-17</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Diam Ak Njarin</parti>
+            <profession>Inspeceur des impots</profession>
+            <contact>
+                <email>amadou.ba1@assemblee.sn</email>
+                <telephone>771000005</telephone>
+                <adresse_bureau>Batiment A Bureau 6</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@amadou_ba n°1</twitter>
+                    <facebook>facebook.com/amadou.ba n°1</facebook>
+                    <linkedin>linkedin.com/in/amadou.ba n°1</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT29279">
+            <identifiant>
+                <nom>CAMARA</nom>
+                <prenom>ROKHAYA</prenom>
+                <nom_complet>ROKHAYA CAMARA</nom_complet>
+                <date_naissance>1960-10-10</date_naissance>
+                <lieu_naissance>DAKAR</lieu_naissance>
+            </identifiant>
+            <parti>Diam Ak Njarin</parti>
+            <profession>Assistante</profession>
+            <contact>
+                <email>rokhaya.camara@assemblee.sn</email>
+                <telephone>771000006</telephone>
+                <adresse_bureau>Batiment C Bureau 7</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@rokhaya_camara</twitter>
+                    <facebook>facebook.com/rokhaya.camara</facebook>
+                    <linkedin>linkedin.com/in/rokhaya.camara</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT28358">
+            <identifiant>
+                <nom>DIONE</nom>
+                <prenom>MBAYE</prenom>
+                <nom_complet>MBAYE DIONE</nom_complet>
+                <date_naissance>1972-08-04</date_naissance>
+                <lieu_naissance>Ngoodiome</lieu_naissance>
+            </identifiant>
+            <parti>Diam Ak Njarin</parti>
+            <profession>Banquier</profession>
+            <contact>
+                <email>mbaye.dione@assemblee.sn</email>
+                <telephone>771000007</telephone>
+                <adresse_bureau>Batiment D Bureau 8</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mbaye_dione</twitter>
+                    <facebook>facebook.com/mbaye.dione</facebook>
+                    <linkedin>linkedin.com/in/mbaye.dione</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT52310">
+            <identifiant>
+                <nom>DIOP</nom>
+                <prenom>SALIMATA</prenom>
+                <nom_complet>SALIMATA DIOP</nom_complet>
+                <date_naissance>1955-09-30</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Diam Ak Njarin</parti>
+            <profession>Electrotechnicienne</profession>
+            <contact>
+                <email>salimata.diop@assemblee.sn</email>
+                <telephone>771000008</telephone>
+                <adresse_bureau>Batiment B Bureau 9</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@salimata_diop</twitter>
+                    <facebook>facebook.com/salimata.diop</facebook>
+                    <linkedin>linkedin.com/in/salimata.diop</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT55243">
+            <identifiant>
+                <nom>KANE</nom>
+                <prenom>NAFI</prenom>
+                <nom_complet>NAFI KANE</nom_complet>
+                <date_naissance>1976-06-09</date_naissance>
+                <lieu_naissance>Mbolo Birane</lieu_naissance>
+            </identifiant>
+            <parti>Diam Ak Njarin</parti>
+            <profession>Institutrice</profession>
+            <contact>
+                <email>nafi.kane@assemblee.sn</email>
+                <telephone>771000009</telephone>
+                <adresse_bureau>Batiment C Bureau 10</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@nafi_kane</twitter>
+                    <facebook>facebook.com/nafi.kane</facebook>
+                    <linkedin>linkedin.com/in/nafi.kane</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT99232">
+            <identifiant>
+                <nom>SARR</nom>
+                <prenom>MOUSSA HAMADY</prenom>
+                <nom_complet>MOUSSA HAMADY SARR</nom_complet>
+                <date_naissance>1981-05-20</date_naissance>
+                <lieu_naissance>Walaldé</lieu_naissance>
+            </identifiant>
+            <parti>Diam Ak Njarin</parti>
+            <profession>Gestionnaire</profession>
+            <contact>
+                <email>moussaamady.sarr@assemblee.sn</email>
+                <telephone>771000010</telephone>
+                <adresse_bureau>Batiment A Bureau 11</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@moussa hamady_sarr</twitter>
+                    <facebook>facebook.com/moussa hamady.sarr</facebook>
+                    <linkedin>linkedin.com/in/moussa hamady.sarr</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT13268">
+            <identifiant>
+                <nom>DIOP</nom>
+                <prenom>MOUSTAPHA</prenom>
+                <nom_complet>MOUSTAPHA DIOP</nom_complet>
+                <date_naissance>1979-10-25</date_naissance>
+                <lieu_naissance>Ngoundioura</lieu_naissance>
+            </identifiant>
+            <parti>Farlu</parti>
+            <profession>Analyste financier</profession>
+            <contact>
+                <email>moustapha.diop@assemblee.sn</email>
+                <telephone>771000011</telephone>
+                <adresse_bureau>Batiment C Bureau 12</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@moustapha_diop</twitter>
+                    <facebook>facebook.com/moustapha.diop</facebook>
+                    <linkedin>linkedin.com/in/moustapha.diop</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT72059">
+            <identifiant>
+                <nom>MANGARA</nom>
+                <prenom>BIRIMA</prenom>
+                <nom_complet>BIRIMA MANGARA</nom_complet>
+                <date_naissance>1963-06-08</date_naissance>
+                <lieu_naissance>Keur Samba Kane</lieu_naissance>
+            </identifiant>
+            <parti>Kiraay Ak Natangue</parti>
+            <profession>Fonctionnaire</profession>
+            <contact>
+                <email>birima.mangara@assemblee.sn</email>
+                <telephone>771000012</telephone>
+                <adresse_bureau>Batiment C Bureau 13</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@birima_mangara</twitter>
+                    <facebook>facebook.com/birima.mangara</facebook>
+                    <linkedin>linkedin.com/in/birima.mangara</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT52387">
+            <identifiant>
+                <nom>SARR</nom>
+                <prenom>PAPA TAHIROU</prenom>
+                <nom_complet>PAPA TAHIROU SARR</nom_complet>
+                <date_naissance>1985-09-27</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Les Nationalistes</parti>
+            <profession>Consultant</profession>
+            <contact>
+                <email>papatahirou.sarr@assemblee.sn</email>
+                <telephone>771000013</telephone>
+                <adresse_bureau>Batiment D Bureau 14</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@papa tahirou_sarr</twitter>
+                    <facebook>facebook.com/papa tahirou.sarr</facebook>
+                    <linkedin>linkedin.com/in/papa tahirou.sarr</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT87972">
+            <identifiant>
+                <nom>BA</nom>
+                <prenom>DIARAYE</prenom>
+                <nom_complet>DIARAYE BA</nom_complet>
+                <date_naissance>1995-07-14</date_naissance>
+                <lieu_naissance>Kibassa</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>diaraye.ba@assemblee.sn</email>
+                <telephone>771000014</telephone>
+                <adresse_bureau>Batiment D Bureau 15</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@diaraye_ba</twitter>
+                    <facebook>facebook.com/diaraye.ba</facebook>
+                    <linkedin>linkedin.com/in/diaraye.ba</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT02461">
+            <identifiant>
+                <nom>BA</nom>
+                <prenom>FATOU</prenom>
+                <nom_complet>FATOU BA</nom_complet>
+                <date_naissance>1980-05-06</date_naissance>
+                <lieu_naissance>FOROU PEULH</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Operatrice Economique</profession>
+            <contact>
+                <email>fatou.ba@assemblee.sn</email>
+                <telephone>771000015</telephone>
+                <adresse_bureau>Batiment A Bureau 16</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@fatou_ba</twitter>
+                    <facebook>facebook.com/fatou.ba</facebook>
+                    <linkedin>linkedin.com/in/fatou.ba</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT27935">
+            <identifiant>
+                <nom>BA</nom>
+                <prenom>FAMA</prenom>
+                <nom_complet>FAMA BA</nom_complet>
+                <date_naissance>1978-10-22</date_naissance>
+                <lieu_naissance>GAE</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Professeur</profession>
+            <contact>
+                <email>fama.ba@assemblee.sn</email>
+                <telephone>771000016</telephone>
+                <adresse_bureau>Batiment D Bureau 17</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@fama_ba</twitter>
+                    <facebook>facebook.com/fama.ba</facebook>
+                    <linkedin>linkedin.com/in/fama.ba</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT82798">
+            <identifiant>
+                <nom>BABY</nom>
+                <prenom>BOYE</prenom>
+                <nom_complet>BOYE BABY</nom_complet>
+                <date_naissance>1990-11-12</date_naissance>
+                <lieu_naissance>BAKEL</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Ménagère</profession>
+            <contact>
+                <email>boye.baby@assemblee.sn</email>
+                <telephone>771000017</telephone>
+                <adresse_bureau>Batiment C Bureau 18</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@boye_baby</twitter>
+                    <facebook>facebook.com/boye.baby</facebook>
+                    <linkedin>linkedin.com/in/boye.baby</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT78690">
+            <identifiant>
+                <nom>BALDE</nom>
+                <prenom>YOBA</prenom>
+                <nom_complet>YOBA BALDE</nom_complet>
+                <date_naissance>1987-01-10</date_naissance>
+                <lieu_naissance>SANTOULOU</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>yoba.balde@assemblee.sn</email>
+                <telephone>771000018</telephone>
+                <adresse_bureau>Batiment A Bureau 19</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@yoba_balde</twitter>
+                    <facebook>facebook.com/yoba.balde</facebook>
+                    <linkedin>linkedin.com/in/yoba.balde</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT68006">
+            <identifiant>
+                <nom>BAYO</nom>
+                <prenom>HOLEMATA</prenom>
+                <nom_complet>HOLEMATA BAYO</nom_complet>
+                <date_naissance>1961-04-25</date_naissance>
+                <lieu_naissance>DIANNAH MALARI</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Comptable</profession>
+            <contact>
+                <email>holemata.bayo@assemblee.sn</email>
+                <telephone>771000019</telephone>
+                <adresse_bureau>Batiment B Bureau 20</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@holemata_bayo</twitter>
+                    <facebook>facebook.com/holemata.bayo</facebook>
+                    <linkedin>linkedin.com/in/holemata.bayo</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT11998">
+            <identifiant>
+                <nom>BEYE</nom>
+                <prenom>MAME DIARRA</prenom>
+                <nom_complet>MAME DIARRA BEYE</nom_complet>
+                <date_naissance>1988-04-02</date_naissance>
+                <lieu_naissance>THIAROYE SUR MER</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Economiste</profession>
+            <contact>
+                <email>mamediarra.beye@assemblee.sn</email>
+                <telephone>771000020</telephone>
+                <adresse_bureau>Batiment A Bureau 21</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mame diarra_beye</twitter>
+                    <facebook>facebook.com/mame diarra.beye</facebook>
+                    <linkedin>linkedin.com/in/mame diarra.beye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT85194">
+            <identifiant>
+                <nom>BODIAN</nom>
+                <prenom>RAMATOULAYE</prenom>
+                <nom_complet>RAMATOULAYE BODIAN</nom_complet>
+                <date_naissance>1977-01-27</date_naissance>
+                <lieu_naissance>ZIGUINCHOR</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Secrétaire</profession>
+            <contact>
+                <email>ramatoulaye.bodian@assemblee.sn</email>
+                <telephone>771000021</telephone>
+                <adresse_bureau>Batiment D Bureau 22</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ramatoulaye_bodian</twitter>
+                    <facebook>facebook.com/ramatoulaye.bodian</facebook>
+                    <linkedin>linkedin.com/in/ramatoulaye.bodian</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT41632">
+            <identifiant>
+                <nom>Bousso</nom>
+                <prenom>Maimouna</prenom>
+                <nom_complet>Maimouna Bousso</nom_complet>
+                <date_naissance>1980-03-17</date_naissance>
+                <lieu_naissance>KHOUMA</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Gestionnaire de société</profession>
+            <contact>
+                <email>bousso.maimouna@assemblee.sn</email>
+                <telephone>771000022</telephone>
+                <adresse_bureau>Batiment B Bureau 23</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@maimouna_bousso</twitter>
+                    <facebook>facebook.com/maimouna.bousso</facebook>
+                    <linkedin>linkedin.com/in/maimouna.bousso</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT03573">
+            <identifiant>
+                <nom>CISS</nom>
+                <prenom>OUSMANE</prenom>
+                <nom_complet>OUSMANE CISS</nom_complet>
+                <date_naissance>1986-12-28</date_naissance>
+                <lieu_naissance>TIVAOUANE</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>ousmane.ciss@assemblee.sn</email>
+                <telephone>771000023</telephone>
+                <adresse_bureau>Batiment A Bureau 24</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ousmane_ciss</twitter>
+                    <facebook>facebook.com/ousmane.ciss</facebook>
+                    <linkedin>linkedin.com/in/ousmane.ciss</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT24421">
+            <identifiant>
+                <nom>CISS</nom>
+                <prenom>DJIBY</prenom>
+                <nom_complet>DJIBY CISS</nom_complet>
+                <date_naissance>1980-12-18</date_naissance>
+                <lieu_naissance>TOGLOU SERERE</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Entrepreneur</profession>
+            <contact>
+                <email>djiby.ciss@assemblee.sn</email>
+                <telephone>771000024</telephone>
+                <adresse_bureau>Batiment D Bureau 25</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@djiby_ciss</twitter>
+                    <facebook>facebook.com/djiby.ciss</facebook>
+                    <linkedin>linkedin.com/in/djiby.ciss</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT90505">
+            <identifiant>
+                <nom>CISSE</nom>
+                <prenom>FATOU DIOP</prenom>
+                <nom_complet>FATOU DIOP CISSE</nom_complet>
+                <date_naissance>1979-12-22</date_naissance>
+                <lieu_naissance>DAKAR</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>DRH</profession>
+            <contact>
+                <email>fatoudiop.cisse@assemblee.sn</email>
+                <telephone>771000025</telephone>
+                <adresse_bureau>Batiment A Bureau 26</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@fatou diop_cisse</twitter>
+                    <facebook>facebook.com/fatou diop.cisse</facebook>
+                    <linkedin>linkedin.com/in/fatou diop.cisse</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT28510">
+            <identifiant>
+                <nom>CISSE</nom>
+                <prenom>SAYE</prenom>
+                <nom_complet>SAYE CISSE</nom_complet>
+                <date_naissance>1989-06-04</date_naissance>
+                <lieu_naissance>BAKEL</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>saye.cisse@assemblee.sn</email>
+                <telephone>771000026</telephone>
+                <adresse_bureau>Batiment B Bureau 27</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@saye_cisse</twitter>
+                    <facebook>facebook.com/saye.cisse</facebook>
+                    <linkedin>linkedin.com/in/saye.cisse</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT16407">
+            <identifiant>
+                <nom>CISSOKO</nom>
+                <prenom>YOUNOUSSA</prenom>
+                <nom_complet>YOUNOUSSA CISSOKO</nom_complet>
+                <date_naissance>1979-11-22</date_naissance>
+                <lieu_naissance>DAKAR</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Entrepreneur</profession>
+            <contact>
+                <email>younoussa.cissokho@assemblee.sn</email>
+                <telephone>771000027</telephone>
+                <adresse_bureau>Batiment B Bureau 28</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@younoussa_cissoko</twitter>
+                    <facebook>facebook.com/younoussa.cissoko</facebook>
+                    <linkedin>linkedin.com/in/younoussa.cissoko</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT41027">
+            <identifiant>
+                <nom>COLY</nom>
+                <prenom>MARIAMA</prenom>
+                <nom_complet>MARIAMA COLY</nom_complet>
+                <date_naissance>1968-11-10</date_naissance>
+                <lieu_naissance>Dianké</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçante</profession>
+            <contact>
+                <email>mariama.coly@assemblee.sn</email>
+                <telephone>771000028</telephone>
+                <adresse_bureau>Batiment D Bureau 29</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mariama_coly</twitter>
+                    <facebook>facebook.com/mariama.coly</facebook>
+                    <linkedin>linkedin.com/in/mariama.coly</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT11247">
+            <identifiant>
+                <nom>DABO</nom>
+                <prenom>AMY</prenom>
+                <nom_complet>AMY DABO</nom_complet>
+                <date_naissance>1975-06-06</date_naissance>
+                <lieu_naissance>BALANLIR</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>amy.dabo@assemblee.sn</email>
+                <telephone>771000029</telephone>
+                <adresse_bureau>Batiment C Bureau 30</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@amy_dabo</twitter>
+                    <facebook>facebook.com/amy.dabo</facebook>
+                    <linkedin>linkedin.com/in/amy.dabo</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT73917">
+            <identifiant>
+                <nom>DAFFE</nom>
+                <prenom>MOHAMED AYIB SALIM</prenom>
+                <nom_complet>MOHAMED AYIB SALIM DAFFE</nom_complet>
+                <date_naissance>1977-08-04</date_naissance>
+                <lieu_naissance>DAKAR</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Juriste</profession>
+            <contact>
+                <email>ayib.daffe@assemblee.sn</email>
+                <telephone>771000030</telephone>
+                <adresse_bureau>Batiment B Bureau 31</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mohamed ayib salim_daffe</twitter>
+                    <facebook>facebook.com/mohamed ayib salim.daffe</facebook>
+                    <linkedin>linkedin.com/in/mohamed ayib salim.daffe</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT29623">
+            <identifiant>
+                <nom>DANFA</nom>
+                <prenom>INSA</prenom>
+                <nom_complet>INSA DANFA</nom_complet>
+                <date_naissance>1980-09-02</date_naissance>
+                <lieu_naissance>DIAROUME</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commercial</profession>
+            <contact>
+                <email>insa.danfa@assemblee.sn</email>
+                <telephone>771000031</telephone>
+                <adresse_bureau>Batiment A Bureau 32</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@insa_danfa</twitter>
+                    <facebook>facebook.com/insa.danfa</facebook>
+                    <linkedin>linkedin.com/in/insa.danfa</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT13801">
+            <identifiant>
+                <nom>DANFAKHA</nom>
+                <prenom>MADY</prenom>
+                <nom_complet>MADY DANFAKHA</nom_complet>
+                <date_naissance>1987-06-18</date_naissance>
+                <lieu_naissance>TAMBACOUNDA</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Agent de Recouvrement des Impots et Domaines</profession>
+            <contact>
+                <email>mady.danfakha@assemblee.sn</email>
+                <telephone>771000032</telephone>
+                <adresse_bureau>Batiment D Bureau 33</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mady_danfakha</twitter>
+                    <facebook>facebook.com/mady.danfakha</facebook>
+                    <linkedin>linkedin.com/in/mady.danfakha</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT49602">
+            <identifiant>
+                <nom>DANG</nom>
+                <prenom>SAMBA</prenom>
+                <nom_complet>SAMBA DANG</nom_complet>
+                <date_naissance>1982-04-08</date_naissance>
+                <lieu_naissance>BIRKELANE</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Professeur</profession>
+            <contact>
+                <email>samba.dang@assemblee.sn</email>
+                <telephone>771000033</telephone>
+                <adresse_bureau>Batiment B Bureau 34</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@samba_dang</twitter>
+                    <facebook>facebook.com/samba.dang</facebook>
+                    <linkedin>linkedin.com/in/samba.dang</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT48566">
+            <identifiant>
+                <nom>DARY</nom>
+                <prenom>MAME MARIAMA</prenom>
+                <nom_complet>MAME MARIAMA DARY</nom_complet>
+                <date_naissance>1981-08-30</date_naissance>
+                <lieu_naissance>DAKAR</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Logisticienne</profession>
+            <contact>
+                <email>mariama.dary@assemblee.sn</email>
+                <telephone>771000034</telephone>
+                <adresse_bureau>Batiment D Bureau 35</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mame mariama_dary</twitter>
+                    <facebook>facebook.com/mame mariama.dary</facebook>
+                    <linkedin>linkedin.com/in/mame mariama.dary</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT76411">
+            <identifiant>
+                <nom>DIA</nom>
+                <prenom>AMADOU</prenom>
+                <nom_complet>AMADOU DIA</nom_complet>
+                <date_naissance>1974-07-18</date_naissance>
+                <lieu_naissance>Pout</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Professeur d’anglais (PEN 4/2)</profession>
+            <contact>
+                <email>amadou.dia@assemblee.sn</email>
+                <telephone>771000035</telephone>
+                <adresse_bureau>Batiment A Bureau 36</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@amadou_dia</twitter>
+                    <facebook>facebook.com/amadou.dia</facebook>
+                    <linkedin>linkedin.com/in/amadou.dia</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT82577">
+            <identifiant>
+                <nom>DIA</nom>
+                <prenom>AMY</prenom>
+                <nom_complet>AMY DIA</nom_complet>
+                <date_naissance>1969-04-25</date_naissance>
+                <lieu_naissance>DAKAR</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>ménagère</profession>
+            <contact>
+                <email>amy.dia@assemblee.sn</email>
+                <telephone>771000036</telephone>
+                <adresse_bureau>Batiment C Bureau 37</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@amy_dia</twitter>
+                    <facebook>facebook.com/amy.dia</facebook>
+                    <linkedin>linkedin.com/in/amy.dia</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT36602">
+            <identifiant>
+                <nom>DIA</nom>
+                <prenom>ANTA</prenom>
+                <nom_complet>ANTA DIA</nom_complet>
+                <date_naissance>1965-08-14</date_naissance>
+                <lieu_naissance>DAKAR</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçante</profession>
+            <contact>
+                <email>anta.dia@assemblee.sn</email>
+                <telephone>771000037</telephone>
+                <adresse_bureau>Batiment B Bureau 38</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@anta_dia</twitter>
+                    <facebook>facebook.com/anta.dia</facebook>
+                    <linkedin>linkedin.com/in/anta.dia</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT87454">
+            <identifiant>
+                <nom>DIABY</nom>
+                <prenom>AMDIATTA</prenom>
+                <nom_complet>AMDIATTA DIABY</nom_complet>
+                <date_naissance>1987-11-04</date_naissance>
+                <lieu_naissance>KHOSSANTO</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>amdiatta.diaby@assemblee.sn</email>
+                <telephone>771000038</telephone>
+                <adresse_bureau>Batiment B Bureau 39</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@amdiatta_diaby</twitter>
+                    <facebook>facebook.com/amdiatta.diaby</facebook>
+                    <linkedin>linkedin.com/in/amdiatta.diaby</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT21195">
+            <identifiant>
+                <nom>Diagne</nom>
+                <prenom>Alioune Badara</prenom>
+                <nom_complet>Alioune Badara Diagne</nom_complet>
+                <date_naissance>1980-02-29</date_naissance>
+                <lieu_naissance>Kaolack</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Comptable</profession>
+            <contact>
+                <email>aliounebadara.diagne@assemblee.sn</email>
+                <telephone>771000039</telephone>
+                <adresse_bureau>Batiment C Bureau 40</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@alioune badara_diagne</twitter>
+                    <facebook>facebook.com/alioune badara.diagne</facebook>
+                    <linkedin>linkedin.com/in/alioune badara.diagne</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT69925">
+            <identifiant>
+                <nom>DIAITE</nom>
+                <prenom>MAMADOU LAMINE</prenom>
+                <nom_complet>MAMADOU LAMINE DIAITE</nom_complet>
+                <date_naissance>1975-09-29</date_naissance>
+                <lieu_naissance>ZIGUINCHOR</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Dentiste</profession>
+            <contact>
+                <email>mamadoulamine.diaite@assemblee.sn</email>
+                <telephone>771000040</telephone>
+                <adresse_bureau>Batiment A Bureau 41</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mamadou lamine_diaite</twitter>
+                    <facebook>facebook.com/mamadou lamine.diaite</facebook>
+                    <linkedin>linkedin.com/in/mamadou lamine.diaite</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT92279">
+            <identifiant>
+                <nom>DIAKITE</nom>
+                <prenom>MOURAMANI KABA</prenom>
+                <nom_complet>MOURAMANI KABA DIAKITE</nom_complet>
+                <date_naissance>1973-07-12</date_naissance>
+                <lieu_naissance>TAMBACOUNDA</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Opérateur Economique</profession>
+            <contact>
+                <email>mouramanikaba.diakite@assemblee.sn</email>
+                <telephone>771000041</telephone>
+                <adresse_bureau>Batiment C Bureau 42</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mouramani kaba_diakite</twitter>
+                    <facebook>facebook.com/mouramani kaba.diakite</facebook>
+                    <linkedin>linkedin.com/in/mouramani kaba.diakite</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT36610">
+            <identifiant>
+                <nom>DIALLO</nom>
+                <prenom>ISMAILA</prenom>
+                <nom_complet>ISMAILA DIALLO</nom_complet>
+                <date_naissance>1979-05-18</date_naissance>
+                <lieu_naissance>KOUNKANE</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Pharmacien</profession>
+            <contact>
+                <email>ismaila.diallo@assemblee.sn</email>
+                <telephone>771000042</telephone>
+                <adresse_bureau>Batiment A Bureau 43</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ismaila_diallo</twitter>
+                    <facebook>facebook.com/ismaila.diallo</facebook>
+                    <linkedin>linkedin.com/in/ismaila.diallo</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT66823">
+            <identifiant>
+                <nom>DIALLO N°2</nom>
+                <prenom>AMADOU</prenom>
+                <nom_complet>AMADOU DIALLO N°2</nom_complet>
+                <date_naissance>1972-12-24</date_naissance>
+                <lieu_naissance>DAKAR</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Entrepreneur</profession>
+            <contact>
+                <email>amadou.diallo2@assemblee.sn</email>
+                <telephone>771000043</telephone>
+                <adresse_bureau>Batiment C Bureau 44</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@amadou_diallo n°2</twitter>
+                    <facebook>facebook.com/amadou.diallo n°2</facebook>
+                    <linkedin>linkedin.com/in/amadou.diallo n°2</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT75100">
+            <identifiant>
+                <nom>DIAMANKA</nom>
+                <prenom>MARIEME</prenom>
+                <nom_complet>MARIEME DIAMANKA</nom_complet>
+                <date_naissance>1989-12-29</date_naissance>
+                <lieu_naissance>Richard Toll</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Urbaniste</profession>
+            <contact>
+                <email>marieme.diamanka@assemblee.sn</email>
+                <telephone>771000044</telephone>
+                <adresse_bureau>Batiment A Bureau 45</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@marieme_diamanka</twitter>
+                    <facebook>facebook.com/marieme.diamanka</facebook>
+                    <linkedin>linkedin.com/in/marieme.diamanka</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT56803">
+            <identifiant>
+                <nom>DIAW</nom>
+                <prenom>DIOGOMAYE</prenom>
+                <nom_complet>DIOGOMAYE DIAW</nom_complet>
+                <date_naissance>1985-08-05</date_naissance>
+                <lieu_naissance>Sadio</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Electricien</profession>
+            <contact>
+                <email>diogomaye.diaw@assemblee.sn</email>
+                <telephone>771000045</telephone>
+                <adresse_bureau>Batiment A Bureau 46</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@diogomaye_diaw</twitter>
+                    <facebook>facebook.com/diogomaye.diaw</facebook>
+                    <linkedin>linkedin.com/in/diogomaye.diaw</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT41200">
+            <identifiant>
+                <nom>DICKO</nom>
+                <prenom>CHERIF AHMED</prenom>
+                <nom_complet>CHERIF AHMED DICKO</nom_complet>
+                <date_naissance>1974-05-22</date_naissance>
+                <lieu_naissance>Ziguinchor</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>cherifahmed.dicko@assemblee.sn</email>
+                <telephone>771000046</telephone>
+                <adresse_bureau>Batiment C Bureau 47</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@cherif ahmed_dicko</twitter>
+                    <facebook>facebook.com/cherif ahmed.dicko</facebook>
+                    <linkedin>linkedin.com/in/cherif ahmed.dicko</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT25336">
+            <identifiant>
+                <nom>DIEDHIOU</nom>
+                <prenom>BACARY</prenom>
+                <nom_complet>BACARY DIEDHIOU</nom_complet>
+                <date_naissance>1974-07-08</date_naissance>
+                <lieu_naissance>Mandigane</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Inspecteur de l'éducation</profession>
+            <contact>
+                <email>bacary.diedhiou@assemblee.sn</email>
+                <telephone>771000047</telephone>
+                <adresse_bureau>Batiment A Bureau 48</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@bacary_diedhiou</twitter>
+                    <facebook>facebook.com/bacary.diedhiou</facebook>
+                    <linkedin>linkedin.com/in/bacary.diedhiou</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT78561">
+            <identifiant>
+                <nom>DIENG</nom>
+                <prenom>ANTHIA</prenom>
+                <nom_complet>ANTHIA DIENG</nom_complet>
+                <date_naissance>1980-01-01</date_naissance>
+                <lieu_naissance>Médina Sabakh</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçante</profession>
+            <contact>
+                <email>anthia.dieng@assemblee.sn</email>
+                <telephone>771000048</telephone>
+                <adresse_bureau>Batiment D Bureau 49</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@anthia_dieng</twitter>
+                    <facebook>facebook.com/anthia.dieng</facebook>
+                    <linkedin>linkedin.com/in/anthia.dieng</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT72110">
+            <identifiant>
+                <nom>DIENG</nom>
+                <prenom>MAIMOUNA</prenom>
+                <nom_complet>MAIMOUNA DIENG</nom_complet>
+                <date_naissance>1977-10-03</date_naissance>
+                <lieu_naissance>Kaffrine</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>maimouna.dieng@assemblee.sn</email>
+                <telephone>771000049</telephone>
+                <adresse_bureau>Batiment B Bureau 50</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@maimouna_dieng</twitter>
+                    <facebook>facebook.com/maimouna.dieng</facebook>
+                    <linkedin>linkedin.com/in/maimouna.dieng</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT84988">
+            <identifiant>
+                <nom>DIENG</nom>
+                <prenom>MASSAMBA</prenom>
+                <nom_complet>MASSAMBA DIENG</nom_complet>
+                <date_naissance>1982-01-02</date_naissance>
+                <lieu_naissance>Nioro du Rip</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Professeur</profession>
+            <contact>
+                <email>massamba.dieng@assemblee.sn</email>
+                <telephone>771000050</telephone>
+                <adresse_bureau>Batiment D Bureau 51</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@massamba_dieng</twitter>
+                    <facebook>facebook.com/massamba.dieng</facebook>
+                    <linkedin>linkedin.com/in/massamba.dieng</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT07189">
+            <identifiant>
+                <nom>DIENG</nom>
+                <prenom>NDEYE AWA</prenom>
+                <nom_complet>NDEYE AWA DIENG</nom_complet>
+                <date_naissance>1996-06-18</date_naissance>
+                <lieu_naissance>Médina Ndiengliene</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Transitaire</profession>
+            <contact>
+                <email>ndeyeawa.dieng@assemblee.sn</email>
+                <telephone>771000051</telephone>
+                <adresse_bureau>Batiment B Bureau 52</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ndeye awa_dieng</twitter>
+                    <facebook>facebook.com/ndeye awa.dieng</facebook>
+                    <linkedin>linkedin.com/in/ndeye awa.dieng</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT08730">
+            <identifiant>
+                <nom>DIEYE</nom>
+                <prenom>ALIOUNE</prenom>
+                <nom_complet>ALIOUNE DIEYE</nom_complet>
+                <date_naissance>1976-09-10</date_naissance>
+                <lieu_naissance>Mpal</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçant</profession>
+            <contact>
+                <email>alioune.dieye@assemblee.sn</email>
+                <telephone>771000052</telephone>
+                <adresse_bureau>Batiment B Bureau 53</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@alioune_dieye</twitter>
+                    <facebook>facebook.com/alioune.dieye</facebook>
+                    <linkedin>linkedin.com/in/alioune.dieye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT98421">
+            <identifiant>
+                <nom>DIONE</nom>
+                <prenom>AWA</prenom>
+                <nom_complet>AWA DIONE</nom_complet>
+                <date_naissance>1977-10-16</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Opératrice économique</profession>
+            <contact>
+                <email>awa.dione@assemblee.sn</email>
+                <telephone>771000053</telephone>
+                <adresse_bureau>Batiment D Bureau 54</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@awa_dione</twitter>
+                    <facebook>facebook.com/awa.dione</facebook>
+                    <linkedin>linkedin.com/in/awa.dione</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT32626">
+            <identifiant>
+                <nom>DIONE</nom>
+                <prenom>YOUNGARE</prenom>
+                <nom_complet>YOUNGARE DIONE</nom_complet>
+                <date_naissance>1983-10-02</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Clerc huissier</profession>
+            <contact>
+                <email>youngare.dione@assemblee.sn</email>
+                <telephone>771000054</telephone>
+                <adresse_bureau>Batiment B Bureau 55</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@youngare_dione</twitter>
+                    <facebook>facebook.com/youngare.dione</facebook>
+                    <linkedin>linkedin.com/in/youngare.dione</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT09637">
+            <identifiant>
+                <nom>DIOP</nom>
+                <prenom>OUMAR</prenom>
+                <nom_complet>OUMAR DIOP</nom_complet>
+                <date_naissance>1980-10-18</date_naissance>
+                <lieu_naissance>Darou Mousty</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Opérateur économique</profession>
+            <contact>
+                <email>oumar.diop@assemblee.sn</email>
+                <telephone>771000055</telephone>
+                <adresse_bureau>Batiment D Bureau 56</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@oumar_diop</twitter>
+                    <facebook>facebook.com/oumar.diop</facebook>
+                    <linkedin>linkedin.com/in/oumar.diop</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT05830">
+            <identifiant>
+                <nom>DIOP</nom>
+                <prenom>ASSANE</prenom>
+                <nom_complet>ASSANE DIOP</nom_complet>
+                <date_naissance>1974-09-20</date_naissance>
+                <lieu_naissance>Pire</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>assane.diop@assemblee.sn</email>
+                <telephone>771000056</telephone>
+                <adresse_bureau>Batiment A Bureau 57</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@assane_diop</twitter>
+                    <facebook>facebook.com/assane.diop</facebook>
+                    <linkedin>linkedin.com/in/assane.diop</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT84747">
+            <identifiant>
+                <nom>DIOP</nom>
+                <prenom>ELHADJI</prenom>
+                <nom_complet>ELHADJI DIOP</nom_complet>
+                <date_naissance>1992-11-14</date_naissance>
+                <lieu_naissance>Sagna</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>elhadj.diop@assemblee.sn</email>
+                <telephone>771000057</telephone>
+                <adresse_bureau>Batiment A Bureau 58</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@elhadji_diop</twitter>
+                    <facebook>facebook.com/elhadji.diop</facebook>
+                    <linkedin>linkedin.com/in/elhadji.diop</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT43844">
+            <identifiant>
+                <nom>DIOP</nom>
+                <prenom>OUSMANE</prenom>
+                <nom_complet>OUSMANE DIOP</nom_complet>
+                <date_naissance>1979-01-18</date_naissance>
+                <lieu_naissance>Kébémer</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>ousmane.diop@assemblee.sn</email>
+                <telephone>771000058</telephone>
+                <adresse_bureau>Batiment A Bureau 59</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ousmane_diop</twitter>
+                    <facebook>facebook.com/ousmane.diop</facebook>
+                    <linkedin>linkedin.com/in/ousmane.diop</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT04300">
+            <identifiant>
+                <nom>DIOUF</nom>
+                <prenom>MARIE ANGE MAME SELBE</prenom>
+                <nom_complet>MARIE ANGE MAME SELBE DIOUF</nom_complet>
+                <date_naissance>1976-03-16</date_naissance>
+                <lieu_naissance>Joal Fadiouth</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>marieange.diouf@assemblee.sn</email>
+                <telephone>771000059</telephone>
+                <adresse_bureau>Batiment D Bureau 60</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@marie ange mame selbe_diouf</twitter>
+                    <facebook>facebook.com/marie ange mame selbe.diouf</facebook>
+                    <linkedin>linkedin.com/in/marie ange mame selbe.diouf</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT04379">
+            <identifiant>
+                <nom>DIOUF</nom>
+                <prenom>SAMBA</prenom>
+                <nom_complet>SAMBA DIOUF</nom_complet>
+                <date_naissance>1974-11-15</date_naissance>
+                <lieu_naissance>Ziguinchor</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Consultant</profession>
+            <contact>
+                <email>samba.diouf@assemblee.sn</email>
+                <telephone>771000060</telephone>
+                <adresse_bureau>Batiment A Bureau 61</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@samba_diouf</twitter>
+                    <facebook>facebook.com/samba.diouf</facebook>
+                    <linkedin>linkedin.com/in/samba.diouf</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT55600">
+            <identifiant>
+                <nom>DIOUF</nom>
+                <prenom>MARIE HELENE NDOFENE</prenom>
+                <nom_complet>MARIE HELENE NDOFENE DIOUF</nom_complet>
+                <date_naissance>1981-12-18</date_naissance>
+                <lieu_naissance>Pikine</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçante</profession>
+            <contact>
+                <email>mariehelene.diouf@assemblee.sn</email>
+                <telephone>771000061</telephone>
+                <adresse_bureau>Batiment C Bureau 62</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@marie helene ndofene_diouf</twitter>
+                    <facebook>facebook.com/marie helene ndofene.diouf</facebook>
+                    <linkedin>linkedin.com/in/marie helene ndofene.diouf</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT82538">
+            <identifiant>
+                <nom>DIOUF</nom>
+                <prenom>ABDOURAHMANE</prenom>
+                <nom_complet>ABDOURAHMANE DIOUF</nom_complet>
+                <date_naissance>1977-03-06</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Assistant manager</profession>
+            <contact>
+                <email>abdourahmane.diouf@assemblee.sn</email>
+                <telephone>771000062</telephone>
+                <adresse_bureau>Batiment D Bureau 63</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@abdourahmane_diouf</twitter>
+                    <facebook>facebook.com/abdourahmane.diouf</facebook>
+                    <linkedin>linkedin.com/in/abdourahmane.diouf</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT91486">
+            <identifiant>
+                <nom>DIOUF</nom>
+                <prenom>BADARA</prenom>
+                <nom_complet>BADARA DIOUF</nom_complet>
+                <date_naissance>1980-01-10</date_naissance>
+                <lieu_naissance>Gatte</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Administrateur</profession>
+            <contact>
+                <email>badara.diouf@assemblee.sn</email>
+                <telephone>771000063</telephone>
+                <adresse_bureau>Batiment B Bureau 64</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@badara_diouf</twitter>
+                    <facebook>facebook.com/badara.diouf</facebook>
+                    <linkedin>linkedin.com/in/badara.diouf</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT48418">
+            <identifiant>
+                <nom>DIOUF</nom>
+                <prenom>AMADOU LAMINE</prenom>
+                <nom_complet>AMADOU LAMINE DIOUF</nom_complet>
+                <date_naissance>1963-04-19</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Entrepreneur</profession>
+            <contact>
+                <email>amadoulamine.diouf@assemblee.sn</email>
+                <telephone>771000064</telephone>
+                <adresse_bureau>Batiment B Bureau 65</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@amadou lamine_diouf</twitter>
+                    <facebook>facebook.com/amadou lamine.diouf</facebook>
+                    <linkedin>linkedin.com/in/amadou lamine.diouf</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT78743">
+            <identifiant>
+                <nom>DOUCOURE</nom>
+                <prenom>BOULY</prenom>
+                <nom_complet>BOULY DOUCOURE</nom_complet>
+                <date_naissance>1985-01-16</date_naissance>
+                <lieu_naissance>Kéréwane</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Cultivateur</profession>
+            <contact>
+                <email>bouly.doucoure@assemblee.sn</email>
+                <telephone>771000065</telephone>
+                <adresse_bureau>Batiment C Bureau 66</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@bouly_doucoure</twitter>
+                    <facebook>facebook.com/bouly.doucoure</facebook>
+                    <linkedin>linkedin.com/in/bouly.doucoure</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT92530">
+            <identifiant>
+                <nom>FALL</nom>
+                <prenom>ELHADJI OUSMANE</prenom>
+                <nom_complet>ELHADJI OUSMANE FALL</nom_complet>
+                <date_naissance>1977-12-20</date_naissance>
+                <lieu_naissance>Bignona</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>elhadjousmane.fall@assemblee.sn</email>
+                <telephone>771000066</telephone>
+                <adresse_bureau>Batiment A Bureau 67</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@elhadji ousmane_fall</twitter>
+                    <facebook>facebook.com/elhadji ousmane.fall</facebook>
+                    <linkedin>linkedin.com/in/elhadji ousmane.fall</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT77540">
+            <identifiant>
+                <nom>FALL</nom>
+                <prenom>MAREME</prenom>
+                <nom_complet>MAREME FALL</nom_complet>
+                <date_naissance>1995-12-15</date_naissance>
+                <lieu_naissance>Keur Momar Sarr</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>mareme.fall@assemblee.sn</email>
+                <telephone>771000067</telephone>
+                <adresse_bureau>Batiment C Bureau 68</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mareme_fall</twitter>
+                    <facebook>facebook.com/mareme.fall</facebook>
+                    <linkedin>linkedin.com/in/mareme.fall</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT96356">
+            <identifiant>
+                <nom>FAYE</nom>
+                <prenom>MBENE</prenom>
+                <nom_complet>MBENE FAYE</nom_complet>
+                <date_naissance>1981-12-07</date_naissance>
+                <lieu_naissance>Saint-Louis</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Agent de Developpement Communautaire</profession>
+            <contact>
+                <email>mbene.faye@assemblee.sn</email>
+                <telephone>771000068</telephone>
+                <adresse_bureau>Batiment D Bureau 69</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mbene_faye</twitter>
+                    <facebook>facebook.com/mbene.faye</facebook>
+                    <linkedin>linkedin.com/in/mbene.faye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT47517">
+            <identifiant>
+                <nom>FAYE</nom>
+                <prenom>ABDOULAYE</prenom>
+                <nom_complet>ABDOULAYE FAYE</nom_complet>
+                <date_naissance>1956-12-31</date_naissance>
+                <lieu_naissance>Pout Diack</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Retraite</profession>
+            <contact>
+                <email>abdoulaye.faye@assemblee.sn</email>
+                <telephone>771000069</telephone>
+                <adresse_bureau>Batiment C Bureau 70</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@abdoulaye_faye</twitter>
+                    <facebook>facebook.com/abdoulaye.faye</facebook>
+                    <linkedin>linkedin.com/in/abdoulaye.faye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT36350">
+            <identifiant>
+                <nom>FAYE</nom>
+                <prenom>ABDOULAYE THOMAS</prenom>
+                <nom_complet>ABDOULAYE THOMAS FAYE</nom_complet>
+                <date_naissance>1988-04-16</date_naissance>
+                <lieu_naissance>Kaffrine</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Professeur</profession>
+            <contact>
+                <email>abdoulayethomas.faye@assemblee.sn</email>
+                <telephone>771000070</telephone>
+                <adresse_bureau>Batiment A Bureau 71</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@abdoulaye thomas_faye</twitter>
+                    <facebook>facebook.com/abdoulaye thomas.faye</facebook>
+                    <linkedin>linkedin.com/in/abdoulaye thomas.faye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT22703">
+            <identifiant>
+                <nom>FAYE</nom>
+                <prenom>BEATRICE GERMAINE TENING</prenom>
+                <nom_complet>BEATRICE GERMAINE TENING FAYE</nom_complet>
+                <date_naissance>1990-09-09</date_naissance>
+                <lieu_naissance>Mbour</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>beatricegermaine.faye@assemblee.sn</email>
+                <telephone>771000071</telephone>
+                <adresse_bureau>Batiment B Bureau 72</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@beatrice germaine tening_faye</twitter>
+                    <facebook>facebook.com/beatrice germaine tening.faye</facebook>
+                    <linkedin>linkedin.com/in/beatrice germaine tening.faye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT28292">
+            <identifiant>
+                <nom>FAYE</nom>
+                <prenom>CHEIKH</prenom>
+                <nom_complet>CHEIKH FAYE</nom_complet>
+                <date_naissance>1985-12-25</date_naissance>
+                <lieu_naissance>Tattaguine</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Infirmier</profession>
+            <contact>
+                <email>cheikh.faye@assemblee.sn</email>
+                <telephone>771000072</telephone>
+                <adresse_bureau>Batiment A Bureau 73</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@cheikh_faye</twitter>
+                    <facebook>facebook.com/cheikh.faye</facebook>
+                    <linkedin>linkedin.com/in/cheikh.faye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT32461">
+            <identifiant>
+                <nom>FAYE</nom>
+                <prenom>GRASSE</prenom>
+                <nom_complet>GRASSE FAYE</nom_complet>
+                <date_naissance>1984-01-15</date_naissance>
+                <lieu_naissance>Tivaoune</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Entrepreneuse</profession>
+            <contact>
+                <email>grasse.faye@assemblee.sn</email>
+                <telephone>771000073</telephone>
+                <adresse_bureau>Batiment D Bureau 74</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@grasse_faye</twitter>
+                    <facebook>facebook.com/grasse.faye</facebook>
+                    <linkedin>linkedin.com/in/grasse.faye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT66816">
+            <identifiant>
+                <nom>FAYE</nom>
+                <prenom>LAMINE</prenom>
+                <nom_complet>LAMINE FAYE</nom_complet>
+                <date_naissance>1974-05-03</date_naissance>
+                <lieu_naissance>Réfane</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçant</profession>
+            <contact>
+                <email>lamine.faye@assemblee.sn</email>
+                <telephone>771000074</telephone>
+                <adresse_bureau>Batiment B Bureau 75</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@lamine_faye</twitter>
+                    <facebook>facebook.com/lamine.faye</facebook>
+                    <linkedin>linkedin.com/in/lamine.faye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT40183">
+            <identifiant>
+                <nom>GUEYE</nom>
+                <prenom>FATMA</prenom>
+                <nom_complet>FATMA GUEYE</nom_complet>
+                <date_naissance>1986-05-31</date_naissance>
+                <lieu_naissance>Keur Ibra Gueye</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Etudiante</profession>
+            <contact>
+                <email>fatma.gueye@assemblee.sn</email>
+                <telephone>771000075</telephone>
+                <adresse_bureau>Batiment D Bureau 76</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@fatma_gueye</twitter>
+                    <facebook>facebook.com/fatma.gueye</facebook>
+                    <linkedin>linkedin.com/in/fatma.gueye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT80538">
+            <identifiant>
+                <nom>GUEYE</nom>
+                <prenom>IBOU</prenom>
+                <nom_complet>IBOU GUEYE</nom_complet>
+                <date_naissance>1990-08-08</date_naissance>
+                <lieu_naissance>Ouassadou</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>ibou.gueye@assemblee.sn</email>
+                <telephone>771000076</telephone>
+                <adresse_bureau>Batiment A Bureau 77</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ibou_gueye</twitter>
+                    <facebook>facebook.com/ibou.gueye</facebook>
+                    <linkedin>linkedin.com/in/ibou.gueye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT32053">
+            <identifiant>
+                <nom>GUEYE</nom>
+                <prenom>EL HADJI</prenom>
+                <nom_complet>EL HADJI GUEYE</nom_complet>
+                <date_naissance>1987-07-26</date_naissance>
+                <lieu_naissance>Médina Sambène</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>elhadji.gueye@assemblee.sn</email>
+                <telephone>771000077</telephone>
+                <adresse_bureau>Batiment D Bureau 78</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@el hadji_gueye</twitter>
+                    <facebook>facebook.com/el hadji.gueye</facebook>
+                    <linkedin>linkedin.com/in/el hadji.gueye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT44010">
+            <identifiant>
+                <nom>KANE</nom>
+                <prenom>ALLA</prenom>
+                <nom_complet>ALLA KANE</nom_complet>
+                <date_naissance>1963-12-21</date_naissance>
+                <lieu_naissance>Gaat (Bambey)</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Retraite</profession>
+            <contact>
+                <email>alla.kane@assemblee.sn</email>
+                <telephone>771000078</telephone>
+                <adresse_bureau>Batiment C Bureau 79</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@alla_kane</twitter>
+                    <facebook>facebook.com/alla.kane</facebook>
+                    <linkedin>linkedin.com/in/alla.kane</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT06216">
+            <identifiant>
+                <nom>LO</nom>
+                <prenom>AHMADOU</prenom>
+                <nom_complet>AHMADOU LO</nom_complet>
+                <date_naissance>1986-10-10</date_naissance>
+                <lieu_naissance>Touba</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>commerçant</profession>
+            <contact>
+                <email>ahmadou.lo@assemblee.sn</email>
+                <telephone>771000079</telephone>
+                <adresse_bureau>Batiment D Bureau 80</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ahmadou_lo</twitter>
+                    <facebook>facebook.com/ahmadou.lo</facebook>
+                    <linkedin>linkedin.com/in/ahmadou.lo</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT40650">
+            <identifiant>
+                <nom>MANE</nom>
+                <prenom>FODE</prenom>
+                <nom_complet>FODE MANE</nom_complet>
+                <date_naissance>1980-09-06</date_naissance>
+                <lieu_naissance>BETTENTY</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Chargé de projets</profession>
+            <contact>
+                <email>fode.mane@assemblee.sn</email>
+                <telephone>771000080</telephone>
+                <adresse_bureau>Batiment B Bureau 81</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@fode_mane</twitter>
+                    <facebook>facebook.com/fode.mane</facebook>
+                    <linkedin>linkedin.com/in/fode.mane</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT06318">
+            <identifiant>
+                <nom>MANE</nom>
+                <prenom>NDEYE FATOU</prenom>
+                <nom_complet>NDEYE FATOU MANE</nom_complet>
+                <date_naissance>1972-12-22</date_naissance>
+                <lieu_naissance>Ziguinchor</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>ndeyefatou.mane@assemblee.sn</email>
+                <telephone>771000081</telephone>
+                <adresse_bureau>Batiment A Bureau 82</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ndeye fatou_mane</twitter>
+                    <facebook>facebook.com/ndeye fatou.mane</facebook>
+                    <linkedin>linkedin.com/in/ndeye fatou.mane</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT14650">
+            <identifiant>
+                <nom>MBACKE</nom>
+                <prenom>CHEIKH THIORO</prenom>
+                <nom_complet>CHEIKH THIORO MBACKE</nom_complet>
+                <date_naissance>1988-01-01</date_naissance>
+                <lieu_naissance>Touba</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Opérateur économique</profession>
+            <contact>
+                <email>cheikhthioro.mbacke@assemblee.sn</email>
+                <telephone>771000082</telephone>
+                <adresse_bureau>Batiment A Bureau 83</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@cheikh thioro_mbacke</twitter>
+                    <facebook>facebook.com/cheikh thioro.mbacke</facebook>
+                    <linkedin>linkedin.com/in/cheikh thioro.mbacke</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT89896">
+            <identifiant>
+                <nom>MBACKE</nom>
+                <prenom>MAREME</prenom>
+                <nom_complet>MAREME MBACKE</nom_complet>
+                <date_naissance>1972-01-13</date_naissance>
+                <lieu_naissance>Touba</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Chef d'Entreprise</profession>
+            <contact>
+                <email>mareme.mbacke@assemblee.sn</email>
+                <telephone>771000083</telephone>
+                <adresse_bureau>Batiment D Bureau 84</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mareme_mbacke</twitter>
+                    <facebook>facebook.com/mareme.mbacke</facebook>
+                    <linkedin>linkedin.com/in/mareme.mbacke</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT42636">
+            <identifiant>
+                <nom>MBAYE</nom>
+                <prenom>MAYABE</prenom>
+                <nom_complet>MAYABE MBAYE</nom_complet>
+                <date_naissance>1956-06-06</date_naissance>
+                <lieu_naissance>SAINT-LOUIS</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Agent d'assiette a la retraite</profession>
+            <contact>
+                <email>mayabe.mbaye@assemblee.sn</email>
+                <telephone>771000084</telephone>
+                <adresse_bureau>Batiment C Bureau 85</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mayabe_mbaye</twitter>
+                    <facebook>facebook.com/mayabe.mbaye</facebook>
+                    <linkedin>linkedin.com/in/mayabe.mbaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT90426">
+            <identifiant>
+                <nom>MBAYE</nom>
+                <prenom>SAFIATOU MALICK</prenom>
+                <nom_complet>SAFIATOU MALICK MBAYE</nom_complet>
+                <date_naissance>1981-01-11</date_naissance>
+                <lieu_naissance>Pikine</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Gestionnaire de projets</profession>
+            <contact>
+                <email>safiatoumalick.mbaye@assemblee.sn</email>
+                <telephone>771000085</telephone>
+                <adresse_bureau>Batiment C Bureau 86</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@safiatou malick_mbaye</twitter>
+                    <facebook>facebook.com/safiatou malick.mbaye</facebook>
+                    <linkedin>linkedin.com/in/safiatou malick.mbaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT29912">
+            <identifiant>
+                <nom>MBAYE</nom>
+                <prenom>MOUSSA</prenom>
+                <nom_complet>MOUSSA MBAYE</nom_complet>
+                <date_naissance>1972-08-18</date_naissance>
+                <lieu_naissance>Kaolack</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Entrepreneur</profession>
+            <contact>
+                <email>moussa.mbaye@assemblee.sn</email>
+                <telephone>771000086</telephone>
+                <adresse_bureau>Batiment A Bureau 87</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@moussa_mbaye</twitter>
+                    <facebook>facebook.com/moussa.mbaye</facebook>
+                    <linkedin>linkedin.com/in/moussa.mbaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT47692">
+            <identifiant>
+                <nom>MBENGUE</nom>
+                <prenom>IBRAHIMA</prenom>
+                <nom_complet>IBRAHIMA MBENGUE</nom_complet>
+                <date_naissance>1972-02-03</date_naissance>
+                <lieu_naissance>Vélingara</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Banquier</profession>
+            <contact>
+                <email>ibrahima.mbengue@assemblee.sn</email>
+                <telephone>771000087</telephone>
+                <adresse_bureau>Batiment A Bureau 88</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ibrahima_mbengue</twitter>
+                    <facebook>facebook.com/ibrahima.mbengue</facebook>
+                    <linkedin>linkedin.com/in/ibrahima.mbengue</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT02807">
+            <identifiant>
+                <nom>MBODJ</nom>
+                <prenom>FATMA</prenom>
+                <nom_complet>FATMA MBODJ</nom_complet>
+                <date_naissance>1979-09-09</date_naissance>
+                <lieu_naissance>KAOLACK</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Opératrice économique</profession>
+            <contact>
+                <email>fatma.mbodj@assemblee.sn</email>
+                <telephone>771000088</telephone>
+                <adresse_bureau>Batiment D Bureau 89</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@fatma_mbodj</twitter>
+                    <facebook>facebook.com/fatma.mbodj</facebook>
+                    <linkedin>linkedin.com/in/fatma.mbodj</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT67426">
+            <identifiant>
+                <nom>MBODJ</nom>
+                <prenom>IBRAHIMA</prenom>
+                <nom_complet>IBRAHIMA MBODJ</nom_complet>
+                <date_naissance>1978-12-29</date_naissance>
+                <lieu_naissance>Ross Bethio</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Professeur</profession>
+            <contact>
+                <email>ibrahima.mbodj@assemblee.sn</email>
+                <telephone>771000089</telephone>
+                <adresse_bureau>Batiment C Bureau 90</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ibrahima_mbodj</twitter>
+                    <facebook>facebook.com/ibrahima.mbodj</facebook>
+                    <linkedin>linkedin.com/in/ibrahima.mbodj</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT50662">
+            <identifiant>
+                <nom>NDAO</nom>
+                <prenom>ALIOUNE</prenom>
+                <nom_complet>ALIOUNE NDAO</nom_complet>
+                <date_naissance>1954-05-03</date_naissance>
+                <lieu_naissance>Kaolack</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Retraite</profession>
+            <contact>
+                <email>alioune.ndao@assemblee.sn</email>
+                <telephone>771000090</telephone>
+                <adresse_bureau>Batiment D Bureau 91</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@alioune_ndao</twitter>
+                    <facebook>facebook.com/alioune.ndao</facebook>
+                    <linkedin>linkedin.com/in/alioune.ndao</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT90327">
+            <identifiant>
+                <nom>NDIAYE</nom>
+                <prenom>AMY</prenom>
+                <nom_complet>AMY NDIAYE</nom_complet>
+                <date_naissance>1986-10-19</date_naissance>
+                <lieu_naissance>Ndiongolor</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Ingenieur hydrologue</profession>
+            <contact>
+                <email>amy.ndiaye@assemblee.sn</email>
+                <telephone>771000091</telephone>
+                <adresse_bureau>Batiment C Bureau 92</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@amy_ndiaye</twitter>
+                    <facebook>facebook.com/amy.ndiaye</facebook>
+                    <linkedin>linkedin.com/in/amy.ndiaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT17269">
+            <identifiant>
+                <nom>NDIAYE</nom>
+                <prenom>DAOUDA</prenom>
+                <nom_complet>DAOUDA NDIAYE</nom_complet>
+                <date_naissance>1984-01-01</date_naissance>
+                <lieu_naissance/>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçant</profession>
+            <contact>
+                <email>daouda.ndiaye@assemblee.sn</email>
+                <telephone>771000092</telephone>
+                <adresse_bureau>Batiment B Bureau 93</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@daouda_ndiaye</twitter>
+                    <facebook>facebook.com/daouda.ndiaye</facebook>
+                    <linkedin>linkedin.com/in/daouda.ndiaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT68093">
+            <identifiant>
+                <nom>NDIAYE</nom>
+                <prenom>MALICK</prenom>
+                <nom_complet>MALICK NDIAYE</nom_complet>
+                <date_naissance>1982-07-24</date_naissance>
+                <lieu_naissance>Dahra Djolof</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Logisticien</profession>
+            <contact>
+                <email>malick.ndiaye@assemblee.sn</email>
+                <telephone>771000093</telephone>
+                <adresse_bureau>Batiment D Bureau 94</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@malick_ndiaye</twitter>
+                    <facebook>facebook.com/malick.ndiaye</facebook>
+                    <linkedin>linkedin.com/in/malick.ndiaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT95028">
+            <identifiant>
+                <nom>NDIAYE</nom>
+                <prenom>COUMBA</prenom>
+                <nom_complet>COUMBA NDIAYE</nom_complet>
+                <date_naissance>1983-05-21</date_naissance>
+                <lieu_naissance>Ndindy</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçante</profession>
+            <contact>
+                <email>coumba.ndiaye@assemblee.sn</email>
+                <telephone>771000094</telephone>
+                <adresse_bureau>Batiment B Bureau 95</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@coumba_ndiaye</twitter>
+                    <facebook>facebook.com/coumba.ndiaye</facebook>
+                    <linkedin>linkedin.com/in/coumba.ndiaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT79687">
+            <identifiant>
+                <nom>NDIAYE</nom>
+                <prenom>NDEYE</prenom>
+                <nom_complet>NDEYE NDIAYE</nom_complet>
+                <date_naissance>1978-01-01</date_naissance>
+                <lieu_naissance/>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Restauratrice</profession>
+            <contact>
+                <email>ndeye.ndiaye@assemblee.sn</email>
+                <telephone>771000095</telephone>
+                <adresse_bureau>Batiment B Bureau 96</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ndeye_ndiaye</twitter>
+                    <facebook>facebook.com/ndeye.ndiaye</facebook>
+                    <linkedin>linkedin.com/in/ndeye.ndiaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT74524">
+            <identifiant>
+                <nom>NDIAYE</nom>
+                <prenom>ROKHY</prenom>
+                <nom_complet>ROKHY NDIAYE</nom_complet>
+                <date_naissance>1989-07-06</date_naissance>
+                <lieu_naissance>Koutal</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Professeur</profession>
+            <contact>
+                <email>rokhy.ndiaye@assemblee.sn</email>
+                <telephone>771000096</telephone>
+                <adresse_bureau>Batiment B Bureau 97</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@rokhy_ndiaye</twitter>
+                    <facebook>facebook.com/rokhy.ndiaye</facebook>
+                    <linkedin>linkedin.com/in/rokhy.ndiaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT55161">
+            <identifiant>
+                <nom>NDIAYE</nom>
+                <prenom>SERIGNE ABDOUL AHAD</prenom>
+                <nom_complet>SERIGNE ABDOUL AHAD NDIAYE</nom_complet>
+                <date_naissance>1985-08-13</date_naissance>
+                <lieu_naissance>Delerlou Syll</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Ingénieur informaticien</profession>
+            <contact>
+                <email>serigneabdoulahad.ndiaye@assemblee.sn</email>
+                <telephone>771000097</telephone>
+                <adresse_bureau>Batiment A Bureau 98</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@serigne abdoul ahad_ndiaye</twitter>
+                    <facebook>facebook.com/serigne abdoul ahad.ndiaye</facebook>
+                    <linkedin>linkedin.com/in/serigne abdoul ahad.ndiaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT02607">
+            <identifiant>
+                <nom>NDIAYE</nom>
+                <prenom>CHEIKH  BARA</prenom>
+                <nom_complet>CHEIKH  BARA NDIAYE</nom_complet>
+                <date_naissance>1987-03-08</date_naissance>
+                <lieu_naissance>Touba</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçant</profession>
+            <contact>
+                <email>bara.ndiaye@assemblee.sn</email>
+                <telephone>771000098</telephone>
+                <adresse_bureau>Batiment B Bureau 99</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@cheikh  bara_ndiaye</twitter>
+                    <facebook>facebook.com/cheikh  bara.ndiaye</facebook>
+                    <linkedin>linkedin.com/in/cheikh  bara.ndiaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT42895">
+            <identifiant>
+                <nom>NDIAYE</nom>
+                <prenom>BABACAR</prenom>
+                <nom_complet>BABACAR NDIAYE</nom_complet>
+                <date_naissance>1986-08-21</date_naissance>
+                <lieu_naissance>Diamaguene</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Gestion en Ressources Humaines</profession>
+            <contact>
+                <email>babacar.ndiaye@assemblee.sn</email>
+                <telephone>771000099</telephone>
+                <adresse_bureau>Batiment B Bureau 100</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@babacar_ndiaye</twitter>
+                    <facebook>facebook.com/babacar.ndiaye</facebook>
+                    <linkedin>linkedin.com/in/babacar.ndiaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT70461">
+            <identifiant>
+                <nom>NDIONE</nom>
+                <prenom>SALIOU</prenom>
+                <nom_complet>SALIOU NDIONE</nom_complet>
+                <date_naissance>1990-10-25</date_naissance>
+                <lieu_naissance>Rufisque</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Contrôleur des impôts et domaines</profession>
+            <contact>
+                <email>saliou.ndione@assemblee.sn</email>
+                <telephone>771000100</telephone>
+                <adresse_bureau>Batiment B Bureau 101</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@saliou_ndione</twitter>
+                    <facebook>facebook.com/saliou.ndione</facebook>
+                    <linkedin>linkedin.com/in/saliou.ndione</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT78664">
+            <identifiant>
+                <nom>NDOM</nom>
+                <prenom>RAMATOULAYE</prenom>
+                <nom_complet>RAMATOULAYE NDOM</nom_complet>
+                <date_naissance>1978-05-07</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçante</profession>
+            <contact>
+                <email>ramatoulaye.ndom@assemblee.sn</email>
+                <telephone>771000101</telephone>
+                <adresse_bureau>Batiment C Bureau 102</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ramatoulaye_ndom</twitter>
+                    <facebook>facebook.com/ramatoulaye.ndom</facebook>
+                    <linkedin>linkedin.com/in/ramatoulaye.ndom</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT44272">
+            <identifiant>
+                <nom>NDOYE</nom>
+                <prenom>MAME OUMAR</prenom>
+                <nom_complet>MAME OUMAR NDOYE</nom_complet>
+                <date_naissance>1979-01-05</date_naissance>
+                <lieu_naissance>YOFF</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Technicien BTP</profession>
+            <contact>
+                <email/>
+                <telephone>771000102</telephone>
+                <adresse_bureau>Batiment A Bureau 103</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mame oumar_ndoye</twitter>
+                    <facebook>facebook.com/mame oumar.ndoye</facebook>
+                    <linkedin>linkedin.com/in/mame oumar.ndoye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT03614">
+            <identifiant>
+                <nom>NGOM</nom>
+                <prenom>FATOU</prenom>
+                <nom_complet>FATOU NGOM</nom_complet>
+                <date_naissance>1975-03-05</date_naissance>
+                <lieu_naissance>Ndié Ngom</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Opératrice économique</profession>
+            <contact>
+                <email>fatou.ngom@assemblee.sn</email>
+                <telephone>771000103</telephone>
+                <adresse_bureau>Batiment D Bureau 104</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@fatou_ngom</twitter>
+                    <facebook>facebook.com/fatou.ngom</facebook>
+                    <linkedin>linkedin.com/in/fatou.ngom</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT63359">
+            <identifiant>
+                <nom>NIANG</nom>
+                <prenom>ALASSANE</prenom>
+                <nom_complet>ALASSANE NIANG</nom_complet>
+                <date_naissance>1973-08-23</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçant</profession>
+            <contact>
+                <email>alassane.niang@assemblee.sn</email>
+                <telephone>771000104</telephone>
+                <adresse_bureau>Batiment D Bureau 105</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@alassane_niang</twitter>
+                    <facebook>facebook.com/alassane.niang</facebook>
+                    <linkedin>linkedin.com/in/alassane.niang</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT29823">
+            <identifiant>
+                <nom>SAGNA</nom>
+                <prenom>GUY MARIUS</prenom>
+                <nom_complet>GUY MARIUS SAGNA</nom_complet>
+                <date_naissance>1979-01-29</date_naissance>
+                <lieu_naissance>Etome (Ziguinchor)</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Assistant Social</profession>
+            <contact>
+                <email>guymarius.sagna@assemblee.sn</email>
+                <telephone>771000105</telephone>
+                <adresse_bureau>Batiment B Bureau 106</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@guy marius_sagna</twitter>
+                    <facebook>facebook.com/guy marius.sagna</facebook>
+                    <linkedin>linkedin.com/in/guy marius.sagna</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT11310">
+            <identifiant>
+                <nom>SAGNA</nom>
+                <prenom>JACQUELINE</prenom>
+                <nom_complet>JACQUELINE SAGNA</nom_complet>
+                <date_naissance>1974-06-21</date_naissance>
+                <lieu_naissance>Dialang</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Transformatrice</profession>
+            <contact>
+                <email>jacqueline.sagna@assemblee.sn</email>
+                <telephone>771000106</telephone>
+                <adresse_bureau>Batiment A Bureau 107</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@jacqueline_sagna</twitter>
+                    <facebook>facebook.com/jacqueline.sagna</facebook>
+                    <linkedin>linkedin.com/in/jacqueline.sagna</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT31864">
+            <identifiant>
+                <nom>SALL</nom>
+                <prenom>MOHAMED</prenom>
+                <nom_complet>MOHAMED SALL</nom_complet>
+                <date_naissance>1963-01-10</date_naissance>
+                <lieu_naissance>Fissel</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant chercheur vacataire</profession>
+            <contact>
+                <email>mohamed.sall@assemblee.sn</email>
+                <telephone>771000107</telephone>
+                <adresse_bureau>Batiment D Bureau 108</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mohamed_sall</twitter>
+                    <facebook>facebook.com/mohamed.sall</facebook>
+                    <linkedin>linkedin.com/in/mohamed.sall</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT67891">
+            <identifiant>
+                <nom>SAMBE</nom>
+                <prenom>SEYNABOU YACINE</prenom>
+                <nom_complet>SEYNABOU YACINE SAMBE</nom_complet>
+                <date_naissance>1977-01-29</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçante</profession>
+            <contact>
+                <email>seynabouyacine.sambe@assemblee.sn</email>
+                <telephone>771000108</telephone>
+                <adresse_bureau>Batiment B Bureau 109</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@seynabou yacine_sambe</twitter>
+                    <facebook>facebook.com/seynabou yacine.sambe</facebook>
+                    <linkedin>linkedin.com/in/seynabou yacine.sambe</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT81190">
+            <identifiant>
+                <nom>SAMBOU</nom>
+                <prenom>ALPHONSE MANE</prenom>
+                <nom_complet>ALPHONSE MANE SAMBOU</nom_complet>
+                <date_naissance>1987-02-02</date_naissance>
+                <lieu_naissance>Mlomp Haer</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant chercheur vacataire</profession>
+            <contact>
+                <email>alphonemane.sambou@assemblee.sn</email>
+                <telephone>771000109</telephone>
+                <adresse_bureau>Batiment C Bureau 110</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@alphonse mane_sambou</twitter>
+                    <facebook>facebook.com/alphonse mane.sambou</facebook>
+                    <linkedin>linkedin.com/in/alphonse mane.sambou</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT59906">
+            <identifiant>
+                <nom>SANE</nom>
+                <prenom>NDEYE MARIE</prenom>
+                <nom_complet>NDEYE MARIE SANE</nom_complet>
+                <date_naissance>1988-01-02</date_naissance>
+                <lieu_naissance>Bassary Dioub</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>ndeyemarie.sane@assemblee.sn</email>
+                <telephone>771000110</telephone>
+                <adresse_bureau>Batiment B Bureau 111</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ndeye marie_sane</twitter>
+                    <facebook>facebook.com/ndeye marie.sane</facebook>
+                    <linkedin>linkedin.com/in/ndeye marie.sane</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT38559">
+            <identifiant>
+                <nom>SAO</nom>
+                <prenom>MAYE</prenom>
+                <nom_complet>MAYE SAO</nom_complet>
+                <date_naissance>1981-08-12</date_naissance>
+                <lieu_naissance>Coulibatan</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Ménagère</profession>
+            <contact>
+                <email>maye.sao@assemblee.sn</email>
+                <telephone>771000111</telephone>
+                <adresse_bureau>Batiment B Bureau 112</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@maye_sao</twitter>
+                    <facebook>facebook.com/maye.sao</facebook>
+                    <linkedin>linkedin.com/in/maye.sao</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT47409">
+            <identifiant>
+                <nom>SARR</nom>
+                <prenom>ANSOUMANA</prenom>
+                <nom_complet>ANSOUMANA SARR</nom_complet>
+                <date_naissance>1983-08-05</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Postier</profession>
+            <contact>
+                <email>ansoumana.sarr@assemblee.sn</email>
+                <telephone>771000112</telephone>
+                <adresse_bureau>Batiment B Bureau 113</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ansoumana_sarr</twitter>
+                    <facebook>facebook.com/ansoumana.sarr</facebook>
+                    <linkedin>linkedin.com/in/ansoumana.sarr</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT41100">
+            <identifiant>
+                <nom>SARR</nom>
+                <prenom>FELICITE MBOUGANE</prenom>
+                <nom_complet>FELICITE MBOUGANE SARR</nom_complet>
+                <date_naissance>1979-10-03</date_naissance>
+                <lieu_naissance>Thiandène</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>felicitembougane.sarr@assemblee.sn</email>
+                <telephone>771000113</telephone>
+                <adresse_bureau>Batiment C Bureau 114</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@felicite mbougane_sarr</twitter>
+                    <facebook>facebook.com/felicite mbougane.sarr</facebook>
+                    <linkedin>linkedin.com/in/felicite mbougane.sarr</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT73578">
+            <identifiant>
+                <nom>SARR</nom>
+                <prenom>KHADY</prenom>
+                <nom_complet>KHADY SARR</nom_complet>
+                <date_naissance>1979-06-16</date_naissance>
+                <lieu_naissance>Bargny</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>khady.sarr@assemblee.sn</email>
+                <telephone>771000114</telephone>
+                <adresse_bureau>Batiment A Bureau 115</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@khady_sarr</twitter>
+                    <facebook>facebook.com/khady.sarr</facebook>
+                    <linkedin>linkedin.com/in/khady.sarr</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT07043">
+            <identifiant>
+                <nom>SECK</nom>
+                <prenom>AWA</prenom>
+                <nom_complet>AWA SECK</nom_complet>
+                <date_naissance>1979-09-02</date_naissance>
+                <lieu_naissance>Touba</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçante</profession>
+            <contact>
+                <email>awa.seck@assemblee.sn</email>
+                <telephone>771000115</telephone>
+                <adresse_bureau>Batiment A Bureau 116</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@awa_seck</twitter>
+                    <facebook>facebook.com/awa.seck</facebook>
+                    <linkedin>linkedin.com/in/awa.seck</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT66658">
+            <identifiant>
+                <nom>SENE</nom>
+                <prenom>ALIOU</prenom>
+                <nom_complet>ALIOU SENE</nom_complet>
+                <date_naissance>1967-01-31</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>aliou.sene@assemblee.sn</email>
+                <telephone>771000116</telephone>
+                <adresse_bureau>Batiment C Bureau 117</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@aliou_sene</twitter>
+                    <facebook>facebook.com/aliou.sene</facebook>
+                    <linkedin>linkedin.com/in/aliou.sene</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT96457">
+            <identifiant>
+                <nom>SEYE</nom>
+                <prenom>MAMADOU</prenom>
+                <nom_complet>MAMADOU SEYE</nom_complet>
+                <date_naissance>1982-12-12</date_naissance>
+                <lieu_naissance>Fatick</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Professeur</profession>
+            <contact>
+                <email>mamadou.seye@assemblee.sn</email>
+                <telephone>771000117</telephone>
+                <adresse_bureau>Batiment C Bureau 118</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mamadou_seye</twitter>
+                    <facebook>facebook.com/mamadou.seye</facebook>
+                    <linkedin>linkedin.com/in/mamadou.seye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT21539">
+            <identifiant>
+                <nom>SIDIBE</nom>
+                <prenom>OULIMATA</prenom>
+                <nom_complet>OULIMATA SIDIBE</nom_complet>
+                <date_naissance>1975-03-19</date_naissance>
+                <lieu_naissance>Ziguinchor</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>oulimata.sidibe@assemblee.sn</email>
+                <telephone>771000118</telephone>
+                <adresse_bureau>Batiment D Bureau 119</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@oulimata_sidibe</twitter>
+                    <facebook>facebook.com/oulimata.sidibe</facebook>
+                    <linkedin>linkedin.com/in/oulimata.sidibe</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT67152">
+            <identifiant>
+                <nom>SOLLY</nom>
+                <prenom>SONA KINTY</prenom>
+                <nom_complet>SONA KINTY SOLLY</nom_complet>
+                <date_naissance>1977-11-20</date_naissance>
+                <lieu_naissance>Karantaba</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Matronne</profession>
+            <contact>
+                <email>sonakinti.solly@assemblee.sn</email>
+                <telephone>771000119</telephone>
+                <adresse_bureau>Batiment B Bureau 120</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@sona kinty_solly</twitter>
+                    <facebook>facebook.com/sona kinty.solly</facebook>
+                    <linkedin>linkedin.com/in/sona kinty.solly</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT60360">
+            <identifiant>
+                <nom>SONKO</nom>
+                <prenom>ABDOUL KADYR</prenom>
+                <nom_complet>ABDOUL KADYR SONKO</nom_complet>
+                <date_naissance>1959-03-25</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Ingénieur statisticien</profession>
+            <contact>
+                <email>abdoulkadyr.sonko@assemblee.sn</email>
+                <telephone>771000120</telephone>
+                <adresse_bureau>Batiment B Bureau 121</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@abdoul kadyr_sonko</twitter>
+                    <facebook>facebook.com/abdoul kadyr.sonko</facebook>
+                    <linkedin>linkedin.com/in/abdoul kadyr.sonko</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT97985">
+            <identifiant>
+                <nom>SONKO</nom>
+                <prenom>OUSMANE</prenom>
+                <nom_complet>OUSMANE SONKO</nom_complet>
+                <date_naissance>1980-04-04</date_naissance>
+                <lieu_naissance>Bignona</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>ousmane.sonko@assemblee.sn</email>
+                <telephone>771000121</telephone>
+                <adresse_bureau>Batiment D Bureau 122</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ousmane_sonko</twitter>
+                    <facebook>facebook.com/ousmane.sonko</facebook>
+                    <linkedin>linkedin.com/in/ousmane.sonko</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT62737">
+            <identifiant>
+                <nom>SONKO</nom>
+                <prenom>AWA</prenom>
+                <nom_complet>AWA SONKO</nom_complet>
+                <date_naissance>1985-12-20</date_naissance>
+                <lieu_naissance>Mongone</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>awa.sonko@assemblee.sn</email>
+                <telephone>771000122</telephone>
+                <adresse_bureau>Batiment D Bureau 123</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@awa_sonko</twitter>
+                    <facebook>facebook.com/awa.sonko</facebook>
+                    <linkedin>linkedin.com/in/awa.sonko</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT92519">
+            <identifiant>
+                <nom>SOUARE</nom>
+                <prenom>MOHAMED SIRADIO</prenom>
+                <nom_complet>MOHAMED SIRADIO SOUARE</nom_complet>
+                <date_naissance>1978-05-13</date_naissance>
+                <lieu_naissance>Yeumbeul</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Agent d'assiette</profession>
+            <contact>
+                <email>mohamedsiradio.souare@assemblee.sn</email>
+                <telephone>771000123</telephone>
+                <adresse_bureau>Batiment B Bureau 124</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mohamed siradio_souare</twitter>
+                    <facebook>facebook.com/mohamed siradio.souare</facebook>
+                    <linkedin>linkedin.com/in/mohamed siradio.souare</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT99875">
+            <identifiant>
+                <nom>SOUARE</nom>
+                <prenom>MAMADOU LAMINE</prenom>
+                <nom_complet>MAMADOU LAMINE SOUARE</nom_complet>
+                <date_naissance>1989-08-23</date_naissance>
+                <lieu_naissance>Salémata</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>mamadoulamine.souare@assemblee.sn</email>
+                <telephone>771000124</telephone>
+                <adresse_bureau>Batiment B Bureau 125</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mamadou lamine_souare</twitter>
+                    <facebook>facebook.com/mamadou lamine.souare</facebook>
+                    <linkedin>linkedin.com/in/mamadou lamine.souare</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT89278">
+            <identifiant>
+                <nom>SOW</nom>
+                <prenom>KHADY</prenom>
+                <nom_complet>KHADY SOW</nom_complet>
+                <date_naissance>1986-05-09</date_naissance>
+                <lieu_naissance>Mbacké</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Ménagère</profession>
+            <contact>
+                <email>khady.sow@assemblee.sn</email>
+                <telephone>771000125</telephone>
+                <adresse_bureau>Batiment B Bureau 126</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@khady_sow</twitter>
+                    <facebook>facebook.com/khady.sow</facebook>
+                    <linkedin>linkedin.com/in/khady.sow</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT24667">
+            <identifiant>
+                <nom>SOW</nom>
+                <prenom>ABDOULAYE</prenom>
+                <nom_complet>ABDOULAYE SOW</nom_complet>
+                <date_naissance>1987-10-17</date_naissance>
+                <lieu_naissance>Tomboronkoto</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>abdoulaye.sow@assemblee.sn</email>
+                <telephone>771000126</telephone>
+                <adresse_bureau>Batiment D Bureau 127</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@abdoulaye_sow</twitter>
+                    <facebook>facebook.com/abdoulaye.sow</facebook>
+                    <linkedin>linkedin.com/in/abdoulaye.sow</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT44924">
+            <identifiant>
+                <nom>SOW</nom>
+                <prenom>SAFIATOU</prenom>
+                <nom_complet>SAFIATOU SOW</nom_complet>
+                <date_naissance>1988-09-06</date_naissance>
+                <lieu_naissance>Vélingara</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>safiatou.sow@assemblee.sn</email>
+                <telephone>771000127</telephone>
+                <adresse_bureau>Batiment A Bureau 128</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@safiatou_sow</twitter>
+                    <facebook>facebook.com/safiatou.sow</facebook>
+                    <linkedin>linkedin.com/in/safiatou.sow</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT57586">
+            <identifiant>
+                <nom>SOW</nom>
+                <prenom>AWA</prenom>
+                <nom_complet>AWA SOW</nom_complet>
+                <date_naissance>1993-04-06</date_naissance>
+                <lieu_naissance>Diokoul</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>awa.sow@assemblee.sn</email>
+                <telephone>771000128</telephone>
+                <adresse_bureau>Batiment D Bureau 129</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@awa_sow</twitter>
+                    <facebook>facebook.com/awa.sow</facebook>
+                    <linkedin>linkedin.com/in/awa.sow</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT60983">
+            <identifiant>
+                <nom>SY</nom>
+                <prenom>OUMAR</prenom>
+                <nom_complet>OUMAR SY</nom_complet>
+                <date_naissance>1974-05-10</date_naissance>
+                <lieu_naissance>Ouarkhokh</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Cadre aviation civile</profession>
+            <contact>
+                <email>oumar.sy@assemblee.sn</email>
+                <telephone>771000129</telephone>
+                <adresse_bureau>Batiment A Bureau 130</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@oumar_sy</twitter>
+                    <facebook>facebook.com/oumar.sy</facebook>
+                    <linkedin>linkedin.com/in/oumar.sy</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT81289">
+            <identifiant>
+                <nom>SY</nom>
+                <prenom>AWA</prenom>
+                <nom_complet>AWA SY</nom_complet>
+                <date_naissance>1997-04-20</date_naissance>
+                <lieu_naissance>Baneba</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Agent municipal</profession>
+            <contact>
+                <email>awa.sy@assemblee.sn</email>
+                <telephone>771000130</telephone>
+                <adresse_bureau>Batiment B Bureau 131</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@awa_sy</twitter>
+                    <facebook>facebook.com/awa.sy</facebook>
+                    <linkedin>linkedin.com/in/awa.sy</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT27885">
+            <identifiant>
+                <nom>SYLLA</nom>
+                <prenom>MATAR</prenom>
+                <nom_complet>MATAR SYLLA</nom_complet>
+                <date_naissance>1990-10-06</date_naissance>
+                <lieu_naissance>Kaolack</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Etudiant</profession>
+            <contact>
+                <email>matar.sylla@assemblee.sn</email>
+                <telephone>771000131</telephone>
+                <adresse_bureau>Batiment D Bureau 132</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@matar_sylla</twitter>
+                    <facebook>facebook.com/matar.sylla</facebook>
+                    <linkedin>linkedin.com/in/matar.sylla</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT32011">
+            <identifiant>
+                <nom>TALL</nom>
+                <prenom>ABDOULAYE</prenom>
+                <nom_complet>ABDOULAYE TALL</nom_complet>
+                <date_naissance>1975-03-15</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Avocat</profession>
+            <contact>
+                <email>abdoulaye.tall@assemblee.sn</email>
+                <telephone>771000132</telephone>
+                <adresse_bureau>Batiment A Bureau 133</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@abdoulaye_tall</twitter>
+                    <facebook>facebook.com/abdoulaye.tall</facebook>
+                    <linkedin>linkedin.com/in/abdoulaye.tall</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT65647">
+            <identifiant>
+                <nom>TAMBEDOU</nom>
+                <prenom>ELHADJI ABABACAR</prenom>
+                <nom_complet>ELHADJI ABABACAR TAMBEDOU</nom_complet>
+                <date_naissance>1975-03-15</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Technicien génie civil</profession>
+            <contact>
+                <email>elhadjababacar.tambedou@assemblee.sn</email>
+                <telephone>771000133</telephone>
+                <adresse_bureau>Batiment C Bureau 134</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@elhadji ababacar_tambedou</twitter>
+                    <facebook>facebook.com/elhadji ababacar.tambedou</facebook>
+                    <linkedin>linkedin.com/in/elhadji ababacar.tambedou</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT94495">
+            <identifiant>
+                <nom>TANDJIGORA</nom>
+                <prenom>ADAMA</prenom>
+                <nom_complet>ADAMA TANDJIGORA</nom_complet>
+                <date_naissance>1977-02-11</date_naissance>
+                <lieu_naissance>Bélé</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Proviseur</profession>
+            <contact>
+                <email/>
+                <telephone>771000134</telephone>
+                <adresse_bureau>Batiment D Bureau 135</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@adama_tandjigora</twitter>
+                    <facebook>facebook.com/adama.tandjigora</facebook>
+                    <linkedin>linkedin.com/in/adama.tandjigora</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT22703">
+            <identifiant>
+                <nom>THIAM</nom>
+                <prenom>NDACK</prenom>
+                <nom_complet>NDACK THIAM</nom_complet>
+                <date_naissance>1968-08-21</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Commerçante</profession>
+            <contact>
+                <email>ndakh.thiam@assemblee.sn</email>
+                <telephone>771000135</telephone>
+                <adresse_bureau>Batiment B Bureau 136</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ndack_thiam</twitter>
+                    <facebook>facebook.com/ndack.thiam</facebook>
+                    <linkedin>linkedin.com/in/ndack.thiam</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT42696">
+            <identifiant>
+                <nom>THIAO</nom>
+                <prenom>SOKHNA DIARRA</prenom>
+                <nom_complet>SOKHNA DIARRA THIAO</nom_complet>
+                <date_naissance>1990-02-10</date_naissance>
+                <lieu_naissance>Bambey</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Secrétaire</profession>
+            <contact>
+                <email>sokhnadiarra.thiao@assemblee.sn</email>
+                <telephone>771000136</telephone>
+                <adresse_bureau>Batiment C Bureau 137</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@sokhna diarra_thiao</twitter>
+                    <facebook>facebook.com/sokhna diarra.thiao</facebook>
+                    <linkedin>linkedin.com/in/sokhna diarra.thiao</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT07781">
+            <identifiant>
+                <nom>THIOUF</nom>
+                <prenom>OUSMANE</prenom>
+                <nom_complet>OUSMANE THIOUF</nom_complet>
+                <date_naissance>1962-06-27</date_naissance>
+                <lieu_naissance>Ndianda</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email>ousmane.thiouf@assemblee.sn</email>
+                <telephone>771000137</telephone>
+                <adresse_bureau>Batiment A Bureau 138</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ousmane_thiouf</twitter>
+                    <facebook>facebook.com/ousmane.thiouf</facebook>
+                    <linkedin>linkedin.com/in/ousmane.thiouf</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT11245">
+            <identifiant>
+                <nom>TINE</nom>
+                <prenom>ANNE MARIE YACINE</prenom>
+                <nom_complet>ANNE MARIE YACINE TINE</nom_complet>
+                <date_naissance>1998-08-15</date_naissance>
+                <lieu_naissance>Fandène Yaboye</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Etudiante</profession>
+            <contact>
+                <email>annemarie.tine@assemblee.sn</email>
+                <telephone>771000138</telephone>
+                <adresse_bureau>Batiment B Bureau 139</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@anne marie yacine_tine</twitter>
+                    <facebook>facebook.com/anne marie yacine.tine</facebook>
+                    <linkedin>linkedin.com/in/anne marie yacine.tine</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT23688">
+            <identifiant>
+                <nom>TOURE</nom>
+                <prenom>AICHA</prenom>
+                <nom_complet>AICHA TOURE</nom_complet>
+                <date_naissance>1974-10-16</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>aicha.toure@assemblee.sn</email>
+                <telephone>771000139</telephone>
+                <adresse_bureau>Batiment D Bureau 140</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@aicha_toure</twitter>
+                    <facebook>facebook.com/aicha.toure</facebook>
+                    <linkedin>linkedin.com/in/aicha.toure</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT00751">
+            <identifiant>
+                <nom>VARORE</nom>
+                <prenom>BABACAR</prenom>
+                <nom_complet>BABACAR VARORE</nom_complet>
+                <date_naissance>1976-04-08</date_naissance>
+                <lieu_naissance>Guédiawaye</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Artisan</profession>
+            <contact>
+                <email>babacar.varore@assemblee.sn</email>
+                <telephone>771000140</telephone>
+                <adresse_bureau>Batiment D Bureau 141</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@babacar_varore</twitter>
+                    <facebook>facebook.com/babacar.varore</facebook>
+                    <linkedin>linkedin.com/in/babacar.varore</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT75661">
+            <identifiant>
+                <nom>WAGNANE</nom>
+                <prenom>DABA</prenom>
+                <nom_complet>DABA WAGNANE</nom_complet>
+                <date_naissance>1987-08-11</date_naissance>
+                <lieu_naissance>Darou Mousty</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignante</profession>
+            <contact>
+                <email>daba.wagnane@assemblee.sn</email>
+                <telephone>771000141</telephone>
+                <adresse_bureau>Batiment A Bureau 142</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@daba_wagnane</twitter>
+                    <facebook>facebook.com/daba.wagnane</facebook>
+                    <linkedin>linkedin.com/in/daba.wagnane</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT95081">
+            <identifiant>
+                <nom>WAGUE</nom>
+                <prenom>BANTA</prenom>
+                <nom_complet>BANTA WAGUE</nom_complet>
+                <date_naissance>1969-03-04</date_naissance>
+                <lieu_naissance>Bokidiawé</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Chef d'entreprise</profession>
+            <contact>
+                <email>banta.wague@assemblee.sn</email>
+                <telephone>771000142</telephone>
+                <adresse_bureau>Batiment D Bureau 143</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@banta_wague</twitter>
+                    <facebook>facebook.com/banta.wague</facebook>
+                    <linkedin>linkedin.com/in/banta.wague</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT36587">
+            <identifiant>
+                <nom>WONE</nom>
+                <prenom>ISMAILA MAMADOU ABDOUL</prenom>
+                <nom_complet>ISMAILA MAMADOU ABDOUL WONE</nom_complet>
+                <date_naissance>1977-10-19</date_naissance>
+                <lieu_naissance>Podor</lieu_naissance>
+            </identifiant>
+            <parti>Pastef</parti>
+            <profession>Enseignant</profession>
+            <contact>
+                <email/>
+                <telephone>771000143</telephone>
+                <adresse_bureau>Batiment B Bureau 144</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@ismaila mamadou abdoul_wone</twitter>
+                    <facebook>facebook.com/ismaila mamadou abdoul.wone</facebook>
+                    <linkedin>linkedin.com/in/ismaila mamadou abdoul.wone</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT66476">
+            <identifiant>
+                <nom>FALL</nom>
+                <prenom>PAPE DJIBRIL</prenom>
+                <nom_complet>PAPE DJIBRIL FALL</nom_complet>
+                <date_naissance>1986-01-22</date_naissance>
+                <lieu_naissance>Thiadiaye</lieu_naissance>
+            </identifiant>
+            <parti>Samm Sa Kaddu</parti>
+            <profession>Journaliste</profession>
+            <contact>
+                <email>papedjibril.fall@assemblee.sn</email>
+                <telephone>771000144</telephone>
+                <adresse_bureau>Batiment C Bureau 145</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@pape djibril_fall</twitter>
+                    <facebook>facebook.com/pape djibril.fall</facebook>
+                    <linkedin>linkedin.com/in/pape djibril.fall</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT18794">
+            <identifiant>
+                <nom>NGOM</nom>
+                <prenom>ANTA BABACAR</prenom>
+                <nom_complet>ANTA BABACAR NGOM</nom_complet>
+                <date_naissance>1984-08-26</date_naissance>
+                <lieu_naissance>Pikine</lieu_naissance>
+            </identifiant>
+            <parti>Samm Sa Kaddu</parti>
+            <profession>Administrateur de société</profession>
+            <contact>
+                <email>antababacar.ngom@assemblee.sn</email>
+                <telephone>771000145</telephone>
+                <adresse_bureau>Batiment A Bureau 146</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@anta babacar_ngom</twitter>
+                    <facebook>facebook.com/anta babacar.ngom</facebook>
+                    <linkedin>linkedin.com/in/anta babacar.ngom</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT08116">
+            <identifiant>
+                <nom>YOUM</nom>
+                <prenom>CHEIKH AHMED TIDIANE</prenom>
+                <nom_complet>CHEIKH AHMED TIDIANE YOUM</nom_complet>
+                <date_naissance>1976-08-11</date_naissance>
+                <lieu_naissance>Mbour</lieu_naissance>
+            </identifiant>
+            <parti>Samm Sa Kaddu</parti>
+            <profession>Juriste</profession>
+            <contact>
+                <email>cheikhahmedtidiane.youm@assemblee.sn</email>
+                <telephone>771000146</telephone>
+                <adresse_bureau>Batiment B Bureau 147</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@cheikh ahmed tidiane_youm</twitter>
+                    <facebook>facebook.com/cheikh ahmed tidiane.youm</facebook>
+                    <linkedin>linkedin.com/in/cheikh ahmed tidiane.youm</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT46635">
+            <identifiant>
+                <nom>SALL</nom>
+                <prenom>THIERNO ALASSANE</prenom>
+                <nom_complet>THIERNO ALASSANE SALL</nom_complet>
+                <date_naissance>1963-11-30</date_naissance>
+                <lieu_naissance>Thiès</lieu_naissance>
+            </identifiant>
+            <parti>Senegal Kese</parti>
+            <profession>Ingénieur aviation civile</profession>
+            <contact>
+                <email>thiernoalassane.sall@assemblee.sn</email>
+                <telephone>771000147</telephone>
+                <adresse_bureau>Batiment B Bureau 148</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@thierno alassane_sall</twitter>
+                    <facebook>facebook.com/thierno alassane.sall</facebook>
+                    <linkedin>linkedin.com/in/thierno alassane.sall</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT16606">
+            <identifiant>
+                <nom>THIOYE</nom>
+                <prenom>TAFSIR</prenom>
+                <nom_complet>TAFSIR THIOYE</nom_complet>
+                <date_naissance>1974-07-07</date_naissance>
+                <lieu_naissance>Mbour</lieu_naissance>
+            </identifiant>
+            <parti>Sopi Senegal</parti>
+            <profession>Cadre en tourisme</profession>
+            <contact>
+                <email>tafsir.thioye@assemblee.sn</email>
+                <telephone>771000148</telephone>
+                <adresse_bureau>Batiment C Bureau 149</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@tafsir_thioye</twitter>
+                    <facebook>facebook.com/tafsir.thioye</facebook>
+                    <linkedin>linkedin.com/in/tafsir.thioye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT60834">
+            <identifiant>
+                <nom>BA</nom>
+                <prenom>SOKHNA</prenom>
+                <nom_complet>SOKHNA BA</nom_complet>
+                <date_naissance>1970-02-02</date_naissance>
+                <lieu_naissance>OUROSSOGUI</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Opérateur Economique</profession>
+            <contact>
+                <email>sokhna.ba@assemblee.sn</email>
+                <telephone>771000149</telephone>
+                <adresse_bureau>Batiment C Bureau 150</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@sokhna_ba</twitter>
+                    <facebook>facebook.com/sokhna.ba</facebook>
+                    <linkedin>linkedin.com/in/sokhna.ba</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT47543">
+            <identifiant>
+                <nom>DIA</nom>
+                <prenom>DAOUDA</prenom>
+                <nom_complet>DAOUDA DIA</nom_complet>
+                <date_naissance>1971-04-05</date_naissance>
+                <lieu_naissance>VENDOU BOSEABE</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Opérateur Economique</profession>
+            <contact>
+                <email>daouda.dia@assemblee.sn</email>
+                <telephone>771000150</telephone>
+                <adresse_bureau>Batiment A Bureau 151</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@daouda_dia</twitter>
+                    <facebook>facebook.com/daouda.dia</facebook>
+                    <linkedin>linkedin.com/in/daouda.dia</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT91404">
+            <identifiant>
+                <nom>DIALLO</nom>
+                <prenom>RAQUI</prenom>
+                <nom_complet>RAQUI DIALLO</nom_complet>
+                <date_naissance>1978-08-03</date_naissance>
+                <lieu_naissance>Kanel</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Commerçant</profession>
+            <contact>
+                <email>racky.diallo@assemblee.sn</email>
+                <telephone>771000151</telephone>
+                <adresse_bureau>Batiment D Bureau 152</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@raqui_diallo</twitter>
+                    <facebook>facebook.com/raqui.diallo</facebook>
+                    <linkedin>linkedin.com/in/raqui.diallo</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT03028">
+            <identifiant>
+                <nom>DIALLO</nom>
+                <prenom>AISSATA OUSMANE</prenom>
+                <nom_complet>AISSATA OUSMANE DIALLO</nom_complet>
+                <date_naissance>1984-01-15</date_naissance>
+                <lieu_naissance>Baladji</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Ménagère</profession>
+            <contact>
+                <email>aissataousmane.diallo@assemblee.sn</email>
+                <telephone>771000152</telephone>
+                <adresse_bureau>Batiment A Bureau 153</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@aissata ousmane_diallo</twitter>
+                    <facebook>facebook.com/aissata ousmane.diallo</facebook>
+                    <linkedin>linkedin.com/in/aissata ousmane.diallo</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT46184">
+            <identifiant>
+                <nom>DIALLO N°1</nom>
+                <prenom>AMADOU</prenom>
+                <nom_complet>AMADOU DIALLO N°1</nom_complet>
+                <date_naissance>1966-06-20</date_naissance>
+                <lieu_naissance>Civiabé</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Comptable</profession>
+            <contact>
+                <email>amadou.diallo1@assemblee.sn</email>
+                <telephone>771000153</telephone>
+                <adresse_bureau>Batiment C Bureau 154</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@amadou_diallo n°1</twitter>
+                    <facebook>facebook.com/amadou.diallo n°1</facebook>
+                    <linkedin>linkedin.com/in/amadou.diallo n°1</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT10660">
+            <identifiant>
+                <nom>DIAW</nom>
+                <prenom>MAMADOU MORY</prenom>
+                <nom_complet>MAMADOU MORY DIAW</nom_complet>
+                <date_naissance>1952-02-27</date_naissance>
+                <lieu_naissance>Matam</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Anesthésiste</profession>
+            <contact>
+                <email>mamadou.diaw@assemblee.sn</email>
+                <telephone>771000154</telephone>
+                <adresse_bureau>Batiment A Bureau 155</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mamadou mory_diaw</twitter>
+                    <facebook>facebook.com/mamadou mory.diaw</facebook>
+                    <linkedin>linkedin.com/in/mamadou mory.diaw</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT77963">
+            <identifiant>
+                <nom>DIOP</nom>
+                <prenom>AMADOU MAME</prenom>
+                <nom_complet>AMADOU MAME DIOP</nom_complet>
+                <date_naissance>1965-07-18</date_naissance>
+                <lieu_naissance>Saint-Louis</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Pharmacien</profession>
+            <contact>
+                <email>amadoumame.diop@assemblee.sn</email>
+                <telephone>771000155</telephone>
+                <adresse_bureau>Batiment B Bureau 156</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@amadou mame_diop</twitter>
+                    <facebook>facebook.com/amadou mame.diop</facebook>
+                    <linkedin>linkedin.com/in/amadou mame.diop</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT60139">
+            <identifiant>
+                <nom>FAYE</nom>
+                <prenom>THERESE</prenom>
+                <nom_complet>THERESE FAYE</nom_complet>
+                <date_naissance>1981-08-03</date_naissance>
+                <lieu_naissance>Dame</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Sociologue</profession>
+            <contact>
+                <email>therese.faye@assemblee.sn</email>
+                <telephone>771000156</telephone>
+                <adresse_bureau>Batiment C Bureau 157</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@therese_faye</twitter>
+                    <facebook>facebook.com/therese.faye</facebook>
+                    <linkedin>linkedin.com/in/therese.faye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT83036">
+            <identifiant>
+                <nom>FOFANA</nom>
+                <prenom>BARANE</prenom>
+                <nom_complet>BARANE FOFANA</nom_complet>
+                <date_naissance>1980-02-25</date_naissance>
+                <lieu_naissance>Thilogne</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Commerçant</profession>
+            <contact>
+                <email>barane.fofana@assemblee.sn</email>
+                <telephone>771000157</telephone>
+                <adresse_bureau>Batiment A Bureau 158</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@barane_fofana</twitter>
+                    <facebook>facebook.com/barane.fofana</facebook>
+                    <linkedin>linkedin.com/in/barane.fofana</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT12907">
+            <identifiant>
+                <nom>MBOW</nom>
+                <prenom>ABDOU</prenom>
+                <nom_complet>ABDOU MBOW</nom_complet>
+                <date_naissance>1976-01-09</date_naissance>
+                <lieu_naissance>Thiès</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Journaliste</profession>
+            <contact>
+                <email>abdou.mbow@assemblee.sn</email>
+                <telephone>771000158</telephone>
+                <adresse_bureau>Batiment B Bureau 159</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@abdou_mbow</twitter>
+                    <facebook>facebook.com/abdou.mbow</facebook>
+                    <linkedin>linkedin.com/in/abdou.mbow</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT20243">
+            <identifiant>
+                <nom>NDIAYE</nom>
+                <prenom>FABINETA</prenom>
+                <nom_complet>FABINETA NDIAYE</nom_complet>
+                <date_naissance>1974-04-17</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Haut conseille</profession>
+            <contact>
+                <email>fabineta.ndiaye@assemblee.sn</email>
+                <telephone>771000159</telephone>
+                <adresse_bureau>Batiment C Bureau 160</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@fabineta_ndiaye</twitter>
+                    <facebook>facebook.com/fabineta.ndiaye</facebook>
+                    <linkedin>linkedin.com/in/fabineta.ndiaye</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT81481">
+            <identifiant>
+                <nom>NGOM</nom>
+                <prenom>MAHAMADOU</prenom>
+                <nom_complet>MAHAMADOU NGOM</nom_complet>
+                <date_naissance>1971-03-05</date_naissance>
+                <lieu_naissance>Nguidjilone</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Opérateur économique</profession>
+            <contact>
+                <email>mouhamadou.ngom@assemblee.sn</email>
+                <telephone>771000160</telephone>
+                <adresse_bureau>Batiment B Bureau 161</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mahamadou_ngom</twitter>
+                    <facebook>facebook.com/mahamadou.ngom</facebook>
+                    <linkedin>linkedin.com/in/mahamadou.ngom</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT04551">
+            <identifiant>
+                <nom>SOUARE</nom>
+                <prenom>DJIMO</prenom>
+                <nom_complet>DJIMO SOUARE</nom_complet>
+                <date_naissance>1977-07-31</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Economiste</profession>
+            <contact>
+                <email>djimo.souare@assemblee.sn</email>
+                <telephone>771000161</telephone>
+                <adresse_bureau>Batiment A Bureau 162</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@djimo_souare</twitter>
+                    <facebook>facebook.com/djimo.souare</facebook>
+                    <linkedin>linkedin.com/in/djimo.souare</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT49112">
+            <identifiant>
+                <nom>SOW</nom>
+                <prenom>FATOU</prenom>
+                <nom_complet>FATOU SOW</nom_complet>
+                <date_naissance>1964-10-22</date_naissance>
+                <lieu_naissance>Keur Massar</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Commerçante</profession>
+            <contact>
+                <email>fatou.sow@assemblee.sn</email>
+                <telephone>771000162</telephone>
+                <adresse_bureau>Batiment A Bureau 163</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@fatou_sow</twitter>
+                    <facebook>facebook.com/fatou.sow</facebook>
+                    <linkedin>linkedin.com/in/fatou.sow</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT95402">
+            <identifiant>
+                <nom>TALL</nom>
+                <prenom>AISSATA</prenom>
+                <nom_complet>AISSATA TALL</nom_complet>
+                <date_naissance>1957-12-12</date_naissance>
+                <lieu_naissance>Dakar</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Avocate</profession>
+            <contact>
+                <email>aissata.tall@assemblee.sn</email>
+                <telephone>771000163</telephone>
+                <adresse_bureau>Batiment D Bureau 164</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@aissata_tall</twitter>
+                    <facebook>facebook.com/aissata.tall</facebook>
+                    <linkedin>linkedin.com/in/aissata.tall</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+        <depute id="DPT48094">
+            <identifiant>
+                <nom>THIAM</nom>
+                <prenom>MAMADOU LAMINE</prenom>
+                <nom_complet>MAMADOU LAMINE THIAM</nom_complet>
+                <date_naissance>1958-12-21</date_naissance>
+                <lieu_naissance>Kébémer</lieu_naissance>
+            </identifiant>
+            <parti>Takku Wallu</parti>
+            <profession>Professeur</profession>
+            <contact>
+                <email>mamadoulamine.thiam@assemblee.sn</email>
+                <telephone>771000164</telephone>
+                <adresse_bureau>Batiment A Bureau 165</adresse_bureau>
+                <reseaux_sociaux>
+                    <twitter>@mamadou lamine_thiam</twitter>
+                    <facebook>facebook.com/mamadou lamine.thiam</facebook>
+                    <linkedin>linkedin.com/in/mamadou lamine.thiam</linkedin>
+                </reseaux_sociaux>
+            </contact>
+        </depute>
+    </deputes>
+</assemblee_nationale>

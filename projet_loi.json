@@ -1,0 +1,1156 @@
+[
+    [
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": null,
+                    "description": "Cette cat\u00e9gorie contient la liste et les d\u00e9tails des commissions.",
+                    "id": 6,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 6,
+                        "publication_id": 2093
+                    },
+                    "slug": "commissions",
+                    "title": "Commissions",
+                    "updated_at": null
+                },
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 2093
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                },
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 2093
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                }
+            ],
+            "created_at": "2025-08-26T10:07:23.000000Z",
+            "description": "<p>Le rapport de la Commission des Lois relatif au Projet de loi n&deg;13/2025 portant statut et protection des lanceurs d&rsquo;alerte examin&eacute; par les d&eacute;put&eacute;s r&eacute;unis en s&eacute;ance pl&eacute;ni&egrave;re ce mardi 26 ao&ucirc;t 2025 &agrave; l&rsquo;Assembl&eacute;e nationale.</p>",
+            "description_ar": "<p>\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0628\u064a\u0644 \u0627\u0644\u0639\u062f\u062f 13/2025 \u062d\u0648\u0644 \u0648\u0636\u0639 \u0648\u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0645\u0628\u0644\u063a\u064a\u0646 \u0639\u0646 \u0627\u0644\u0645\u062e\u0627\u0644\u0641\u0627\u062a \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 26 \u0623\u063a\u0633\u0637\u0633 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.</p>",
+            "description_en": "<p>The report of the Law Commission relating to bill n &deg; 13/2025 on the status and protection of whistleblowers examined by the deputies gathered in plenary session this Tuesday, August 26, 2025 in the National Assembly.</p>",
+            "description_wo": "<p>T&euml;nku B&agrave;nqaasu S&agrave;rt yi bu S&eacute;mbu s&agrave;rtu n&deg;13/2025 j&euml;m ci taxawaay ak aar yoolekat yi SURGA yi di saytu ci pele&ntilde;eeru talaata 26i fani ut 2025 ci &quot;Assembl&eacute;e nationale&quot;.</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": null,
+            "fichiers": [
+                {
+                    "created_at": "2025-08-26T10:07:23.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2Fyhxn5Jkry5Na1Ih3rEpmxorrF4J7vXnb4JE3jU7X.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2Fyhxn5Jkry5Na1Ih3rEpmxorrF4J7vXnb4JE3jU7X.pdf",
+                    "id": 5953,
+                    "name": "Rapport projet de loi portant protection des lanceurs d'alerte .pdf",
+                    "path": "medias/documents/yhxn5Jkry5Na1Ih3rEpmxorrF4J7vXnb4JE3jU7X.pdf",
+                    "publication_id": 2093,
+                    "type": "documents",
+                    "updated_at": "2025-08-26T10:07:23.000000Z"
+                }
+            ],
+            "id": 2093,
+            "langue": null,
+            "photo_fichiers": [],
+            "publish_date": "2025-08-26",
+            "publish_time": "10:07:23",
+            "slug": "le-rapport-de-la-commission-des-lois-relatif-au-projet-de-loi-n132025-portant-statut-et-protection-des-lanceurs-dalerte-examine-par-les-deputes-reunis-en-seance-pleniere-ce-mardi-26-aout-2025-a-lassemblee-nationale",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": null,
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": null,
+            "title": "Le rapport de la Commission des Lois relatif au Projet de loi n\u00b013/2025 portant statut et protection des lanceurs d\u2019alerte examin\u00e9 par les d\u00e9put\u00e9s r\u00e9unis en s\u00e9ance pl\u00e9ni\u00e8re ce mardi 26 ao\u00fbt 2025 \u00e0 l\u2019Assembl\u00e9e nationale.",
+            "title_ar": "\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0628\u064a\u0644 \u0627\u0644\u0639\u062f\u062f 13/2025 \u062d\u0648\u0644 \u0648\u0636\u0639 \u0648\u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0645\u062e\u0627\u0644\u0641\u0627\u062a \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 26 \u0623\u063a\u0633\u0637\u0633 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.",
+            "title_en": "The report of the Law Commission relating to bill n \u00b0 13/2025 on the status and protection of whistleblowers examined by the deputies gathered in plenary session this Tuesday, August 26, 2025 in the National Assembly.",
+            "title_wo": "T\u00ebnku B\u00e0nqaasu S\u00e0rt yi bu S\u00e9mbu s\u00e0rtu n\u00b013/2025 j\u00ebm ci taxawaay ak aar yoolekat yi SURGA yi di saytu ci pele\u00f1eeru talaata 26i fani ut 2025 ci \"Assembl\u00e9e nationale\".",
+            "updated_at": "2025-08-26T10:07:33.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": null,
+                    "description": "Cette cat\u00e9gorie contient les actualit\u00e9s r\u00e9centes.",
+                    "id": 7,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 7,
+                        "publication_id": 2094
+                    },
+                    "slug": "actualites",
+                    "title": "Actualit\u00e9s",
+                    "updated_at": null
+                },
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 2094
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                },
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 2094
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                }
+            ],
+            "created_at": "2025-08-26T14:56:43.000000Z",
+            "description": "<p>Le rapport de la Commission des Lois relatif au &nbsp;projet de loi n&deg;14/2025 relatif &agrave; l&rsquo;Acc&egrave;s &agrave; l&rsquo;Information examin&eacute; par les d&eacute;put&eacute;s r&eacute;unis en s&eacute;ance pl&eacute;ni&egrave;re ce mardi 26 ao&ucirc;t 2025 &agrave; l&rsquo;Assembl&eacute;e nationale.</p>",
+            "description_ar": "<p>\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 14/2025 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 26 \u0623\u063a\u0633\u0637\u0633 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.</p>",
+            "description_en": "<p>The report of the Law Commission relating to bill n &deg; 14/2025 relating to the access to information examined by the deputies gathered in plenary session this Tuesday, August 26, 2025 in the National Assembly.</p>",
+            "description_wo": "<p>T&euml;nku B&agrave;nqaasu S&agrave;rt yi ci s&eacute;mbu s&agrave;rt n&deg;14/2025 j&euml;m ci Jote ci xibaar bu SURGA yi di saytu ci pele&ntilde;eeru talaata 26i fani ut 2025 ci &quot;Assembl&eacute;e nationale&quot;.</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": "adopte",
+            "fichiers": [
+                {
+                    "created_at": "2025-08-26T14:56:43.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FRkAN5OwB1zPSPOAGR2bPVxYyIaBGGFJVbviPAe6e.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FRkAN5OwB1zPSPOAGR2bPVxYyIaBGGFJVbviPAe6e.pdf",
+                    "id": 5954,
+                    "name": "RAPPORT_ACCES_INFORMATION..pdf",
+                    "path": "medias/documents/RkAN5OwB1zPSPOAGR2bPVxYyIaBGGFJVbviPAe6e.pdf",
+                    "publication_id": 2094,
+                    "type": "documents",
+                    "updated_at": "2025-08-26T14:56:43.000000Z"
+                }
+            ],
+            "id": 2094,
+            "langue": null,
+            "photo_fichiers": [],
+            "publish_date": "2025-08-26",
+            "publish_time": "14:56:43",
+            "slug": "le-rapport-de-la-commission-des-lois-relatif-au-projet-de-loi-n142025-relatif-a-lacces-a-linformation-examine-par-les-deputes-reunis-en-seance-pleniere-ce-mardi-26-aout-2025-a-lassemblee-nationale",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": null,
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": null,
+            "title": "Le rapport de la Commission des Lois relatif au  projet de loi n\u00b014/2025 relatif \u00e0 l\u2019Acc\u00e8s \u00e0 l\u2019Information examin\u00e9 par les d\u00e9put\u00e9s r\u00e9unis en s\u00e9ance pl\u00e9ni\u00e8re ce mardi 26 ao\u00fbt 2025 \u00e0 l\u2019Assembl\u00e9e nationale.",
+            "title_ar": "\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0628\u064a\u0644 \u0627\u0644\u0639\u062f\u062f 14/2025 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 26 \u0623\u063a\u0633\u0637\u0633 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.",
+            "title_en": "The report of the Law Commission relating to bill n \u00b0 14/2025 relating to the access to information examined by the deputies gathered in plenary session this Tuesday, August 26, 2025 in the National Assembly.",
+            "title_wo": "T\u00ebnku B\u00e0nqaasu S\u00e0rt yi ci s\u00e9mbu s\u00e0rt n\u00b014/2025 j\u00ebm ci Jote ci xibaar bu SURGA yi di saytu ci pele\u00f1eeru talaata 26i fani ut 2025 ci \"Assembl\u00e9e nationale\".",
+            "updated_at": "2025-08-26T14:56:48.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": null,
+                    "description": "Cette cat\u00e9gorie contient les actualit\u00e9s r\u00e9centes.",
+                    "id": 7,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 7,
+                        "publication_id": 2091
+                    },
+                    "slug": "actualites",
+                    "title": "Actualit\u00e9s",
+                    "updated_at": null
+                },
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 2091
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                },
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 2091
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                }
+            ],
+            "created_at": "2025-08-25T16:01:12.000000Z",
+            "description": "<p>Le rapport de la Commission des Lois relatif au &nbsp;projet de loi n&deg; 15/2025 relatif &agrave; la d&eacute;claration de patrimoine examin&eacute; par les d&eacute;put&eacute;s r&eacute;unis en s&eacute;ance pl&eacute;ni&egrave;re ce lundi 25 ao&ucirc;t 2025 &agrave; l&rsquo;Assembl&eacute;e nationale.</p>",
+            "description_ar": "<p>\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 15/2025 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u0625\u0639\u0644\u0627\u0646 \u0627\u0644\u0623\u0635\u0648\u0644 \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u060c 25 \u0623\u063a\u0633\u0637\u0633 \u060c 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.</p>",
+            "description_en": "<p>The report of the Law Commission relating to bill n &deg; 15/2025 relating to the declaration of assets examined by the deputies gathered in plenary session this Monday, August 25, 2025 in the National Assembly.</p>",
+            "description_wo": "<p>T&euml;nku B&agrave;nqaasu S&agrave;rt yi j&euml;m ci s&eacute;mbu s&agrave;rt n&deg;15/2025 bu soppar&ntilde;i xamleg moomeel bi SURGA yi di saytu ci pele&ntilde;eeru altine 25i fani ut 2025 ci &quot;Assembl&eacute;e nationale&quot;.</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": null,
+            "fichiers": [
+                {
+                    "created_at": "2025-08-25T16:01:13.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FWNfuEnk4fYW1pwSpP7LMJG0iMf9zKS3EpQGpLI4A.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FWNfuEnk4fYW1pwSpP7LMJG0iMf9zKS3EpQGpLI4A.pdf",
+                    "id": 5951,
+                    "name": "Rapport Declaration de Patrimoine .pdf",
+                    "path": "medias/documents/WNfuEnk4fYW1pwSpP7LMJG0iMf9zKS3EpQGpLI4A.pdf",
+                    "publication_id": 2091,
+                    "type": "documents",
+                    "updated_at": "2025-08-25T16:01:13.000000Z"
+                }
+            ],
+            "id": 2091,
+            "langue": null,
+            "photo_fichiers": [],
+            "publish_date": "2025-08-25",
+            "publish_time": "16:01:12",
+            "slug": "le-rapport-de-la-commission-des-lois-relatif-au-projet-de-loi-n-152025-relatif-a-la-declaration-de-patrimoine-examine-par-les-deputes-reunis-en-seance-pleniere-ce-lundi-25-aout-2025-a-lassemblee-nationale",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": null,
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": null,
+            "title": "Le rapport de la Commission des Lois relatif au \u00a0projet de loi n\u00b0 15/2025 relatif \u00e0 la d\u00e9claration de patrimoine examin\u00e9 par les d\u00e9put\u00e9s r\u00e9unis en s\u00e9ance pl\u00e9ni\u00e8re ce lundi 25 ao\u00fbt 2025 \u00e0 l\u2019Assembl\u00e9e nationale.",
+            "title_ar": "\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0628\u064a\u0644 \u0631\u0642\u0645 15/2025 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u0625\u0639\u0644\u0627\u0646 \u0627\u0644\u0623\u0635\u0648\u0644 \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u060c 25 \u0623\u063a\u0633\u0637\u0633 \u060c 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.",
+            "title_en": "The report of the Law Commission relating to bill n \u00b0 15/2025 relating to the declaration of assets examined by the deputies gathered in plenary session this Monday, August 25, 2025 in the National Assembly.",
+            "title_wo": "T\u00ebnku B\u00e0nqaasu S\u00e0rt yi j\u00ebm ci s\u00e9mbu s\u00e0rt n\u00b015/2025 bu soppar\u00f1i xamleg moomeel bi SURGA yi di saytu ci pele\u00f1eeru altine 25i fani ut 2025 ci \"Assembl\u00e9e nationale\".",
+            "updated_at": "2025-08-25T16:01:19.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": null,
+                    "description": "Cette cat\u00e9gorie contient les actualit\u00e9s r\u00e9centes.",
+                    "id": 7,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 7,
+                        "publication_id": 2092
+                    },
+                    "slug": "actualites",
+                    "title": "Actualit\u00e9s",
+                    "updated_at": null
+                },
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 2092
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                },
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 2092
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                }
+            ],
+            "created_at": "2025-08-25T16:03:38.000000Z",
+            "description": "<p>Le rapport de la Commission des Lois relatif au &nbsp;projet de loi n&deg;12/2025 portant cr&eacute;ation de l&rsquo;Office national de lutte contre la Corruption examin&eacute; par les d&eacute;put&eacute;s r&eacute;unis en s&eacute;ance pl&eacute;ni&egrave;re ce lundi 25 ao&ucirc;t 2025 &agrave; l&rsquo;Assembl&eacute;e nationale.</p>",
+            "description_ar": "<p>\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0631\u0642\u0645 12/2025 \u0625\u0646\u0634\u0627\u0621 \u0627\u0644\u0645\u0643\u062a\u0628 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0641\u0633\u0627\u062f \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u060c 25 \u0623\u063a\u0633\u0637\u0633 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.</p>",
+            "description_en": "<p>The report of the Law Commission relating to bill No. 12/2025 creating the National Office for the Fight against Corruption examined by the deputies gathered in plenary session this Monday, August 25, 2025 in the National Assembly.</p>",
+            "description_wo": "<p>T&euml;nku B&agrave;nqaasu S&agrave;rt yi soppar&ntilde;i ci s&eacute;mbu s&agrave;rt n&deg;12/2025 bi j&euml;m ci taxawalug OFNAC ci xeex Ger bi SURGA yi di saytu ci pele&ntilde;eeru altine 25i fani ut 2025 ci &quot;Assembl&eacute;e nationale&quot;.</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": null,
+            "fichiers": [
+                {
+                    "created_at": "2025-08-25T16:03:38.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2Fzg873euD0Tt5HXo1OuMGpHeyBhHnklHvHqYOFWsP.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2Fzg873euD0Tt5HXo1OuMGpHeyBhHnklHvHqYOFWsP.pdf",
+                    "id": 5952,
+                    "name": "RAPPORT_OFNAC_VF.pdf",
+                    "path": "medias/documents/zg873euD0Tt5HXo1OuMGpHeyBhHnklHvHqYOFWsP.pdf",
+                    "publication_id": 2092,
+                    "type": "documents",
+                    "updated_at": "2025-08-25T16:03:38.000000Z"
+                }
+            ],
+            "id": 2092,
+            "langue": null,
+            "photo_fichiers": [],
+            "publish_date": "2025-08-25",
+            "publish_time": "16:03:38",
+            "slug": "le-rapport-de-la-commission-des-lois-relatif-au-projet-de-loi-n122025-portant-creation-de-loffice-national-de-lutte-contre-la-corruption-examine-par-les-deputes-reunis-en-seance-pleniere-ce-lundi-25-aout-2025-a-lassemblee-nationale",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": null,
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": null,
+            "title": "Le rapport de la Commission des Lois relatif au  projet de loi n\u00b012/2025 portant cr\u00e9ation de l\u2019Office national de lutte contre la Corruption examin\u00e9 par les d\u00e9put\u00e9s r\u00e9unis en s\u00e9ance pl\u00e9ni\u00e8re ce lundi 25 ao\u00fbt 2025 \u00e0 l\u2019Assembl\u00e9e nationale.",
+            "title_ar": "\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u064a\u0644 \u0628\u064a\u0644 \u0631\u0642\u0645 12/2025 \u0625\u0646\u0634\u0627\u0621 \u0627\u0644\u0645\u0643\u062a\u0628 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0641\u0633\u0627\u062f \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u060c 25 \u0623\u063a\u0633\u0637\u0633 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.",
+            "title_en": "The report of the Law Commission relating to bill No. 12/2025 creating the National Office for the Fight against Corruption examined by the deputies gathered in plenary session this Monday, August 25, 2025 in the National Assembly.",
+            "title_wo": "T\u00ebnku B\u00e0nqaasu S\u00e0rt yi soppar\u00f1i ci s\u00e9mbu s\u00e0rt n\u00b012/2025 bi j\u00ebm ci taxawalug OFNAC ci xeex Ger bi SURGA yi di saytu ci pele\u00f1eeru altine 25i fani ut 2025 ci \"Assembl\u00e9e nationale\".",
+            "updated_at": "2025-08-25T16:05:10.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 1650
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                },
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 1650
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                }
+            ],
+            "created_at": "2025-04-09T20:13:52.000000Z",
+            "description": "<p>Projet de loi n&deg;07-2025 autorisant le pr&eacute;sident de la r&eacute;publique &agrave; signer l&rsquo;Instrument d&rsquo;adh&eacute;sion &agrave; l&rsquo;Accord portant cr&eacute;ation de la Banque europ&eacute;enne pour la reconstruction et le d&eacute;veloppement (BERD).</p>",
+            "description_ar": "<p>\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0631\u0642\u0645 07-2025 \u064a\u0633\u0645\u062d \u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0628\u0627\u0644\u062a\u0648\u0642\u064a\u0639 \u0639\u0644\u0649 \u0623\u062f\u0627\u0629 \u0627\u0644\u0639\u0636\u0648\u064a\u0629 \u0641\u064a \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0646\u0634\u0626 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0644\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u0625\u0639\u0645\u0627\u0631 \u0648\u0627\u0644\u062a\u0646\u0645\u064a\u0629 (BERD).</p>",
+            "description_en": "<p>Bill N &deg; 07-2025 authorizing the President of the Republic to sign the instrument of membership in the agreement establishing the European Bank for Reconstruction and Development (BERD).</p>",
+            "description_wo": "<p>S&eacute;mbu s&agrave;rt n&deg;07-2025 buy may Njiitu R&eacute;ew mi mu torlu (sign&eacute;) lu koy tax a bokk ci d&eacute;ggoob biy taxawal B&agrave;nku sas-&oacute;rob ngir tabaxaat ag suqaliku (BERD).</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": "adopte",
+            "fichiers": [],
+            "id": 1650,
+            "langue": null,
+            "photo_fichiers": [],
+            "publish_date": "2025-03-14",
+            "publish_time": "20:13:52",
+            "slug": "projet-de-loi-n07-2025-autorisant-le-president-de-la-republique-a-signer-linstrument-dadhesion-a-laccord-portant-creation-de-la-banque-europeenne-pour-la-reconstruction-et-le-developpement-berd",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": null,
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": null,
+            "title": "Projet de loi n\u00b007-2025 autorisant le pr\u00e9sident de la r\u00e9publique \u00e0 signer l\u2019Instrument d\u2019adh\u00e9sion \u00e0 l\u2019Accord portant cr\u00e9ation de la Banque europ\u00e9enne pour la reconstruction et le d\u00e9veloppement (BERD).",
+            "title_ar": "\u0628\u064a\u0644 \u0631\u0642\u0645 07-2025 \u064a\u0633\u0645\u062d \u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0628\u062a\u0648\u0642\u064a\u0639 \u0623\u062f\u0627\u0629 \u0627\u0644\u0639\u0636\u0648\u064a\u0629 \u0641\u064a \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u062e\u0644\u0642 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0644\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u0625\u0639\u0645\u0627\u0631 \u0648\u0627\u0644\u062a\u0637\u0648\u064a\u0631 (BERD).",
+            "title_en": "Bill N \u00b0 07-2025 authorizing the President of the Republic to sign the instrument of membership in the agreement creating the European Bank for Reconstruction and Development (BERD).",
+            "title_wo": "S\u00e9mbu s\u00e0rt n\u00b007-2025 buy may Njiitu R\u00e9ew mi mu torlu (sign\u00e9) lu koy tax a bokk ci d\u00e9ggoob biy taxawal B\u00e0nku sas-\u00f3rob ngir tabaxaat ag suqaliku\u00a0(BERD).",
+            "updated_at": "2025-05-15T09:02:09.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 1651
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                },
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 1651
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                }
+            ],
+            "created_at": "2025-04-09T20:16:51.000000Z",
+            "description": "<p>Projet de loi n&deg;06-2025 autorisant le pr&eacute;sident de la r&eacute;publique &agrave; signer l&rsquo;Instrument d&rsquo;adh&eacute;sion aux statuts de la Banque de commerce et de d&eacute;veloppement de l&rsquo;Afrique de l&rsquo;Est et australe</p>",
+            "description_ar": "<p>\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0631\u0642\u0645 06-2025 \u064a\u062c\u064a\u0632 \u0631\u0626\u064a\u0633 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0644\u0644\u062a\u0648\u0642\u064a\u0639 \u0639\u0644\u0649 \u0623\u062f\u0627\u0629 \u0627\u0644\u0639\u0636\u0648\u064a\u0629 \u0641\u064a \u0642\u0648\u0627\u0646\u064a\u0646 \u0628\u0646\u0643 \u0627\u0644\u062a\u062c\u0627\u0631\u064a \u0648\u0627\u0644\u062a\u0646\u0645\u064a\u0629 \u0641\u064a \u0634\u0631\u0642 \u0648\u062c\u0646\u0648\u0628 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 <!--1--></p>",
+            "description_en": "<p>Bill N &deg; 06-2025 authorizing the President of the Republic to sign the instrument of membership in the statutes of the Bank of Commercial and Development of East and Southern Africa <!--1--></p>",
+            "description_wo": "<p>S&eacute;mbu s&agrave;rt n&deg;06-2025 buy tax Njiitu R&eacute;ew mi mu torlu (sign&eacute;) ngir bokk ci s&agrave;rti B&agrave;nku yaxantu ak ug suqaliku bu Afrig sowwu-jant ak sud.</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": "adopte",
+            "fichiers": [],
+            "id": 1651,
+            "langue": null,
+            "photo_fichiers": [],
+            "publish_date": "2025-03-14",
+            "publish_time": null,
+            "slug": "projet-de-loi-n06-2025-autorisant-le-president-de-la-republique-a-signer-linstrument-dadhesion-aux-statuts-de-la-banque-de-commerce-et-de-developpement-de-lafrique-de-lest-et-australe",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": null,
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": null,
+            "title": "Projet de loi n\u00b006-2025 autorisant le pr\u00e9sident de la r\u00e9publique \u00e0 signer l\u2019Instrument d\u2019adh\u00e9sion aux statuts de la Banque de commerce et de d\u00e9veloppement de l\u2019Afrique de l\u2019Est et australe",
+            "title_ar": "\u0628\u064a\u0644 \u0631\u0642\u0645 06-2025 \u064a\u0633\u0645\u062d \u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0628\u0627\u0644\u062a\u0648\u0642\u064a\u0639 \u0639\u0644\u0649 \u0623\u062f\u0627\u0629 \u0627\u0644\u0639\u0636\u0648\u064a\u0629 \u0641\u064a \u0642\u0648\u0627\u0646\u064a\u0646 \u0628\u0646\u0643 \u0627\u0644\u062a\u062c\u0627\u0631\u064a \u0648\u0627\u0644\u062a\u0646\u0645\u064a\u0629 \u0641\u064a \u0634\u0631\u0642 \u0648\u062c\u0646\u0648\u0628 \u0625\u0641\u0631\u064a\u0642\u064a\u0627",
+            "title_en": "Bill N \u00b0 06-2025 authorizing the President of the Republic to sign the instrument of membership in the statutes of the Bank of Commercial and Development of East and Southern Africa",
+            "title_wo": "Bill N \u00b0 \u00b0 06-2025 may njiitu r\u00e9ew mi mu si\u00f1e jumtukaayu bokk yi ci w\u00e0llu s\u00e0rti B\u00e0nk ak yokkute ci penku ak Sud Africa",
+            "updated_at": "2025-05-15T09:02:55.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 778
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                },
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 778
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                }
+            ],
+            "created_at": "2025-03-03T23:24:56.000000Z",
+            "description": "<p>loi n2 2025 PORTANT REGLEMENTATION DE LA MICROFINANCE</p>",
+            "description_ar": "<p>\u0627\u0644\u0642\u0627\u0646\u0648\u0646 N2 2025 \u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631</p>",
+            "description_en": "<p>Law N2 2025 Regulating microfinance</p>",
+            "description_wo": "<p>S&agrave;rt n2 2025 bu j&euml;m ci joyyanti t&euml;raliinu &quot;microfinance&quot;</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": "en-cours-de-promulgation",
+            "fichiers": [
+                {
+                    "created_at": "2025-03-03T23:24:56.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FIAMWG8I2Zi92OvArQpAIsGFl7pgg3zHHPqGjtDpz.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FIAMWG8I2Zi92OvArQpAIsGFl7pgg3zHHPqGjtDpz.pdf",
+                    "id": 536,
+                    "name": "loi n2 2025 PORTANT REGLEMENTATION DE LA MICROFINANCE.pdf",
+                    "path": "medias/documents/IAMWG8I2Zi92OvArQpAIsGFl7pgg3zHHPqGjtDpz.pdf",
+                    "publication_id": 778,
+                    "type": "documents",
+                    "updated_at": "2025-03-03T23:24:56.000000Z"
+                }
+            ],
+            "id": 778,
+            "langue": "fr",
+            "photo_fichiers": [],
+            "publish_date": "2025-03-03",
+            "publish_time": "23:24:56",
+            "slug": "loi-n2-2025-portant-reglementation-de-la-microfinance",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": null,
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": null,
+            "title": "loi n2 2025 PORTANT REGLEMENTATION DE LA MICROFINANCE",
+            "title_ar": "\u0627\u0644\u0642\u0627\u0646\u0648\u0646 N2 2025 \u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631",
+            "title_en": "Law N2 2025 Regulating microfinance",
+            "title_wo": "S\u00e0rt n2 2025 bu j\u00ebm ci joyyanti t\u00ebraliinu\u00a0\"microfinance\"",
+            "updated_at": "2025-06-30T11:04:54.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 757
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                },
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 757
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                }
+            ],
+            "created_at": "2025-03-03T13:44:33.000000Z",
+            "description": "<p>Section premi&egrave;re.- Objet et champ d&#39;application&nbsp;<br />\r\nArticle premier. - Objet&nbsp;<br />\r\nLa pr&eacute;sente loi a pour objet de r&eacute;gir l&#39;exercice de l&#39;activit&eacute; de microfinance et le contr&ocirc;le des entit&eacute;s vis&eacute;es &agrave; l&#39;article 2 op&eacute;rant sur le territoire du S&eacute;n&eacute;gal.&nbsp;<br />\r\nArticle 2.- Entit&eacute;s assujetties et tutelle&nbsp;<br />\r\nLa pr&eacute;sente loi s&#39;applique aux institutions de microfinance &eacute;tablies sur le territoire du S&eacute;n&eacute;gal, quels que soient leur forme juridique et le lieu de leur si&egrave;ge social ou d&#39;implantation de leur principal &eacute;tablissement.&nbsp;<br />\r\nLe Ministre charg&eacute; des Finances assure la tutelle des institutions de microfinance, sans pr&eacute;judice des dispositions r&eacute;gissant les pr&eacute;rogatives des autres Autorit&eacute;s comp&eacute;tentes.&nbsp;<br />\r\nSection 2.- Terminologie&nbsp;<br />\r\nArticle 3.- D&eacute;finitions&nbsp;<br />\r\nAu sens de la pr&eacute;sente loi, on entend par:&nbsp;<br />\r\n1. activit&eacute; de microfinance une activit&eacute; consistant &agrave; effectuer, &agrave; titre de&nbsp;<br />\r\nprofession, une ou plusieurs des op&eacute;rations autoris&eacute;es vis&eacute;es au chapitre II du pr&eacute;sent Titre. Cette activit&eacute; est effectu&eacute;e par une institution de microfinance au profit de personnes physiques et morales qui n&#39;ont g&eacute;n&eacute;ralement pas acc&egrave;s aux services offerts par les banques et &eacute;tablissements financiers de cr&eacute;dit;&nbsp;<br />\r\n2. administrateur une personne physique d&eacute;sign&eacute;e par les statuts ou par&nbsp;<br />\r\nl&#39;assembl&eacute;e g&eacute;n&eacute;rale, conform&eacute;ment aux dispositions du droit des soci&eacute;t&eacute;s applicables &agrave; l&#39;institution. Il est membre de l&#39;organe d&eacute;lib&eacute;rant. La personne physique, repr&eacute;sentant permanent d&#39;une personne morale administrateur, est assimil&eacute;e &agrave; un administrateur;&nbsp;<br />\r\n3.&nbsp;affacturage: l&#39;op&eacute;ration d&eacute;finie par la loi uniforme relative &agrave; l&#39;affacturage dans les Etats membres de l&#39;UMOA;&nbsp;<br />\r\n4.&nbsp;agence: une structure sans personnalit&eacute; juridique, d&eacute;pendant d&#39;une institution de microfinance et pouvant &ecirc;tre dot&eacute;e d&#39;une autonomie de gestion selon les modalit&eacute;s pr&eacute;vues par les statuts de ladite institution;&nbsp;<br />\r\n5.&nbsp;Association Professionnelle des Institutions de Microfinance: l&#39;association regroupant l&#39;ensemble des institutions de microfinance du S&eacute;n&eacute;gal;</p>",
+            "description_ar": "<p><strong>\u0627\u0644\u0642\u0633\u0645 \u0623\u0648\u0644\u0627\u064b.- \u0643\u0627\u0626\u0646 \u0648\u0646\u0637\u0627\u0642 \u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u0645\u0627\u062f\u0629 \u0623\u0648\u0644\u0627. - \u0643\u0627\u0626\u0646 \u0627\u0644\u063a\u0631\u0636 \u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0647\u0648 \u062a\u062d\u0643\u0645 \u0645\u0645\u0627\u0631\u0633\u0629 \u0646\u0634\u0627\u0637 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631 \u0648\u0627\u0644\u0633\u064a\u0637\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0643\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u0634\u0627\u0631 \u0625\u0644\u064a\u0647\u0627 \u0641\u064a \u0627\u0644\u0645\u0627\u062f\u0629 2 \u0627\u0644\u062a\u064a \u062a\u0639\u0645\u0644 \u0641\u064a \u0623\u0631\u0627\u0636\u064a \u0627\u0644\u0633\u0646\u063a\u0627\u0644.<br />\r\n\u0627\u0644\u0645\u0627\u062f\u0629 2.- \u0643\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u0648\u0636\u0648\u0639 \u0648\u0627\u0644\u0625\u0634\u0631\u0627\u0641 \u064a\u0646\u0637\u0628\u0642 \u0647\u0630\u0627 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0639\u0644\u0649 \u0645\u0624\u0633\u0633\u0627\u062a \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631 \u0627\u0644\u0630\u064a \u062a\u0645 \u0625\u0646\u0634\u0627\u0624\u0647 \u0641\u064a \u0623\u0631\u0627\u0636\u064a \u0627\u0644\u0633\u0646\u063a\u0627\u0644 \u060c \u0628\u063a\u0636 \u0627\u0644\u0646\u0638\u0631 \u0639\u0646 \u0634\u0643\u0644\u0647\u0627 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a \u0648\u0645\u0643\u0627\u0646 \u0645\u0643\u062a\u0628\u0647\u0645 \u0627\u0644\u0645\u0633\u062c\u0644 \u0623\u0648 \u0625\u0646\u0634\u0627\u0621 \u0645\u0624\u0633\u0633\u062a\u0647\u0645 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629.<br />\r\n\u064a\u0636\u0645\u0646 \u0627\u0644\u0648\u0632\u064a\u0631 \u0627\u0644\u0645\u0633\u0624\u0648\u0644 \u0639\u0646 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0625\u0634\u0631\u0627\u0641 \u0639\u0644\u0649 \u0645\u0624\u0633\u0633\u0627\u062a \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631 \u060c \u062f\u0648\u0646 \u062a\u062d\u064a\u0632 \u0644\u0644\u0623\u062d\u0643\u0627\u0645 \u0627\u0644\u062a\u064a \u062a\u062d\u0643\u0645 \u0635\u0644\u0627\u062d\u064a\u0627\u062a \u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629 \u0627\u0644\u0623\u062e\u0631\u0649.<br />\r\n\u0627\u0644\u0642\u0633\u0645 2.- \u0627\u0644\u0645\u0635\u0637\u0644\u062d\u0627\u062a \u0627\u0644\u0645\u0627\u062f\u0629 3.- \u0627\u0644\u062a\u0639\u0631\u064a\u0641\u0627\u062a \u0628\u0645\u0639\u0646\u0649 \u0647\u0630\u0627 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u060c \u0646\u0639\u0646\u064a: 1. \u0646\u0634\u0627\u0637 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631 \u060c \u0648\u0647\u0648 \u0646\u0634\u0627\u0637 \u064a\u062a\u0643\u0648\u0646 \u0641\u064a \u062a\u0646\u0641\u064a\u0630 \u060c \u0645\u062b\u0644 \u0627\u0644\u0645\u0647\u0646\u0629 \u060c \u0648\u0627\u062d\u062f\u0629 \u0623\u0648 \u0623\u0643\u062b\u0631 \u0645\u0646 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0645\u0639\u062a\u0645\u062f\u0629 \u0627\u0644\u0645\u0634\u0627\u0631 \u0625\u0644\u064a\u0647\u0627 \u0641\u064a \u0627\u0644\u0641\u0635\u0644 \u0627\u0644\u062b\u0627\u0646\u064a \u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u0639\u0646\u0648\u0627\u0646. \u064a\u062a\u0645 \u062a\u0646\u0641\u064a\u0630 \u0647\u0630\u0627 \u0627\u0644\u0646\u0634\u0627\u0637 \u0645\u0646 \u0642\u0628\u0644 \u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631 \u0644\u0635\u0627\u0644\u062d \u0627\u0644\u0623\u0634\u062e\u0627\u0635 \u0627\u0644\u0637\u0628\u064a\u0639\u064a\u064a\u0646 \u0648\u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u064a\u0646 \u0627\u0644\u0630\u064a\u0646 \u0644\u0627 \u064a\u0645\u0643\u0646\u0647\u0645 \u0639\u0645\u0648\u0645\u064b\u0627 \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0642\u062f\u0645\u0647\u0627 \u0627\u0644\u0628\u0646\u0648\u0643 \u0648\u0645\u0624\u0633\u0633\u0627\u062a \u0627\u0644\u0627\u0626\u062a\u0645\u0627\u0646 \u0627\u0644\u0645\u0627\u0644\u064a\u0629 \u061b<br />\r\n2. \u0627\u0644\u0645\u0633\u0624\u0648\u0644 \u0627\u0644\u0634\u062e\u0635 \u0627\u0644\u0637\u0628\u064a\u0639\u064a \u0627\u0644\u0645\u0639\u064a\u0646 \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0642\u0648\u0627\u0646\u064a\u0646 \u0623\u0648 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u060c \u0648\u0641\u0642\u064b\u0627 \u0644\u0623\u062d\u0643\u0627\u0645 \u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0634\u0631\u0643\u0627\u062a \u0627\u0644\u0645\u0637\u0628\u0642\u0629 \u0639\u0644\u0649 \u0627\u0644\u0645\u0624\u0633\u0633\u0629. \u0648\u0647\u0648 \u0639\u0636\u0648 \u0641\u064a \u0627\u0644\u0647\u064a\u0626\u0629 \u0627\u0644\u062a\u062f\u0627\u0648\u0644\u064a\u0629. \u064a\u062a\u0645 \u0627\u0633\u062a\u064a\u0639\u0627\u0628 \u0627\u0644\u0634\u062e\u0635 \u0627\u0644\u0637\u0628\u064a\u0639\u064a \u060c \u0627\u0644\u0645\u0645\u062b\u0644 \u0627\u0644\u062f\u0627\u0626\u0645 \u0644\u0644\u0634\u062e\u0635 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a \u0644\u0644\u0645\u0633\u0624\u0648\u0644 \u060c \u0625\u0644\u0649 \u0627\u0644\u0645\u0633\u0624\u0648\u0644 \u061b<br />\r\n3. \u062d\u0642\u064a\u0642\u0629: \u0627\u0644\u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u0645\u062d\u062f\u062f\u0629 \u0628\u0645\u0648\u062c\u0628 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u0648\u062d\u062f \u0627\u0644\u0645\u062a\u0639\u0644\u0642 \u0628\u0627\u0644\u062a\u0648\u0642\u064a\u0641 \u0641\u064a \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0623\u0639\u0636\u0627\u0621 \u0641\u064a UMOA \u061b<br />\r\n4. \u0627\u0644\u0648\u0643\u0627\u0644\u0629: \u0647\u064a\u0643\u0644 \u0628\u062f\u0648\u0646 \u0634\u062e\u0635\u064a\u0629 \u0642\u0627\u0646\u0648\u0646\u064a\u0629 \u060c \u0627\u0639\u062a\u0645\u0627\u062f\u064b\u0627 \u0639\u0644\u0649 \u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631 \u0648\u0627\u0644\u062a\u064a \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0645\u0646\u062d\u0647\u0627 \u0627\u0633\u062a\u0642\u0644\u0627\u0644\u064a\u0629 \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0648\u0641\u0642\u064b\u0627 \u0644\u0644\u0637\u0631\u0642 \u0627\u0644\u0645\u0646\u0635\u0648\u0635 \u0639\u0644\u064a\u0647\u0627 \u0641\u064a \u0642\u0648\u0627\u0646\u064a\u0646 \u0627\u0644\u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u0645\u0630\u0643\u0648\u0631\u0629 \u061b<br />\r\n5. \u0627\u0644\u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u0645\u0647\u0646\u064a\u0629 \u0644\u0645\u0624\u0633\u0633\u0627\u062a \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631: \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u062c\u0645\u0639 \u0628\u064a\u0646 \u062c\u0645\u064a\u0639 \u0645\u0624\u0633\u0633\u0627\u062a \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631 \u0641\u064a \u0627\u0644\u0633\u0646\u063a\u0627\u0644 \u061b </strong></p>",
+            "description_en": "<p>Section first.- Object and scope of application Article first. - Object The purpose of this Act is to govern the exercise of microfinance activity and the control of entities referred to in article 2 operating in the territory of Senegal.<br />\r\nARTICLE 2.- Subject and supervision entities This law applies to microfinance institutions established in the territory of Senegal, regardless of their legal form and the place of their registered office or establishment of their main establishment.<br />\r\nThe Minister responsible for finance ensures the supervision of microfinance institutions, without prejudice to the provisions governing the prerogatives of the other competent authorities.<br />\r\nSection 2.- Terminology Article 3.- Definitions In the sense of this law, we mean by: 1. Microfinance activity, an activity consisting in carrying out, as profession, one or more of the authorized operations referred to in Chapter II of this title. This activity is carried out by a microfinance institution for the benefit of natural and legal persons who generally do not have access to the services offered by banks and financial credit institutions;<br />\r\n2. Administrator A natural person designated by the statutes or by The General Assembly, in accordance with the provisions of the law of companies applicable to the institution. He is a member of the deliberative body. The natural person, permanent representative of an administrator legal person, is assimilated to an administrator;<br />\r\n3. Factping: The operation defined by the uniform law relating to factoring in the member states of the UMOA;<br />\r\n4. Agency: a structure without legal personality, depending on a microfinance institution and which can be endowed with management autonomy according to the methods provided for by the statutes of the said institution;<br />\r\n5. Professional association of microfinance institutions: the association bringing together all the microfinance institutions in Senegal;</p>",
+            "description_wo": "<p><strong>nj&euml;kk.- Mbir ak yaatuwaayu aplikaasio\u014b Article bi nj&euml;kk. - M&eacute;bet Li waral yoon wi mooy doxal j&euml;fu mikrofinaas yi ak saytu entite yi &ntilde;uy wax ci 2 ndenku Senegaal.<br />\r\nARTIKEL 2.- Sujet ak entite di saytu Yoon wiiy demal nayu aki kurelu mikrofinan a bokk ci r&eacute;ewu Senegaal, seen j&euml;mmukaayu yoon ak seen b&eacute;rab bu &ntilde;u binde walla &ntilde;u taxawal seen i taxawal bu mag.<br />\r\nJawri&ntilde; bi yor w&agrave;llu koppar dafay tax &ntilde;u m&euml;na saytu mbootaayi mikrofinanance yi, te du&ntilde;u tere &ntilde;u t&euml;ral s&agrave;rt yi&ntilde; t&euml;ral ci yeneen njiit yu am doole yi.<br />\r\nTaxawam 2.- Terminoloji 3.- Waxtaane Ci w&agrave;llu yoon wii, danuy wax ci: 1. Ligg&eacute;eyu microfinance, ligg&eacute;ey bu am ci def, ni ligg&eacute;ey, benn wala lu &euml;pp ci ligg&eacute;ey yi&ntilde; may &ntilde;u wax ci Chapitre II ci titre bii. Ligg&eacute;ey boobu, ab institution microfinance la ci njari&ntilde;u njari&ntilde;u nit &ntilde;i ak nit &ntilde;i ci w&agrave;llu yoon, te du&ntilde;u m&euml;na am ligg&eacute;ey yi b&agrave;nk yi ak mbootaayi leble yi di joxe;<br />\r\n2. Administrat&euml;ri nit ku baax la bu s&agrave;rt yi wala ci Asammbale seneraal bi, ci anam wu m&eacute;ngoo ak s&agrave;rti ligg&eacute;eyukaay yi&ntilde; t&euml;ral ci ligg&eacute;eyukaay bi. Bokk na ci yaram wiy joxe xibaar. Nit ku nekk, kiy joxe ab ndaw ci w&agrave;llu yoon, &ntilde;u koy jox kilifa gi yor ko;<br />\r\n3. Facting: Ligg&eacute;ey bi yoon santaane ci w&agrave;llu ligg&eacute;ey ci r&eacute;ew mi bokk ci UMOA;<br />\r\n4. Agence: ab structure bu amul nit ci w&agrave;llu yoon, l&eacute;pp di aju ci benn institution microfinance te m&euml;n na&ntilde;u ko j&euml;fandikoo ngir doxal boppam, l&eacute;pp di aju ci anam yi s&agrave;rt yi&ntilde; t&euml;ral ci daara ju mag ji;<br />\r\n5. Booku ci w&agrave;llu ligg&eacute;ey ci w&agrave;llu microfinance : association dafay dajale b&eacute;pp institision microfinanance ci Senegal; </strong></p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": null,
+            "fichiers": [
+                {
+                    "created_at": "2025-03-03T13:44:33.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FLk4y6F9sNtfiSRAdsE9MkuOt0gC9OyfQnD4nmQL6.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FLk4y6F9sNtfiSRAdsE9MkuOt0gC9OyfQnD4nmQL6.pdf",
+                    "id": 529,
+                    "name": "loi n2 2025 PORTANT REGLEMENTATION DE LA MICROFINANCE.pdf",
+                    "path": "medias/documents/Lk4y6F9sNtfiSRAdsE9MkuOt0gC9OyfQnD4nmQL6.pdf",
+                    "publication_id": 757,
+                    "type": "documents",
+                    "updated_at": "2025-03-03T13:44:33.000000Z"
+                }
+            ],
+            "id": 757,
+            "langue": "fr",
+            "photo_fichiers": [],
+            "publish_date": "2025-02-27",
+            "publish_time": null,
+            "slug": "loi-portant-reglementation-de-la-microfinance",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": null,
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": null,
+            "title": "Loi portant r\u00e9glementation de la microfinance",
+            "title_ar": "\u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631",
+            "title_en": "Law regulating microfinance",
+            "title_wo": "S\u00e0rt bu j\u00ebm ci joyyanti t\u00ebraliinu \"microfinance\"",
+            "updated_at": "2025-05-15T09:08:39.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 779
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                },
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 779
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                }
+            ],
+            "created_at": "2025-03-03T23:26:22.000000Z",
+            "description": "<p>LOI PORTANT REGLEMENTATION BANCAIRE</p>",
+            "description_ar": "<p>\u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0630\u064a \u064a\u062d\u0645\u0644 \u0627\u0644\u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u0645\u0635\u0631\u0641\u064a</p>",
+            "description_en": "<p>Law bearing banking regulation</p>",
+            "description_wo": "<p>Reglaasio\u014bu b&agrave;nk yi ci w&agrave;llu b&agrave;nk.</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": "en-cours-de-promulgation",
+            "fichiers": [
+                {
+                    "created_at": "2025-03-03T23:26:22.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FfgwzO3uIPziR3330weXOI09iEneAeZSWR2QGnP6b.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FfgwzO3uIPziR3330weXOI09iEneAeZSWR2QGnP6b.pdf",
+                    "id": 537,
+                    "name": "LOI PORTANT REGLEMENTATION BANCAIRE.pdf",
+                    "path": "medias/documents/fgwzO3uIPziR3330weXOI09iEneAeZSWR2QGnP6b.pdf",
+                    "publication_id": 779,
+                    "type": "documents",
+                    "updated_at": "2025-03-03T23:26:22.000000Z"
+                }
+            ],
+            "id": 779,
+            "langue": "fr",
+            "photo_fichiers": [],
+            "publish_date": "2025-02-11",
+            "publish_time": null,
+            "slug": "loi-portant-reglementation-bancaire",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": null,
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": null,
+            "title": "Loi portant r\u00e9glementation bancaire",
+            "title_ar": "\u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0630\u064a \u064a\u062d\u0645\u0644 \u0627\u0644\u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u0645\u0635\u0631\u0641\u064a",
+            "title_en": "Law bearing banking regulation",
+            "title_wo": "S\u00e0rt bu j\u00ebm ci joyyanti t\u00ebraliinu b\u00e2nk yi",
+            "updated_at": "2025-05-15T09:11:09.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 262
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                },
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 262
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                }
+            ],
+            "created_at": "2025-01-15T15:40:45.000000Z",
+            "description": "<p>Le projet de loi de finances initiale pour l&rsquo;ann&eacute;e 2025 (PLF) est &eacute;labor&eacute; dans un contexte politique et &eacute;conomique marqu&eacute; par de nombreuses contraintes, avec l&rsquo;av&egrave;nement d&rsquo;un nouveau r&eacute;gime qui a la volont&eacute; dans ses options de rompre d&eacute;finitivement avec l&rsquo;ancien mod&egrave;le de gouvernance, qui continue de maintenir un certain nombre d&rsquo;Etats africains dans une situation de d&eacute;pendance &eacute;conomique vis-&agrave;-vis de l&rsquo;ext&eacute;rieur, les rendant ainsi vuln&eacute;rables &agrave; tout choc exog&egrave;ne ou endog&egrave;ne, malgr&eacute; leurs &eacute;normes potentiels en ressources humaines et naturelles. L&#39;objectif principal de ce projet de budget est de b&acirc;tir une &eacute;conomie plus forte et plus ind&eacute;pendante telle que d&eacute;finie par l&rsquo;Agenda national de Transformation &laquo; S&eacute;n&eacute;gal 2050 &raquo; et d&rsquo;imprimer les ruptures n&eacute;cessaires dans la marche du pays. Il consolide, d&rsquo;une part, les efforts de redressement des finances publiques entam&eacute;s en 2024 et amorce, d&rsquo;autre part, les changements souhaitables, en s&rsquo;appuyant sur les quatre (4) axes de la Strat&eacute;gie nationale de D&eacute;veloppement du S&eacute;n&eacute;gal.</p>",
+            "description_ar": "<p>\u064a\u062a\u0645 \u0648\u0636\u0639 \u0645\u0634\u0631\u0648\u0639 \u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0648\u0644\u064a \u0644\u0639\u0627\u0645 2025 (PLF) \u0641\u064a \u0633\u064a\u0627\u0642 \u0633\u064a\u0627\u0633\u064a \u0648\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u064a\u062a\u0645\u064a\u0632 \u0628\u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0642\u064a\u0648\u062f \u060c \u0645\u0639 \u0638\u0647\u0648\u0631 \u0646\u0638\u0627\u0645 \u062c\u062f\u064a\u062f \u0644\u062f\u064a\u0647 \u0625\u0631\u0627\u062f\u0629 \u0641\u064a \u062e\u064a\u0627\u0631\u0627\u062a\u0647 \u0644\u0643\u0633\u0631\u0647\u0627 \u0628\u0634\u0643\u0644 \u062f\u0627\u0626\u0645 \u0645\u0639 \u0646\u0645\u0648\u0630\u062c \u0627\u0644\u062d\u0643\u0645 \u0627\u0644\u0642\u062f\u064a\u0645 \u060c \u0648\u0627\u0644\u0630\u064a \u064a\u0633\u062a\u0645\u0631 \u0641\u064a \u0627\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u0649 \u0639\u062f\u062f \u0645\u0639\u064a\u0646 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a\u0629 \u0641\u064a \u062d\u0627\u0644\u0629 \u0645\u0646 \u0627\u0644\u0648\u0636\u0639 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0639\u0644\u0649 \u0627\u0644\u062e\u0627\u0631\u062c \u060c \u0645\u0645\u0627 \u064a\u062c\u0639\u0644\u0647\u0627 \u0645\u062a\u0636\u062e\u0645\u0629 \u0628\u0634\u0643\u0644 \u0639\u0627\u0645 \u0623\u0648 \u0635\u062f\u0645\u0629 \u0637\u0628\u064a\u0639\u064a\u0629. \u0627\u0644\u0647\u062f\u0641 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0645\u0646 \u0647\u0630\u0647 \u0627\u0644\u0645\u0633\u0648\u062f\u0629 \u0627\u0644\u0645\u064a\u0632\u0627\u0646\u064a\u0629 \u0647\u0648 \u0628\u0646\u0627\u0621 \u0627\u0642\u062a\u0635\u0627\u062f \u0623\u0642\u0648\u0649 \u0648\u0623\u0643\u062b\u0631 \u0627\u0633\u062a\u0642\u0644\u0627\u0644\u064a\u0629 \u0643\u0645\u0627 \u0647\u0648 \u0645\u062d\u062f\u062f \u0641\u064a \u062c\u062f\u0648\u0644 \u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u062a\u062d\u0648\u0644 \u0627\u0644\u0648\u0637\u0646\u064a &quot;\u0627\u0644\u0633\u0646\u063a\u0627\u0644 2050&quot; \u0648\u0637\u0628\u0627\u0639\u0629 \u0627\u0644\u062a\u0645\u0632\u0642\u0627\u062a \u0627\u0644\u0644\u0627\u0632\u0645\u0629 \u0641\u064a \u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u0628\u0644\u0627\u062f. \u0648\u0647\u0648 \u064a\u0639\u0645\u0644 \u060c \u0645\u0646 \u0646\u0627\u062d\u064a\u0629 \u060c \u0628\u062f\u0623\u062a \u0627\u0644\u062c\u0647\u0648\u062f \u0627\u0644\u0645\u0628\u0630\u0648\u0644\u0629 \u0644\u0627\u0633\u062a\u0639\u0627\u062f\u0629 \u0627\u0644\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0641\u064a \u0639\u0627\u0645 2024 \u0648\u0628\u062f\u0623\u062a \u060c \u0645\u0646 \u0646\u0627\u062d\u064a\u0629 \u0623\u062e\u0631\u0649 \u060c \u0627\u0644\u062a\u063a\u064a\u064a\u0631\u0627\u062a \u0627\u0644\u0645\u0631\u063a\u0648\u0628\u0629 \u060c \u0628\u0646\u0627\u0621\u064b \u0639\u0644\u0649 \u0645\u062d\u0627\u0648\u0631 \u0627\u0644\u0623\u0631\u0628\u0639\u0629 (4) \u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0629 \u0627\u0644\u062a\u0646\u0645\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0633\u0646\u063a\u0627\u0644.</p>",
+            "description_en": "<p>The initial finance bill for the year 2025 (PLF) is drawn up in a political and economic context marked by many constraints, with the advent of a new regime which has the will in its options to break permanently with the old governance model, which continues to maintain a certain number of African states in a situation of economic dependence on the outside, thus making them vulnerable to any exogenous or endogenous shock, enormous potential in human and natural resources. The main objective of this draft budget is to build a stronger and more independent economy as defined by the national transformation agenda &quot;Senegal 2050&quot; and to print the necessary ruptures in the country&#39;s march. He consolidates, on the one hand, the efforts to recover public finances started in 2024 and began, on the other hand, the desirable changes, based on the four (4) axes of the national development strategy of Senegal.</p>",
+            "description_wo": "<p>S&eacute;mbu s&agrave;rtu koppar bu nj&euml;kk ngir atum 2025 (PLF)</p>\r\n\r\n<p>S&eacute;mbu s&agrave;rtu koppar bu nj&euml;kk bi ngir atum 2025 (PLF) &ntilde;u ngi ko defar ci jamonoy jafe-jafey politig ak koom, ak falug nguur gu yees gu aamu ngir dogal bu baax ci xeetu nguur gi falu woon, muy w&eacute;y di t&eacute;ye yenn r&eacute;ewi saa-afrig yi nekk ci tolluwaayu koom ci &agrave;dduna si, ak ci b&eacute;pp &quot;choc exog&egrave;ne&quot; walla &quot;,endog&egrave;ne&quot;, donte seen i me&ntilde;&ntilde;eef am na ci balluy doomu aadama ak &quot;naturelles&quot; am na doole. B&euml;gg-b&euml;gg d&euml;gg ci s&eacute;mbub nj&euml;l lii mooy tabax am koom mu d&euml;g&euml;r ak g&euml;n a moom boppam niki ni &ntilde;u ko waxe ci &quot;,l&#39;Agenda nationale de Transformation S&eacute;n&eacute;gal 2050&quot; &laquo; Senegaal 2050 &raquo; ak indi ay coppite yu war ci ja yu r&eacute;ew mi. Ci beneen boor, ligg&eacute;ey yi dafay doon i biri t&euml;ggaat koppari r&eacute;ew mi ca t&agrave;mbalig atum 2024, ak ci beneen boor, def i coppite yi &ntilde;u b&euml;gg, yu tegu ci &ntilde;ent (4) sukkandikukaay yu x&oacute;ot yu r&eacute;ew mi ci Suqalikug Senegaal.<br />\r\n&nbsp;</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": "adopte",
+            "fichiers": [
+                {
+                    "created_at": "2025-01-15T15:40:45.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2Fz03HjUCDdWfvwLZxPIII0dQF3nipulstes0N304p.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2Fz03HjUCDdWfvwLZxPIII0dQF3nipulstes0N304p.pdf",
+                    "id": 105,
+                    "name": "www.budget.gouv.sn_loi_de_finances_pour_l_annee_2025_en_bref_2025-01-15_15-37.pdf",
+                    "path": "medias/documents/z03HjUCDdWfvwLZxPIII0dQF3nipulstes0N304p.pdf",
+                    "publication_id": 262,
+                    "type": "documents",
+                    "updated_at": "2025-01-15T15:40:45.000000Z"
+                },
+                {
+                    "created_at": "2025-01-20T13:20:57.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FMuvZz9eElY5GgGFisNDCaRZ94dmtvrYsCUBdyWxa.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FMuvZz9eElY5GgGFisNDCaRZ94dmtvrYsCUBdyWxa.pdf",
+                    "id": 147,
+                    "name": "z03HjUCDdWfvwLZxPIII0dQF3nipulstes0N304p.pdf",
+                    "path": "medias/documents/MuvZz9eElY5GgGFisNDCaRZ94dmtvrYsCUBdyWxa.pdf",
+                    "publication_id": 262,
+                    "type": "documents",
+                    "updated_at": "2025-01-20T13:20:57.000000Z"
+                }
+            ],
+            "id": 262,
+            "langue": "fr",
+            "photo_fichiers": [],
+            "publish_date": "2025-01-15",
+            "publish_time": "15:40:50",
+            "slug": "le-projet-de-loi-de-finances-initiale-pour-lannee-2025-plf",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": "thumbnails/jsPwO9Cz77EAvVZlyePNkVTCTJwvY2w3YyG79ZtC.png",
+            "thumbnail_1500": "thumbnails/jsPwO9Cz77EAvVZlyePNkVTCTJwvY2w3YyG79ZtC_1500.png",
+            "thumbnail_500": "thumbnails/jsPwO9Cz77EAvVZlyePNkVTCTJwvY2w3YyG79ZtC_500.png",
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": "https://api.assemblee.sn/fichier/afficher?path=thumbnails%2FjsPwO9Cz77EAvVZlyePNkVTCTJwvY2w3YyG79ZtC.png&signature=d823eacce906bc772fad166ef09d3699dfc46a4fc8be522f2b7c5344e18cea7b",
+            "title": "Le projet de loi de finances initiale pour l\u2019ann\u00e9e 2025 (PLF)",
+            "title_ar": "\u0645\u0634\u0631\u0648\u0639 \u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0648\u0644\u064a \u0644\u0639\u0627\u0645 2025 (PLF)",
+            "title_en": "The initial finance bill for the year 2025 (PLF)",
+            "title_wo": "Ndimbalukaay bu nj\u00ebl ci dawal bu xaalis bu nj\u00ebkk ngir atum 2025 (PLF).",
+            "updated_at": "2025-06-30T11:06:44.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 153
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                },
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 153
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                }
+            ],
+            "created_at": "2025-01-10T15:04:02.000000Z",
+            "description": "<p>La Loi de Finances pour l&#39;ann&eacute;e 2024, connue sous la r&eacute;f&eacute;rence Loi N&deg;2023-18, a &eacute;t&eacute; adopt&eacute;e le 15 d&eacute;cembre 2023. Vous pouvez t&eacute;l&eacute;charger le document au format PDF, qui fait 154 pages, via le site de la Direction G&eacute;n&eacute;rale des Imp&ocirc;ts et Domaines du S&eacute;n&eacute;gal ou les Douanes s&eacute;n&eacute;galaises.Toute loi de finances est particuli&egrave;re mais celle de l&rsquo;ann&eacute;e 2024 rev&ecirc;t un caract&egrave;re unique. En effet, depuis que l&rsquo;actuel Chef de l&rsquo;&Eacute;tat a confirm&eacute;, dans son discours &agrave; la nation du 03 juillet 2023, sa volont&eacute; de ne pas se porter candidat &agrave; l&rsquo;&eacute;lection pr&eacute;sidentielle du 25 f&eacute;vrier 2024, pour la premi&egrave;re fois dans l&rsquo;histoire du S&eacute;n&eacute;gal, un Pr&eacute;sident de la R&eacute;publique soumet &agrave; la repr&eacute;sentation nationale une loi de finances qu&rsquo;il est s&ucirc;r de mettre en &oelig;uvre pendant seulement trois mois. Le budget de l&rsquo;&Eacute;tat pour 2024 n&rsquo;est pas un document isol&eacute;. Il s&rsquo;inscrit dans une strat&eacute;gie globale dont l&rsquo;horizon d&eacute;passe les mandats &eacute;lectoraux, quel que soit leur nombre. Il marque une &eacute;tape suppl&eacute;mentaire dans une trajectoire bien d&eacute;finie, qui n&rsquo;a pour point de rep&egrave;re que le bonheur du peuple s&eacute;n&eacute;galais. Ainsi, la loi de finances (LFI) pour 2024 affiche, comme ceux qui l&rsquo;ont pr&eacute;c&eacute;d&eacute;, une volont&eacute; r&eacute;elle de maintenir le S&eacute;n&eacute;gal sur sa trajectoire d&rsquo;&eacute;mergence, profonde aspiration de tout S&eacute;n&eacute;galais de quelque bord qu&rsquo;il soit</p>",
+            "description_ar": "<p>\u062a\u0645 \u0627\u0639\u062a\u0645\u0627\u062f \u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0644\u0639\u0627\u0645 2024 \u060c \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0645\u0648\u062c\u0628 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u0631\u062c\u0639\u064a \u0631\u0642\u0645 2023-18 \u060c \u0641\u064a 15 \u062f\u064a\u0633\u0645\u0628\u0631 2023. \u064a\u0645\u0643\u0646\u0643 \u062a\u0646\u0632\u064a\u0644 \u0627\u0644\u0645\u0633\u062a\u0646\u062f \u0628\u062a\u0646\u0633\u064a\u0642 PDF \u060c \u0648\u0647\u0648 154 \u0635\u0641\u062d\u0629 \u060c \u0639\u0628\u0631 \u0645\u0648\u0642\u0639 \u0627\u0644\u0645\u062f\u064a\u0631\u064a\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0636\u0631\u0627\u0626\u0628 \u0648\u0627\u0644\u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u0633\u0646\u063a\u0627\u0644 \u0623\u0648 \u0627\u0644\u0639\u0627\u062f\u0627\u062a \u0627\u0644\u0633\u0646\u063a\u0627\u0644\u064a\u0629. \u062c\u0645\u064a\u0639 \u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u062e\u0627\u0635 \u0648\u0644\u0643\u0646 \u0641\u064a \u0639\u0627\u0645 2024 \u0641\u0631\u064a\u062f \u0645\u0646 \u0646\u0648\u0639\u0647. \u0641\u064a \u0627\u0644\u0648\u0627\u0642\u0639 \u060c \u0645\u0646\u0630 \u0623\u0646 \u0623\u0643\u062f \u0631\u0626\u064a\u0633 \u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u062d\u0627\u0644\u064a \u060c \u0641\u064a \u062e\u0637\u0627\u0628\u0647 \u0623\u0645\u0627\u0645 \u0627\u0644\u0623\u0645\u0629 \u0641\u064a 03 \u064a\u0648\u0644\u064a\u0648 \u060c 2023 \u060c \u0644\u0627 \u0631\u063a\u0628\u062a\u0647 \u0641\u064a \u0623\u0644\u0627 \u064a\u0643\u0648\u0646 \u0645\u0631\u0634\u062d\u064b\u0627 \u0641\u064a \u0627\u0644\u0627\u0646\u062a\u062e\u0627\u0628\u0627\u062a \u0627\u0644\u0631\u0626\u0627\u0633\u064a\u0629 \u0641\u064a 25 \u0641\u0628\u0631\u0627\u064a\u0631 2024 \u060c \u0648\u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0641\u064a \u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0633\u0646\u063a\u0627\u0644 \u060c \u0631\u0626\u064a\u0633 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0625\u0644\u0649 \u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u062a\u0645\u062b\u064a\u0644 \u0627\u0644\u0648\u0637\u0646\u064a \u0627\u0644\u0630\u064a \u064a\u062a\u0623\u0643\u062f \u0645\u0646 \u062a\u0646\u0641\u064a\u0630\u0647 \u0644\u0645\u062f\u0629 \u062b\u0644\u0627\u062b \u0623\u0634\u0647\u0631 \u0641\u0642\u0637. \u0645\u064a\u0632\u0627\u0646\u064a\u0629 \u0627\u0644\u062f\u0648\u0644\u0629 \u0644\u0639\u0627\u0645 2024 \u0644\u064a\u0633\u062a \u0648\u062b\u064a\u0642\u0629 \u0645\u0639\u0632\u0648\u0644\u0629. \u0625\u0646\u0647\u0627 \u062c\u0632\u0621 \u0645\u0646 \u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0629 \u0639\u0627\u0644\u0645\u064a\u0629 \u064a\u062a\u062c\u0627\u0648\u0632 \u0623\u0641\u0642\u0647\u0627 \u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0646\u062a\u062e\u0627\u0628\u064a\u0629 \u060c \u0628\u063a\u0636 \u0627\u0644\u0646\u0638\u0631 \u0639\u0646 \u0639\u062f\u062f\u0647\u0627. \u0625\u0646\u0647 \u064a\u0645\u062b\u0644 \u062e\u0637\u0648\u0629 \u0625\u0636\u0627\u0641\u064a\u0629 \u0641\u064a \u0645\u0633\u0627\u0631 \u0645\u062d\u062f\u062f \u0628\u0634\u0643\u0644 \u062c\u064a\u062f \u060c \u0648\u0627\u0644\u0630\u064a \u0644\u064a\u0633 \u0644\u0647 \u0645\u0639\u0644\u0645 \u0641\u0642\u0637 \u0633\u0639\u0627\u062f\u0629 \u0627\u0644\u0634\u0639\u0628 \u0627\u0644\u0633\u0646\u063a\u0627\u0644\u064a. \u0648\u0628\u0627\u0644\u062a\u0627\u0644\u064a \u060c \u0641\u0625\u0646 \u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 (LFI) \u0644\u0639\u0627\u0645 2024 \u064a\u0639\u0631\u0636 \u060c \u062d\u064a\u062b \u0623\u0646 \u0623\u0648\u0644\u0626\u0643 \u0627\u0644\u0630\u064a\u0646 \u0633\u0628\u0642\u0648\u0647 \u060c \u0631\u063a\u0628\u0629 \u062d\u0642\u064a\u0642\u064a\u0629 \u0641\u064a \u0627\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u0649 \u0627\u0644\u0633\u0646\u063a\u0627\u0644 \u0639\u0644\u0649 \u0645\u0633\u0627\u0631 \u0638\u0647\u0648\u0631\u0647 \u060c \u0648\u0627\u0644\u0637\u0645\u0648\u062d \u0627\u0644\u0639\u0645\u064a\u0642 \u0644\u062c\u0645\u064a\u0639 \u0627\u0644\u0633\u0646\u063a\u0627\u0644 \u0645\u0646 \u0623\u064a \u062d\u0627\u0641\u0629</p>",
+            "description_en": "<p>The finance law for the year 2024, known under the reference law n &deg; 2023-18, was adopted on December 15, 2023. You can download the document in PDF format, which is 154 pages, via the site of the Directorate General of Senegal Taxes and Domains or Senegalese Customs. All finance law is special but that of the year 2024 is unique. Indeed, since the current Head of State has confirmed, in his speech to the nation of July 03, 2023, his desire not to be a candidate in the presidential election of February 25, 2024, for the first time in the history of Senegal, a President of the Republic subjects to the national representation a finance law which he is sure to implement for only three months. The state budget for 2024 is not an isolated document. It is part of a global strategy whose horizon exceeds electoral mandates, regardless of their number. It marks an additional step in a well -defined trajectory, which has no landmark only the happiness of the Senegalese people. Thus, the finance law (LFI) for 2024 displays, as those who have preceded it, a real desire to maintain Senegal on its emergence trajectory, deep aspiration of all Senegalese from whatever edge</p>",
+            "description_wo": "<p>S&agrave;rtu Koppar ngir atum 2024, mu m&agrave;ndargawoo ci S&agrave;rtu N&deg;2023-18</p>\r\n\r\n<p>S&agrave;rtu Koppar bu atum 2024, mu m&agrave;ndargawoo ci S&agrave;rt N&deg;2023-18, &ntilde;u nangu ko ca 15i fani des&agrave;mbar 2023. Man ngeen a am \u014bara wi &quot;PDF&quot;, mu ngi tollu ci 154i x&euml;t, jaare ko ci dalub &quot;Direction G&eacute;n&eacute;rale des Imp&ocirc;ts et des Domaines du S&eacute;n&eacute;gal&quot; walla duwaa&ntilde;u saa-senegaal. S&agrave;rti koppar y&eacute;pp yuy boppam la&ntilde;u, waaye bu atum 2024 moom kepp la. Ci loolu, ba fi Njiitu R&eacute;ew mi woon d&euml;ggalee, ciy k&agrave;ddoom ak askan wi yu 3i fani sulet 2023, ci b&euml;ggoon a nekk lawax ci t&agrave;nn gu Njiitu R&eacute;ew yu 25 f&eacute;ewarye 2024, muy gul&eacute;er ci mboorum Senegaal, am Njiitu R&eacute;ew mi joxe ag kaajaram r&eacute;ew mi ab s&agrave;rtu koppar ci w&eacute;yal ba &ntilde;atti weer kepp. Nj&euml;lul R&eacute;ew mi ngir 2024, amul k&euml;yit wu &ntilde;u ko jagleel. Dafa tegu ci ci pexe mu daj ci oriso\u014b weesu kay yu w&eacute;tt yi, ak lu man di xew. Dafa nekk m&agrave;ndargam beneen j&eacute;ego ci yoon wi &ntilde;u teg, bu nekk royukaayu nekk b&agrave;nneex ci askanu Senegaal. Ak it, s&agrave;rtu Koppar yu (LFI) ngir 2024 dafay wane, niki yeneen yi ko jiitu, ab b&euml;gg-b&euml;gg bu w&eacute;r ngir t&eacute;ye Senegaal ci yoon wi mu j&euml;l, ci gis-gisub b&eacute;pp saa-senegaal, ak gis-gis y&eacute;pp.<br />\r\n&nbsp;</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": "adopte",
+            "fichiers": [],
+            "id": 153,
+            "langue": "fr",
+            "photo_fichiers": [],
+            "publish_date": "2025-01-10",
+            "publish_time": "15:04:22",
+            "slug": "la-loi-de-finances-pour-lannee-2024-connue-sous-la-reference-loi-n2023-18",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": "thumbnails/o3Jyr59nmwmREwPQxeFKKZFtnpC6DlzFOpuaXxhl.png",
+            "thumbnail_1500": "thumbnails/o3Jyr59nmwmREwPQxeFKKZFtnpC6DlzFOpuaXxhl_1500.png",
+            "thumbnail_500": "thumbnails/o3Jyr59nmwmREwPQxeFKKZFtnpC6DlzFOpuaXxhl_500.png",
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": "https://api.assemblee.sn/fichier/afficher?path=thumbnails%2Fo3Jyr59nmwmREwPQxeFKKZFtnpC6DlzFOpuaXxhl.png&signature=a83789cc350f66ed1dd3a8370ff968bd929367faeaec5d41ff56aa90a552878a",
+            "title": "La Loi de Finances pour l'ann\u00e9e 2024, connue sous la r\u00e9f\u00e9rence Loi N\u00b02023-18",
+            "title_ar": "\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0644\u0639\u0627\u0645 2024 \u060c \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0645\u0648\u062c\u0628 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u0631\u062c\u0639\u064a \u0631\u0642\u0645 2023-18",
+            "title_en": "The finance law for the year 2024, known under the reference law n \u00b0 2023-18",
+            "title_wo": "S\u00e0rtu Koppar ngir atum 2024, mu m\u00e0ndargawoo ci S\u00e0rtu N\u00b02023-18",
+            "updated_at": "2025-05-15T09:12:27.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 775
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                },
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 775
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                }
+            ],
+            "created_at": "2025-03-03T23:08:03.000000Z",
+            "description": "<p>LOI 11 2024 LOI PORTANT REVISION DE LA CONSTITUTION</p>",
+            "description_ar": "<p>\u0627\u0644\u0642\u0627\u0646\u0648\u0646 11 2024 \u0642\u0627\u0646\u0648\u0646 \u0645\u0631\u0627\u062c\u0639\u0629 \u0627\u0644\u062f\u0633\u062a\u0648\u0631</p>",
+            "description_en": "<p>Law 11 2024 Law revising the Constitution</p>",
+            "description_wo": "<p>S&agrave;rt 11 2024 bu j&euml;m ci t&euml;ggaat ndayu-s&agrave;rti r&eacute;ew mi</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": "adopte",
+            "fichiers": [
+                {
+                    "created_at": "2025-03-03T23:08:03.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FKkTeMIAm1Vdd6w4XmlyGd9jMnKOS64BvxzPDpAhb.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FKkTeMIAm1Vdd6w4XmlyGd9jMnKOS64BvxzPDpAhb.pdf",
+                    "id": 534,
+                    "name": "LOI 11 2024 LOI PORTANT REVISION DE LA CONSTITUTION.pdf",
+                    "path": "medias/documents/KkTeMIAm1Vdd6w4XmlyGd9jMnKOS64BvxzPDpAhb.pdf",
+                    "publication_id": 775,
+                    "type": "documents",
+                    "updated_at": "2025-03-03T23:08:03.000000Z"
+                }
+            ],
+            "id": 775,
+            "langue": "fr",
+            "photo_fichiers": [],
+            "publish_date": "2024-12-14",
+            "publish_time": "23:08:03",
+            "slug": "loi-11-2024-loi-portant-revision-de-la-constitution",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": null,
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": null,
+            "title": "LOI 11 2024 LOI PORTANT REVISION DE LA CONSTITUTION",
+            "title_ar": "\u0627\u0644\u0642\u0627\u0646\u0648\u0646 11 2024 \u0642\u0627\u0646\u0648\u0646 \u0645\u0631\u0627\u062c\u0639\u0629 \u0627\u0644\u062f\u0633\u062a\u0648\u0631",
+            "title_en": "Law 11 2024 Law revising the Constitution",
+            "title_wo": "S\u00e0rt 11 2024 bu j\u00ebm ci t\u00ebggaat ndayu-s\u00e0rti r\u00e9ew mi",
+            "updated_at": "2025-05-15T09:13:40.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 557
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                },
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 557
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                }
+            ],
+            "created_at": "2025-02-28T14:00:28.000000Z",
+            "description": "<p>En s&eacute;ance pl&eacute;ni&egrave;re, ce samedi 14 d&eacute;cembre 2024, les d&eacute;put&eacute;s ont adopt&eacute;\u0301, sous la pr&eacute;sidence de M.&nbsp; Malick Ndiaye, Pr&eacute;sident de l&rsquo;Assembl&eacute;e nationale, les projets de loi portant r&eacute;vision de la Constitution, ainsi que l&rsquo;abrogation de la loi organique n&deg; 2012-28 du 28 d&eacute;cembre 2012 relative a\u0300 l&rsquo;organisation et au fonctionnement du Conseil &eacute;conomique, social et environnemental (CESE), et de la loi organique n&deg; 2016-24 du 14 juillet 2016 relative a\u0300 l&rsquo;organisation et au fonctionnement du Haut Conseil des Collectivit&eacute;s Territoriales (HCCT).</p>\r\n\r\n<p>D&eacute;fendant ces deux projets, le ministre de la Justice a expliqu&eacute;\u0301 que la suppression de ces deux institutions s&rsquo;inscrivait dans la volont&eacute;\u0301 du gouvernement de rationaliser les ressources de l&rsquo;&Eacute;tat, une initiative largement soutenue par la population, va-t-il pr&eacute;cis&eacute;\u0301.</p>\r\n\r\n<p>Avant le d&eacute;but des travaux, le pr&eacute;sident a inform&eacute;\u0301 la pl&eacute;ni&egrave;re de la r&eacute;ception de la demande du ministre de la Justice, Garde des Sceaux, relative a\u0300 la radiation de M. Thierno Aly Sy, ainsi que des lettres de d&eacute;mission de ce dernier et de M. Dethie Fall. Par cons&eacute;quent, leurs suppl&eacute;ants respectifs, M. Mame Oumar</p>",
+            "description_ar": "<p>\u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u060c \u064a\u0648\u0645 \u0627\u0644\u0633\u0628\u062a \u060c 14 \u062f\u064a\u0633\u0645\u0628\u0631 2024 \u060c \u062a\u0645 \u062a\u0628\u0646\u064a \u0627\u0644\u0646\u0648\u0627\u0628 \u060c \u0628\u0631\u0626\u0627\u0633\u0629 \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u0644\u064a\u0643 \u0646\u062f\u064a\u0627\u064a \u060c \u0631\u0626\u064a\u0633 \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u060c \u0648\u0645\u0634\u0627\u0631\u064a\u062d \u0627\u0644\u0641\u0648\u0627\u062a\u064a\u0631 \u0627\u0644\u062a\u064a \u062a\u0642\u0648\u0645 \u0628\u0645\u0631\u0627\u062c\u0639\u0629 \u0627\u0644\u062f\u0633\u062a\u0648\u0631 \u060c \u0648\u0643\u0630\u0644\u0643 \u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0639\u0636\u0648\u064a \u060c \u0648\u062f\u0648\u0631\u0627\u0646 \u0639\u0627\u0645 2016 \u0625\u0644\u0649 28 \u062f\u064a\u0633\u0645\u0628\u0631 2012 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u0627\u0644\u062a\u0646\u0638\u064a\u0645 \u0648\u0627\u0644\u0648\u0638\u0627\u0626\u0641 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a\u0629 \u0648\u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 (CEES) (CESE) \u060c \u0648\u0627\u0644\u0645\u0646\u0638\u0645\u0629. \u0627\u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u0623\u0639\u0644\u0649 \u0644\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0645\u062d\u0644\u064a\u0629 (HCCT).</p>\r\n\r\n<p>\u0627\u0644\u062f\u0641\u0627\u0639 \u0639\u0646 \u0647\u0630\u064a\u0646 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\u064a\u0646 \u060c \u0623\u0648\u0636\u062d \u0648\u0632\u064a\u0631 \u0627\u0644\u0639\u062f\u0644 \u0623\u0646 \u0625\u0644\u063a\u0627\u0621 \u0647\u0627\u062a\u064a\u0646 \u0627\u0644\u0645\u0624\u0633\u0633\u062a\u064a\u0646 \u0643\u0627\u0646 \u062c\u0632\u0621\u064b\u0627 \u0645\u0646 \u0625\u0631\u0627\u062f\u0629 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0644\u062a\u0631\u0634\u064a\u062f \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u062f\u0648\u0644\u0629 \u060c \u0648\u0647\u064a \u0645\u0628\u0627\u062f\u0631\u0629 \u062a\u062f\u0639\u0645\u0647\u0627 \u0627\u0644\u0633\u0643\u0627\u0646 \u0639\u0644\u0649 \u0646\u0637\u0627\u0642 \u0648\u0627\u0633\u0639 \u060c \u0647\u0644 \u0633\u064a\u062d\u062f\u062f.</p>\r\n\r\n<p>\u0642\u0628\u0644 \u0628\u062f\u0621 \u0627\u0644\u0639\u0645\u0644 \u060c \u0623\u0628\u0644\u063a \u0627\u0644\u0631\u0626\u064a\u0633 \u0639\u0627\u0645 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 \u0637\u0644\u0628 \u0648\u0632\u064a\u0631 \u0627\u0644\u0639\u062f\u0644 \u060c \u062d\u0627\u0631\u0633 \u0627\u0644\u0623\u062e\u062a\u0627\u0645 \u060c \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0633\u064a\u062f \u062b\u064a\u0631\u0646\u0648 \u0639\u0644\u064a \u060c \u0648\u0643\u0630\u0644\u0643 \u062e\u0637\u0627\u0628\u0627\u062a \u0627\u0633\u062a\u0642\u0627\u0644\u0629 \u0627\u0644\u0623\u062e\u064a\u0631 \u0648\u0627\u0644\u0633\u064a\u062f \u062f\u064a\u062b\u064a. \u0644\u0630\u0644\u0643 \u060c \u0627\u0644\u0628\u062f\u064a\u0644 \u0644\u0643\u0644 \u0645\u0646\u0647\u0645\u0627 \u060c \u0627\u0644\u0633\u064a\u062f \u0645\u0627\u0645\u064a \u0623\u0648\u0645\u0627\u0631</p>",
+            "description_en": "<p>In plenary session, this Saturday, December 14, 2024, the deputies adopted, under the chairmanship of Mr. Malick Ndiaye, president of the National Assembly, the bills revising the Constitution, as well as the repeal of organic law n &deg; 2012-28 of December 28, 2012 relating to the organization and functioning of the Economic, Social and Environmental Council (CESE), and organic law n &deg; 2016-24 relating to the organization and functioning of the High Council of Local Authorities (HCCT).</p>\r\n\r\n<p>Defending these two projects, the Minister of Justice explained that the abolition of these two institutions was part of the government&#39;s will to rationalize the resources of the State, an initiative widely supported by the population, will he specify.</p>\r\n\r\n<p>Before the start of the work, the president informed the plenary of the reception of the request of the Minister of Justice, Keeper of the Seals, relating to the radiation of Mr. Thierno Aly Sy, as well as the letters of resignation of the latter and Mr. Dethie Fall. Therefore, their respective alternates, Mr. Mame Oumar</p>",
+            "description_wo": "<p>Dindig s&agrave;rt &quot;organique&quot; n&deg;2012-28 bu 28i fani des&agrave;mbar 2012</p>\r\n\r\n<p>Ci ndajem DIPITE yi, gaawu 14i fani des&agrave;mbar 2024, DIPITE nangu da&ntilde;u, ci teewaayu S&euml;&ntilde; El Maalig Njaay, Njiital K&euml;rug Askan wi, ay s&eacute;mbi s&agrave;rt yuy soppar&ntilde;i Ndayu-s&agrave;rti R&eacute;ew mi, ak it dindig s&agrave;rt &quot;organique&quot; n&deg;2012-28 bi j&euml;moon ci lootaabiin ak doxiinu &quot;Conseil &eacute;conomique, social et environnemental&quot; (CESE), ak s&agrave;rt &quot;organique&quot; n&deg;2016-24 bu 14i fani sulet 2016 bi j&euml;moon ci lootaabiin ak doxiinu &quot;Haut Conseil des Collectivit&eacute;s Territoriales&quot; (HCCT).</p>\r\n\r\n<p>Ci layalug &ntilde;aari s&eacute;mb yooyu, &nbsp;J&euml;wri&ntilde;u Yoon ji leeral na dindig &ntilde;aari campeef yooyu te mu tegu ci b&euml;gg-b&euml;ggub goornoma\u014b bi s&agrave;kkanal moomeeli ETAA, mu doon j&eacute;em gu askan wi j&agrave;ppale bu baax, di li mu wax.</p>\r\n\r\n<p>Laata doorug ligg&eacute;ey, Njiit li y&euml;gal na &ntilde;i teewoon ci ndaje mi jotug c&agrave;kkuteefu J&euml;wri&ntilde;u Yoon ji, dindig S&euml;&ntilde; Cerno Aali Si, ak it bataaxelub tekki ndombal-t&agrave;nk lu mujj bi ak bu S&euml;ri&ntilde; D&eacute;cce FAAL. Ci la&ntilde;u fal &ntilde;i leen di wuutu, Soxna Maam Umar<br />\r\n&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Balaa &ntilde;uy t&agrave;mbali ligg&eacute;ey bi, njiitu r&eacute;ew mi dafa wax ni dafa laaj &ntilde;u laaj ko ministre bi yor yoon, Keeper of the Seals, bu j&euml;m ci radiaasio\u014bu M. Thierno Aly Sy, ak bataaxal yi ci topp li &ntilde;u jox ak M. Dethie Fall. Kon seeni mbokki Mame Oumar</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": "adopte",
+            "fichiers": [
+                {
+                    "created_at": "2025-03-21T13:23:20.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2F6w2aWq4rQPanU2OdP79eupA3UTnLE3Q0sCR3EDUv.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2F6w2aWq4rQPanU2OdP79eupA3UTnLE3Q0sCR3EDUv.pdf",
+                    "id": 1093,
+                    "name": "LOI ORGANIQUE N 2012 28 DU 28 DECEMBRE 2012.pdf",
+                    "path": "medias/documents/6w2aWq4rQPanU2OdP79eupA3UTnLE3Q0sCR3EDUv.pdf",
+                    "publication_id": 557,
+                    "type": "documents",
+                    "updated_at": "2025-03-21T13:23:20.000000Z"
+                },
+                {
+                    "created_at": "2025-03-21T13:31:15.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FuCeNXkm4o5zMudY3DvgwskvSlwPZZBySR5bxZmMa.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FuCeNXkm4o5zMudY3DvgwskvSlwPZZBySR5bxZmMa.pdf",
+                    "id": 1094,
+                    "name": "LOI ORGANIQUE N 2012 28 DU 28 DECEMBRE 2012.pdf",
+                    "path": "medias/documents/uCeNXkm4o5zMudY3DvgwskvSlwPZZBySR5bxZmMa.pdf",
+                    "publication_id": 557,
+                    "type": "documents",
+                    "updated_at": "2025-03-21T13:31:15.000000Z"
+                },
+                {
+                    "created_at": "2025-03-21T13:48:52.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FjgiUc8wt2uSwPYK7Xp4Hh5kDI9ppf7m32AWBatrV.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FjgiUc8wt2uSwPYK7Xp4Hh5kDI9ppf7m32AWBatrV.pdf",
+                    "id": 1097,
+                    "name": "LOI ORGANIQUE N 2012 28 DU 28 DECEMBRE 2012.pdf",
+                    "path": "medias/documents/jgiUc8wt2uSwPYK7Xp4Hh5kDI9ppf7m32AWBatrV.pdf",
+                    "publication_id": 557,
+                    "type": "documents",
+                    "updated_at": "2025-03-21T13:48:52.000000Z"
+                },
+                {
+                    "created_at": "2025-03-21T13:54:31.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FdY7lsnW259LD2km9rB4weA8DnZClaCF7zH6CrCdq.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FdY7lsnW259LD2km9rB4weA8DnZClaCF7zH6CrCdq.pdf",
+                    "id": 1099,
+                    "name": "LOI ORGANIQUE N 2012 28 DU 28 DECEMBRE 2012.pdf",
+                    "path": "medias/documents/dY7lsnW259LD2km9rB4weA8DnZClaCF7zH6CrCdq.pdf",
+                    "publication_id": 557,
+                    "type": "documents",
+                    "updated_at": "2025-03-21T13:54:31.000000Z"
+                },
+                {
+                    "created_at": "2025-03-21T13:56:03.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FUeRCK46GDcVdT7XaIYfLSNWZ9DHYHK1aGCKKMvKL.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FUeRCK46GDcVdT7XaIYfLSNWZ9DHYHK1aGCKKMvKL.pdf",
+                    "id": 1101,
+                    "name": "LOI ORGANIQUE N 2012 28 DU 28 DECEMBRE 2012.pdf",
+                    "path": "medias/documents/UeRCK46GDcVdT7XaIYfLSNWZ9DHYHK1aGCKKMvKL.pdf",
+                    "publication_id": 557,
+                    "type": "documents",
+                    "updated_at": "2025-03-21T13:56:03.000000Z"
+                },
+                {
+                    "created_at": "2025-03-21T14:27:19.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fdocuments%2FK0aJcQCQKR5ioFVIhROCzcyLbXu4esE2sjOvpmEK.pdf",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fdocuments%2FK0aJcQCQKR5ioFVIhROCzcyLbXu4esE2sjOvpmEK.pdf",
+                    "id": 1103,
+                    "name": "LOI ORGANIQUE N 2012 28 DU 28 DECEMBRE 2012.pdf",
+                    "path": "medias/documents/K0aJcQCQKR5ioFVIhROCzcyLbXu4esE2sjOvpmEK.pdf",
+                    "publication_id": 557,
+                    "type": "documents",
+                    "updated_at": "2025-03-21T14:27:19.000000Z"
+                }
+            ],
+            "id": 557,
+            "langue": "fr",
+            "photo_fichiers": [],
+            "publish_date": "2024-12-14",
+            "publish_time": "14:01:05",
+            "slug": "abrogation-de-la-loi-organique-n-2012-28-du-28-decembre-2012",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": "thumbnails/wC91O2rQeulFmGHfbWqKEdGJh7WGL9dHUjXGYq5j.jpg",
+            "thumbnail_1500": "thumbnails/wC91O2rQeulFmGHfbWqKEdGJh7WGL9dHUjXGYq5j_1500.jpg",
+            "thumbnail_500": "thumbnails/wC91O2rQeulFmGHfbWqKEdGJh7WGL9dHUjXGYq5j_500.jpg",
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": "https://api.assemblee.sn/fichier/afficher?path=thumbnails%2FwC91O2rQeulFmGHfbWqKEdGJh7WGL9dHUjXGYq5j.jpg&signature=c24c9522a6e283330780c938e9818c840671f02abb4d51a3f1d86f47678b95cb",
+            "title": "Abrogation de la loi organique n\u00b0 2012-28 du 28 d\u00e9cembre 2012",
+            "title_ar": "\u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0639\u0636\u0648\u064a \u0631\u0642\u0645 2012-28 \u0645\u0646 28 \u062f\u064a\u0633\u0645\u0628\u0631 2012",
+            "title_en": "Abrogation of organic law n \u00b0 2012-28 of December 28, 2012",
+            "title_wo": "2012 ba 28 des\u00e0mbar 28, 2012, 2012 ba 28 des\u00e0mbar 2012",
+            "updated_at": "2025-05-15T08:57:47.000000Z"
+        },
+        {
+            "address": null,
+            "categories": [
+                {
+                    "created_at": "2025-01-09T12:04:12.000000Z",
+                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "id": 41,
+                    "parent_id": null,
+                    "pivot": {
+                        "category_id": 41,
+                        "publication_id": 152
+                    },
+                    "slug": "projet-de-loi",
+                    "title": "Projet de loi",
+                    "updated_at": "2025-03-01T11:53:07.000000Z"
+                },
+                {
+                    "created_at": "2025-01-13T17:08:20.000000Z",
+                    "description": "2024-2029",
+                    "id": 67,
+                    "parent_id": 15,
+                    "pivot": {
+                        "category_id": 67,
+                        "publication_id": 152
+                    },
+                    "slug": "xv-legislature",
+                    "title": "XV\u1d49 l\u00e9gislature",
+                    "updated_at": "2025-01-15T14:26:51.000000Z"
+                }
+            ],
+            "created_at": "2025-01-10T14:58:00.000000Z",
+            "description": "<p>En s&eacute;ance pl&eacute;ni&egrave;re, ce samedi 14 d&eacute;cembre 2024, les d&eacute;put&eacute;s ont adopt&eacute;, sous la pr&eacute;sidence de M. <a href=\"https://web.facebook.com/elmaalignjaay?__cft__[0]=AZXl_YM9xO-eAZCONIvn-Mvl7FfGfULyj7P0JAXkEGaAAxCPicGlUOpw2_6ULEdRnVBtlWRr_sc02BntDqJFYT23jxEbDncbm9r1iEIDcXa4OKeDl6hy9vn3NeFRSyEQUwlXKQAqz4MM7FjLUddnJQu3vZaCq42vC-eZnyunUHIx89xUHYtS6DK3Q9Bzvo_A3aQ&amp;__tn__=-]K-R\">El Malick Ndiaye</a>, pr&eacute;sident de l&rsquo;Assembl&eacute;e nationale, les projets de loi portant r&eacute;vision de la Constitution, ainsi que l&rsquo;abrogation de la loi organique n&deg; 2012-28 du 28 d&eacute;cembre 2012 relative &agrave; l&rsquo;organisation et au fonctionnement du Conseil &eacute;conomique, social et environnemental (CESE), et de la loi organique n&deg; 2016-24 du 14 juillet 2016 relative &agrave; l&rsquo;organisation et au fonctionnement du Haut Conseil des Collectivit&eacute;s Territoriales (HCCT).</p>\r\n\r\n<p>D&eacute;fendant ces deux projets, le ministre de la Justice a expliqu&eacute; que la suppression de ces deux institutions s&rsquo;inscrivait dans la volont&eacute; du gouvernement de rationaliser les ressources de l&rsquo;&Eacute;tat, une initiative largement soutenue par la population, a-t-il pr&eacute;cis&eacute;.</p>\r\n\r\n<p>Avant le d&eacute;but des travaux, le pr&eacute;sident a inform&eacute; la pl&eacute;ni&egrave;re de la r&eacute;ception de la demande du ministre de la Justice, Garde des Sceaux, relative &agrave; la radiation de M. Thierno Aly Sy, ainsi que des lettres de d&eacute;mission de ce dernier et de M. Dethie Fall. Par cons&eacute;quent, leurs suppl&eacute;ants respectifs, M. Ndoye et M. Fall, ont &eacute;t&eacute; install&eacute;s conform&eacute;ment aux dispositions en vigueur.</p>",
+            "description_ar": "<pre>\r\n\u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629\u060c \u0647\u0630\u0627 \u0627\u0644\u0633\u0628\u062a 14 \u062f\u064a\u0633\u0645\u0628\u0631 2024\u060c \u0627\u0639\u062a\u0645\u062f \u0627\u0644\u0646\u0648\u0627\u0628\u060c \u0628\u0631\u0626\u0627\u0633\u0629 \u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0645\u0627\u0644\u0643 \u0646\u062f\u064a\u0627\u064a\u060c \u0631\u0626\u064a\u0633 \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629\u060c \u0645\u0634\u0627\u0631\u064a\u0639 \u0627\u0644\u0642\u0648\u0627\u0646\u064a\u0646 \u0627\u0644\u062a\u064a \u062a\u0639\u062f\u0644 \u0627\u0644\u062f\u0633\u062a\u0648\u0631\u060c \u0648\u0643\u0630\u0644\u0643 \u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0639\u0636\u0648\u064a \u0631\u0642\u0645 2012-28 \u0627\u0644\u0645\u0624\u0631\u062e 28 \u062f\u064a\u0633\u0645\u0628\u0631 2012 \u0627\u0644\u0645\u062a\u0639\u0644\u0642 \u0628\u062a\u0646\u0638\u064a\u0645 \u0648\u0639\u0645\u0644 \u0627\u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0648\u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0648\u0627\u0644\u0628\u064a\u0626\u064a (CESE)\u060c \u0648\u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0639\u0636\u0648\u064a \u0631\u0642\u0645 2016-24 \u0627\u0644\u0645\u0624\u0631\u062e 14 \u064a\u0648\u0644\u064a\u0648 2016 \u0627\u0644\u0645\u062a\u0639\u0644\u0642 \u0628\u062a\u0646\u0638\u064a\u0645 \u0648\u0639\u0645\u0644 \u0627\u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u0623\u0639\u0644\u0649 \u0644\u0644\u062c\u0645\u0627\u0639\u0627\u062a \u0627\u0644\u0625\u0642\u0644\u064a\u0645\u064a\u0629 (HCCT).\r\n\r\n\u0648\u0641\u064a \u062f\u0641\u0627\u0639\u0647 \u0639\u0646 \u0647\u0630\u064a\u0646 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\u064a\u0646\u060c \u0623\u0648\u0636\u062d \u0648\u0632\u064a\u0631 \u0627\u0644\u0639\u062f\u0644 \u0623\u0646 \u0625\u0644\u063a\u0627\u0621 \u0647\u0627\u062a\u064a\u0646 \u0627\u0644\u0645\u0624\u0633\u0633\u062a\u064a\u0646 \u064a\u0646\u062f\u0631\u062c \u0641\u064a \u0625\u0637\u0627\u0631 \u0631\u063a\u0628\u0629 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0641\u064a \u062a\u0631\u0634\u064a\u062f \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u062f\u0648\u0644\u0629\u060c \u0648\u0647\u064a \u0645\u0628\u0627\u062f\u0631\u0629 \u062a\u062d\u0638\u0649 \u0628\u062a\u0623\u064a\u064a\u062f \u0634\u0639\u0628\u064a \u0648\u0627\u0633\u0639\u060c \u062d\u0633\u0628 \u0642\u0648\u0644\u0647.\r\n\r\n\u0642\u0628\u0644 \u0628\u062f\u0621 \u0627\u0644\u0639\u0645\u0644\u060c \u0623\u0628\u0644\u063a \u0627\u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0628\u062a\u0644\u0642\u064a \u0627\u0644\u0637\u0644\u0628 \u0645\u0646 \u0648\u0632\u064a\u0631 \u0627\u0644\u0639\u062f\u0644\u060c \u062d\u0627\u0631\u0633 \u0627\u0644\u0623\u062e\u062a\u0627\u0645\u060c \u0627\u0644\u0645\u062a\u0639\u0644\u0642 \u0628\u0625\u0642\u0627\u0644\u0629 \u0627\u0644\u0633\u064a\u062f \u062b\u064a\u0631\u0646\u0648 \u0622\u0644\u064a \u0633\u064a\u060c \u0648\u0643\u0630\u0644\u0643 \u062e\u0637\u0627\u0628\u064a \u0627\u0633\u062a\u0642\u0627\u0644\u0629 \u0627\u0644\u0623\u062e\u064a\u0631 \u0648\u0627\u0644\u0633\u064a\u062f \u062f\u064a\u062b\u064a \u0641\u0627\u0644. \u0648\u0628\u0646\u0627\u0621 \u0639\u0644\u0649 \u0630\u0644\u0643\u060c \u062a\u0645 \u062a\u0646\u0635\u064a\u0628 \u0646\u0627\u0626\u0628\u064a\u0647\u0645\u0627\u060c \u0627\u0644\u0633\u064a\u062f \u0646\u062f\u0648\u064a \u0648\u0627\u0644\u0633\u064a\u062f \u0641\u0627\u0644\u060c \u0648\u0641\u0642\u0627\u064b \u0644\u0644\u0623\u062d\u0643\u0627\u0645 \u0627\u0644\u0633\u0627\u0631\u064a\u0629.</pre>",
+            "description_en": "<p>In a plenary session this Saturday, December 14, 2024, the deputies, chaired by Mr. El Malick Ndiaye, President of the National Assembly, adopted the bills amending the Constitution, as well as the repeal of Organic Law No. 2012-28 of December 28, 2012, relating to the organization and operation of the Economic, Social, and Environmental Council (CESE), and Organic Law No. 2016-24 of July 14, 2016, relating to the organization and operation of the High Council of Territorial Communities (HCCT).</p>\r\n\r\n<p>Defending these two bills, the Minister of Justice explained that the abolition of these two institutions was part of the government&#39;s desire to streamline state resources, an initiative widely supported by the population, he stated. Before the start of the proceedings, the President informed the plenary session of the receipt of the request from the Minister of Justice, Keeper of the Seals, regarding the removal of Mr. Thierno Aly Sy, as well as the letters of resignation from the latter and Mr. Dethie Fall. Consequently, their respective deputies, Mr. Ndoye and Mr. Fall, were installed in accordance with the provisions in force.</p>",
+            "description_wo": "<p>Dindig s&agrave;rt o&quot;rganique&quot; n&deg;2012-28 bu 28i fani des&agrave;mbar 2012 bi doon wax ci lootaabiin ak ak doxiinu (CESE), ak s&agrave;rt &quot;organique&quot; n&deg;2016-24 bu 14i fani sulet 2016 bi wax ci lootaabiin doxiinu (HCCT).</p>\r\n\r\n<p>Ci ndajem DIPITE yi, ca gaawu 14i fani des&agrave;mbar 2024, DIPITE nangu na&ntilde;u, ci teewaayu S&euml;&ntilde; El Maalig Njaay, Njiital K&euml;rug Askan wi, ay s&eacute;mbi s&agrave;rt yy j&euml;m ci soppar&ntilde;i Ndayu-s&agrave;rti R&eacute;ew mi, ak it dindig s&agrave;rt &quot;organique&quot; n&deg;2012-28 des&agrave;mbar 2012 bi j&euml;m ci lootaabiin ak doxiinu &quot;Conseil &eacute;conomique, social et environnemental&quot; (CES ak s&agrave;rt &quot;,organique&quot; n&deg;2016-24 bu 14i fani sulet 2016 bi j&euml;moon ci lootaabiin ak doxiinu &quot;Haut Conseil de Collectivit&eacute;s Territoriales&quot; (HCCT).</p>\r\n\r\n<p>Ci layalug &ntilde;aari s&eacute;mb yooyu, &nbsp;J&euml;wri&ntilde;u Yoon ji leeral na dindig &ntilde;aari campeef yooyu te mu tegu ci b&euml;gg-b&euml;ggub goornoma\u014b bi s&agrave;kkanal moomeeli ETAA, mu doon j&eacute;em gu askan wi j&agrave;ppale bu baax, di li mu wax.</p>\r\n\r\n<p>Laata doorug ligg&eacute;ey, Njiit li y&euml;gal na &ntilde;i teewoon ci ndaje mi jotug c&agrave;kkuteefu J&euml;wri&ntilde;u Yoon ji, dindig S&euml;&ntilde; Cerno Aali Si, ak it bataaxelub tekki ndombal-t&agrave;nk lu mujj bi ak bu S&euml;ri&ntilde; D&eacute;cce FAAL. Ci la&ntilde;u fal ki ko wuutu, S&euml;&ntilde; Nd&oacute;oy ak S&euml;&ntilde; Faal, &ntilde;u samp leen ci anam gu m&eacute;ngoo ak s&agrave;rt yi &ntilde;u teg.</p>",
+            "end_date": null,
+            "end_time": null,
+            "etat": "adopte",
+            "fichiers": [
+                {
+                    "created_at": "2025-01-13T17:49:07.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fphotos%2F5AA7rcM7AbvdG1jb8gpqCSQWsBcKoBHVLDdeNkvo.jpg",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fphotos%2F5AA7rcM7AbvdG1jb8gpqCSQWsBcKoBHVLDdeNkvo.jpg",
+                    "id": 87,
+                    "name": "assemblee-nationale.jpg",
+                    "path": "medias/photos/5AA7rcM7AbvdG1jb8gpqCSQWsBcKoBHVLDdeNkvo.jpg",
+                    "publication_id": 152,
+                    "type": "photo",
+                    "updated_at": "2025-01-13T17:49:07.000000Z"
+                }
+            ],
+            "id": 152,
+            "langue": "fr",
+            "photo_fichiers": [
+                {
+                    "created_at": "2025-01-13T17:49:07.000000Z",
+                    "download_path": "https://api.assemblee.sn/fichier/download?path=medias%2Fphotos%2F5AA7rcM7AbvdG1jb8gpqCSQWsBcKoBHVLDdeNkvo.jpg",
+                    "full_path": "https://api.assemblee.sn/fichier/afficher?path=medias%2Fphotos%2F5AA7rcM7AbvdG1jb8gpqCSQWsBcKoBHVLDdeNkvo.jpg",
+                    "id": 87,
+                    "name": "assemblee-nationale.jpg",
+                    "path": "medias/photos/5AA7rcM7AbvdG1jb8gpqCSQWsBcKoBHVLDdeNkvo.jpg",
+                    "publication_id": 152,
+                    "type": "photo",
+                    "updated_at": "2025-01-13T17:49:07.000000Z"
+                }
+            ],
+            "publish_date": "2024-12-14",
+            "publish_time": "14:58:22",
+            "slug": "abrogation-de-la-loi-organique-n-2012-28-du-28-decembre-2012-relative-a-lorganisation-et-au-fonctionnement-du-cese-et-de-la-loi-organique-n-2016-24-du-14-juillet-2016-relative-a-lorganisation-et-au-fonctionnement-du-hcct",
+            "start_date": null,
+            "start_time": null,
+            "status": "published",
+            "sub_title": null,
+            "sub_title_ar": null,
+            "sub_title_en": null,
+            "sub_title_wo": null,
+            "tags": null,
+            "thumbnail": "thumbnails/6w7rG6QU2OCeBNtKTjLYN57faLUeylEfMOSnUwx2.jpg",
+            "thumbnail_1500": "thumbnails/6w7rG6QU2OCeBNtKTjLYN57faLUeylEfMOSnUwx2_1500.jpg",
+            "thumbnail_500": "thumbnails/6w7rG6QU2OCeBNtKTjLYN57faLUeylEfMOSnUwx2_500.jpg",
+            "thumbnail_banniere": null,
+            "thumbnail_banniere_full_path": null,
+            "thumbnail_full_path": "https://api.assemblee.sn/fichier/afficher?path=thumbnails%2F6w7rG6QU2OCeBNtKTjLYN57faLUeylEfMOSnUwx2.jpg&signature=2a77d9ee0fe86e526f2391f783b83ed8a5217144bac68336ff523387c75abbe9",
+            "title": "Abrogation de la loi organique n\u00b0 2012-28 du 28 d\u00e9cembre 2012 relative \u00e0 l\u2019organisation et au fonctionnement du (CESE), et de la loi organique n\u00b0 2016-24 du 14 juillet 2016 relative \u00e0 l\u2019organisation et au fonctionnement du (HCCT).",
+            "title_ar": "\u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0639\u0636\u0648\u064a N \u00b0 2012-28 \u0645\u0646 28 \u062f\u064a\u0633\u0645\u0628\u0631 2012 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u062a\u0646\u0638\u064a\u0645 (EESC) \u060c \u0648\u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0639\u0636\u0648\u064a N \u00b0 2016-24 \u0645\u0646 14 \u064a\u0648\u0644\u064a\u0648 2016 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u062a\u0646\u0638\u064a\u0645 (HCCT).",
+            "title_en": "Abrogation of organic law n \u00b0 2012-28 of December 28, 2012 relating to the organization and functioning of (EESC), and organic law n \u00b0 2016-24 of July 14, 2016 relating to the organization and functioning of (HCCT).",
+            "title_wo": "Arogation ci loi organik \u00b0 2012-28 ci 28 des\u00e0mbar, 2012 bu j\u00ebm ci mbootaay ak doxal (ESC), ak yoon organik \u00b0 \u00b0 2016-24 ci weeru sulet 14, 2016 bu j\u00ebm ci mbootaay ak doxalinu (HCCT).",
+            "updated_at": "2025-05-15T08:56:46.000000Z"
+        }
+    ]
+]

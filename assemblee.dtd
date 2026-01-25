@@ -1,0 +1,38 @@
+<!ELEMENT assemblee_nationale (informations_generales, deputes, commissions, sessions, lois)>
+
+<!ELEMENT informations_generales (pays, legislature, date_debut, siege, description, nombre_deputes)>
+<!ELEMENT pays (#PCDATA)>
+<!ELEMENT legislature (#PCDATA)>
+<!ELEMENT date_debut (#PCDATA)>
+<!ELEMENT siege (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT nombre_deputes (#PCDATA)>
+
+<!ELEMENT deputes (depute*)>
+
+<!ELEMENT depute (identifiant, parti, biographie, contact)>
+<!ATTLIST depute id ID #REQUIRED>
+
+<!ELEMENT identifiant (nom, prenom, nom_complet, date_naissance, lieu_naissance)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT nom_complet (#PCDATA)>
+<!ELEMENT date_naissance (#PCDATA)>
+<!ELEMENT lieu_naissance (#PCDATA)>
+
+<!ELEMENT parti (#PCDATA)>
+
+<!ELEMENT biographie (formation, profession)>
+<!ELEMENT formation (diplome, universite)>
+<!ELEMENT diplome (#PCDATA)>
+<!ELEMENT universite (#PCDATA)>
+<!ELEMENT profession (#PCDATA)>
+
+<!ELEMENT contact (email, telephone, adresse_bureau, reseaux_sociaux)>
+<!ELEMENT reseaux_sociaux (twitter, facebook, linkedin)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT telephone (#PCDATA)>
+<!ELEMENT adresse_bureau (#PCDATA)>
+<!ELEMENT twitter (#PCDATA)>
+<!ELEMENT facebook (#PCDATA)>
+<!ELEMENT linkedin (#PCDATA)>
