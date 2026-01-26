@@ -2,7 +2,7 @@
 <assemblee_nationale>
     <informations_generales>
         <pays>Sénégal</pays>
-        <legislature>15ème législature</legislature>
+        <legislature>15ème législature (2024-2029)</legislature>
         <date_debut>2022-07-30</date_debut>
         <siege>Dakar</siege>
         <description>
@@ -13,7 +13,7 @@
         <nombre_deputes>165</nombre_deputes>
     </informations_generales>
     <deputes>
-        <depute id="DPT57354">
+        <depute id="DPT681">
             <identifiant>
                 <nom>SYLLA</nom>
                 <prenom>ABDOULAYE</prenom>
@@ -34,7 +34,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT10777">
+        <depute id="DPT649">
             <identifiant>
                 <nom>SALL</nom>
                 <prenom>ABDOU KARIM</prenom>
@@ -47,7 +47,7 @@
             <contact>
                 <email>abdoukarim.sall@assemblee.sn</email>
                 <telephone>771000001</telephone>
-                <adresse_bureau>Batiment C Bureau 2</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 2</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdou karim_sall</twitter>
                     <facebook>facebook.com/abdou karim.sall</facebook>
@@ -55,7 +55,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT94643">
+        <depute id="DPT1700">
             <identifiant>
                 <nom>DIALLO</nom>
                 <prenom>ADAMA</prenom>
@@ -68,7 +68,7 @@
             <contact>
                 <email>adama.diallo@assemblee.sn</email>
                 <telephone>771000002</telephone>
-                <adresse_bureau>Batiment C Bureau 3</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 3</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@adama_diallo</twitter>
                     <facebook>facebook.com/adama.diallo</facebook>
@@ -76,7 +76,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT24972">
+        <depute id="DPT1739">
             <identifiant>
                 <nom>SENE</nom>
                 <prenom>MAGUETTE</prenom>
@@ -89,7 +89,7 @@
             <contact>
                 <email>maguette.sene@assemblee.sn</email>
                 <telephone>771000003</telephone>
-                <adresse_bureau>Batiment C Bureau 4</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 4</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@maguette_sene</twitter>
                     <facebook>facebook.com/maguette.sene</facebook>
@@ -97,7 +97,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT51411">
+        <depute id="DPT642">
             <identifiant>
                 <nom>ANNE</nom>
                 <prenom>CHEIKH OUMAR</prenom>
@@ -118,7 +118,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT60292">
+        <depute id="DPT645">
             <identifiant>
                 <nom>BA N°1</nom>
                 <prenom>AMADOU</prenom>
@@ -131,7 +131,7 @@
             <contact>
                 <email>amadou.ba1@assemblee.sn</email>
                 <telephone>771000005</telephone>
-                <adresse_bureau>Batiment A Bureau 6</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 6</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amadou_ba n°1</twitter>
                     <facebook>facebook.com/amadou.ba n°1</facebook>
@@ -139,7 +139,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT29279">
+        <depute id="DPT740">
             <identifiant>
                 <nom>CAMARA</nom>
                 <prenom>ROKHAYA</prenom>
@@ -160,7 +160,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT28358">
+        <depute id="DPT894">
             <identifiant>
                 <nom>DIONE</nom>
                 <prenom>MBAYE</prenom>
@@ -181,7 +181,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT52310">
+        <depute id="DPT1749">
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>SALIMATA</prenom>
@@ -194,7 +194,7 @@
             <contact>
                 <email>salimata.diop@assemblee.sn</email>
                 <telephone>771000008</telephone>
-                <adresse_bureau>Batiment B Bureau 9</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 9</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@salimata_diop</twitter>
                     <facebook>facebook.com/salimata.diop</facebook>
@@ -202,7 +202,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT55243">
+        <depute id="DPT874">
             <identifiant>
                 <nom>KANE</nom>
                 <prenom>NAFI</prenom>
@@ -223,7 +223,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT99232">
+        <depute id="DPT1722">
             <identifiant>
                 <nom>SARR</nom>
                 <prenom>MOUSSA HAMADY</prenom>
@@ -236,7 +236,7 @@
             <contact>
                 <email>moussaamady.sarr@assemblee.sn</email>
                 <telephone>771000010</telephone>
-                <adresse_bureau>Batiment A Bureau 11</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 11</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@moussa hamady_sarr</twitter>
                     <facebook>facebook.com/moussa hamady.sarr</facebook>
@@ -244,7 +244,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT13268">
+        <depute id="DPT1754">
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>MOUSTAPHA</prenom>
@@ -257,7 +257,7 @@
             <contact>
                 <email>moustapha.diop@assemblee.sn</email>
                 <telephone>771000011</telephone>
-                <adresse_bureau>Batiment C Bureau 12</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 12</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@moustapha_diop</twitter>
                     <facebook>facebook.com/moustapha.diop</facebook>
@@ -265,7 +265,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT72059">
+        <depute id="DPT998">
             <identifiant>
                 <nom>MANGARA</nom>
                 <prenom>BIRIMA</prenom>
@@ -286,7 +286,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT52387">
+        <depute id="DPT1728">
             <identifiant>
                 <nom>SARR</nom>
                 <prenom>PAPA TAHIROU</prenom>
@@ -307,7 +307,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT87972">
+        <depute id="DPT660">
             <identifiant>
                 <nom>BA</nom>
                 <prenom>DIARAYE</prenom>
@@ -320,7 +320,7 @@
             <contact>
                 <email>diaraye.ba@assemblee.sn</email>
                 <telephone>771000014</telephone>
-                <adresse_bureau>Batiment D Bureau 15</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 15</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@diaraye_ba</twitter>
                     <facebook>facebook.com/diaraye.ba</facebook>
@@ -328,7 +328,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT02461">
+        <depute id="DPT687">
             <identifiant>
                 <nom>BA</nom>
                 <prenom>FATOU</prenom>
@@ -341,7 +341,7 @@
             <contact>
                 <email>fatou.ba@assemblee.sn</email>
                 <telephone>771000015</telephone>
-                <adresse_bureau>Batiment A Bureau 16</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 16</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fatou_ba</twitter>
                     <facebook>facebook.com/fatou.ba</facebook>
@@ -349,7 +349,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT27935">
+        <depute id="DPT692">
             <identifiant>
                 <nom>BA</nom>
                 <prenom>FAMA</prenom>
@@ -362,7 +362,7 @@
             <contact>
                 <email>fama.ba@assemblee.sn</email>
                 <telephone>771000016</telephone>
-                <adresse_bureau>Batiment D Bureau 17</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 17</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fama_ba</twitter>
                     <facebook>facebook.com/fama.ba</facebook>
@@ -370,7 +370,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT82798">
+        <depute id="DPT698">
             <identifiant>
                 <nom>BABY</nom>
                 <prenom>BOYE</prenom>
@@ -383,7 +383,7 @@
             <contact>
                 <email>boye.baby@assemblee.sn</email>
                 <telephone>771000017</telephone>
-                <adresse_bureau>Batiment C Bureau 18</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 18</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@boye_baby</twitter>
                     <facebook>facebook.com/boye.baby</facebook>
@@ -391,7 +391,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT78690">
+        <depute id="DPT712">
             <identifiant>
                 <nom>BALDE</nom>
                 <prenom>YOBA</prenom>
@@ -404,7 +404,7 @@
             <contact>
                 <email>yoba.balde@assemblee.sn</email>
                 <telephone>771000018</telephone>
-                <adresse_bureau>Batiment A Bureau 19</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 19</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@yoba_balde</twitter>
                     <facebook>facebook.com/yoba.balde</facebook>
@@ -412,7 +412,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT68006">
+        <depute id="DPT717">
             <identifiant>
                 <nom>BAYO</nom>
                 <prenom>HOLEMATA</prenom>
@@ -425,7 +425,7 @@
             <contact>
                 <email>holemata.bayo@assemblee.sn</email>
                 <telephone>771000019</telephone>
-                <adresse_bureau>Batiment B Bureau 20</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 20</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@holemata_bayo</twitter>
                     <facebook>facebook.com/holemata.bayo</facebook>
@@ -433,7 +433,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT11998">
+        <depute id="DPT723">
             <identifiant>
                 <nom>BEYE</nom>
                 <prenom>MAME DIARRA</prenom>
@@ -446,7 +446,7 @@
             <contact>
                 <email>mamediarra.beye@assemblee.sn</email>
                 <telephone>771000020</telephone>
-                <adresse_bureau>Batiment A Bureau 21</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 21</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mame diarra_beye</twitter>
                     <facebook>facebook.com/mame diarra.beye</facebook>
@@ -454,7 +454,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT85194">
+        <depute id="DPT730">
             <identifiant>
                 <nom>BODIAN</nom>
                 <prenom>RAMATOULAYE</prenom>
@@ -467,7 +467,7 @@
             <contact>
                 <email>ramatoulaye.bodian@assemblee.sn</email>
                 <telephone>771000021</telephone>
-                <adresse_bureau>Batiment D Bureau 22</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 22</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ramatoulaye_bodian</twitter>
                     <facebook>facebook.com/ramatoulaye.bodian</facebook>
@@ -475,7 +475,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT41632">
+        <depute id="DPT638">
             <identifiant>
                 <nom>Bousso</nom>
                 <prenom>Maimouna</prenom>
@@ -496,7 +496,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT03573">
+        <depute id="DPT754">
             <identifiant>
                 <nom>CISS</nom>
                 <prenom>OUSMANE</prenom>
@@ -517,7 +517,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT24421">
+        <depute id="DPT764">
             <identifiant>
                 <nom>CISS</nom>
                 <prenom>DJIBY</prenom>
@@ -530,7 +530,7 @@
             <contact>
                 <email>djiby.ciss@assemblee.sn</email>
                 <telephone>771000024</telephone>
-                <adresse_bureau>Batiment D Bureau 25</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 25</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@djiby_ciss</twitter>
                     <facebook>facebook.com/djiby.ciss</facebook>
@@ -538,7 +538,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT90505">
+        <depute id="DPT775">
             <identifiant>
                 <nom>CISSE</nom>
                 <prenom>FATOU DIOP</prenom>
@@ -551,7 +551,7 @@
             <contact>
                 <email>fatoudiop.cisse@assemblee.sn</email>
                 <telephone>771000025</telephone>
-                <adresse_bureau>Batiment A Bureau 26</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 26</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fatou diop_cisse</twitter>
                     <facebook>facebook.com/fatou diop.cisse</facebook>
@@ -559,7 +559,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT28510">
+        <depute id="DPT787">
             <identifiant>
                 <nom>CISSE</nom>
                 <prenom>SAYE</prenom>
@@ -572,7 +572,7 @@
             <contact>
                 <email>saye.cisse@assemblee.sn</email>
                 <telephone>771000026</telephone>
-                <adresse_bureau>Batiment B Bureau 27</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 27</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@saye_cisse</twitter>
                     <facebook>facebook.com/saye.cisse</facebook>
@@ -580,7 +580,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT16407">
+        <depute id="DPT800">
             <identifiant>
                 <nom>CISSOKO</nom>
                 <prenom>YOUNOUSSA</prenom>
@@ -593,7 +593,7 @@
             <contact>
                 <email>younoussa.cissokho@assemblee.sn</email>
                 <telephone>771000027</telephone>
-                <adresse_bureau>Batiment B Bureau 28</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 28</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@younoussa_cissoko</twitter>
                     <facebook>facebook.com/younoussa.cissoko</facebook>
@@ -601,7 +601,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT41027">
+        <depute id="DPT815">
             <identifiant>
                 <nom>COLY</nom>
                 <prenom>MARIAMA</prenom>
@@ -622,7 +622,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT11247">
+        <depute id="DPT1303">
             <identifiant>
                 <nom>DABO</nom>
                 <prenom>AMY</prenom>
@@ -643,7 +643,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT73917">
+        <depute id="DPT1305">
             <identifiant>
                 <nom>DAFFE</nom>
                 <prenom>MOHAMED AYIB SALIM</prenom>
@@ -656,7 +656,7 @@
             <contact>
                 <email>ayib.daffe@assemblee.sn</email>
                 <telephone>771000030</telephone>
-                <adresse_bureau>Batiment B Bureau 31</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 31</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mohamed ayib salim_daffe</twitter>
                     <facebook>facebook.com/mohamed ayib salim.daffe</facebook>
@@ -664,7 +664,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT29623">
+        <depute id="DPT1344">
             <identifiant>
                 <nom>DANFA</nom>
                 <prenom>INSA</prenom>
@@ -685,7 +685,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT13801">
+        <depute id="DPT1371">
             <identifiant>
                 <nom>DANFAKHA</nom>
                 <prenom>MADY</prenom>
@@ -698,7 +698,7 @@
             <contact>
                 <email>mady.danfakha@assemblee.sn</email>
                 <telephone>771000032</telephone>
-                <adresse_bureau>Batiment D Bureau 33</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 33</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mady_danfakha</twitter>
                     <facebook>facebook.com/mady.danfakha</facebook>
@@ -706,7 +706,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT49602">
+        <depute id="DPT1398">
             <identifiant>
                 <nom>DANG</nom>
                 <prenom>SAMBA</prenom>
@@ -719,7 +719,7 @@
             <contact>
                 <email>samba.dang@assemblee.sn</email>
                 <telephone>771000033</telephone>
-                <adresse_bureau>Batiment B Bureau 34</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 34</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@samba_dang</twitter>
                     <facebook>facebook.com/samba.dang</facebook>
@@ -727,7 +727,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT48566">
+        <depute id="DPT1392">
             <identifiant>
                 <nom>DARY</nom>
                 <prenom>MAME MARIAMA</prenom>
@@ -748,7 +748,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT76411">
+        <depute id="DPT6449">
             <identifiant>
                 <nom>DIA</nom>
                 <prenom>AMADOU</prenom>
@@ -761,7 +761,7 @@
             <contact>
                 <email>amadou.dia@assemblee.sn</email>
                 <telephone>771000035</telephone>
-                <adresse_bureau>Batiment A Bureau 36</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 36</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amadou_dia</twitter>
                     <facebook>facebook.com/amadou.dia</facebook>
@@ -769,7 +769,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT82577">
+        <depute id="DPT1405">
             <identifiant>
                 <nom>DIA</nom>
                 <prenom>AMY</prenom>
@@ -782,7 +782,7 @@
             <contact>
                 <email>amy.dia@assemblee.sn</email>
                 <telephone>771000036</telephone>
-                <adresse_bureau>Batiment C Bureau 37</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 37</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amy_dia</twitter>
                     <facebook>facebook.com/amy.dia</facebook>
@@ -790,7 +790,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT36602">
+        <depute id="DPT1413">
             <identifiant>
                 <nom>DIA</nom>
                 <prenom>ANTA</prenom>
@@ -803,7 +803,7 @@
             <contact>
                 <email>anta.dia@assemblee.sn</email>
                 <telephone>771000037</telephone>
-                <adresse_bureau>Batiment B Bureau 38</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 38</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@anta_dia</twitter>
                     <facebook>facebook.com/anta.dia</facebook>
@@ -811,7 +811,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT87454">
+        <depute id="DPT1443">
             <identifiant>
                 <nom>DIABY</nom>
                 <prenom>AMDIATTA</prenom>
@@ -824,7 +824,7 @@
             <contact>
                 <email>amdiatta.diaby@assemblee.sn</email>
                 <telephone>771000038</telephone>
-                <adresse_bureau>Batiment B Bureau 39</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 39</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amdiatta_diaby</twitter>
                     <facebook>facebook.com/amdiatta.diaby</facebook>
@@ -832,7 +832,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT21195">
+        <depute id="DPT639">
             <identifiant>
                 <nom>Diagne</nom>
                 <prenom>Alioune Badara</prenom>
@@ -845,7 +845,7 @@
             <contact>
                 <email>aliounebadara.diagne@assemblee.sn</email>
                 <telephone>771000039</telephone>
-                <adresse_bureau>Batiment C Bureau 40</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 40</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@alioune badara_diagne</twitter>
                     <facebook>facebook.com/alioune badara.diagne</facebook>
@@ -853,7 +853,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT69925">
+        <depute id="DPT1623">
             <identifiant>
                 <nom>DIAITE</nom>
                 <prenom>MAMADOU LAMINE</prenom>
@@ -866,7 +866,7 @@
             <contact>
                 <email>mamadoulamine.diaite@assemblee.sn</email>
                 <telephone>771000040</telephone>
-                <adresse_bureau>Batiment A Bureau 41</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 41</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mamadou lamine_diaite</twitter>
                     <facebook>facebook.com/mamadou lamine.diaite</facebook>
@@ -874,7 +874,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT92279">
+        <depute id="DPT1641">
             <identifiant>
                 <nom>DIAKITE</nom>
                 <prenom>MOURAMANI KABA</prenom>
@@ -887,7 +887,7 @@
             <contact>
                 <email>mouramanikaba.diakite@assemblee.sn</email>
                 <telephone>771000041</telephone>
-                <adresse_bureau>Batiment C Bureau 42</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 42</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mouramani kaba_diakite</twitter>
                     <facebook>facebook.com/mouramani kaba.diakite</facebook>
@@ -895,7 +895,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT36610">
+        <depute id="DPT1766">
             <identifiant>
                 <nom>DIALLO</nom>
                 <prenom>ISMAILA</prenom>
@@ -908,7 +908,7 @@
             <contact>
                 <email>ismaila.diallo@assemblee.sn</email>
                 <telephone>771000042</telephone>
-                <adresse_bureau>Batiment A Bureau 43</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 43</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ismaila_diallo</twitter>
                     <facebook>facebook.com/ismaila.diallo</facebook>
@@ -916,7 +916,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT66823">
+        <depute id="DPT1784">
             <identifiant>
                 <nom>DIALLO N°2</nom>
                 <prenom>AMADOU</prenom>
@@ -929,7 +929,7 @@
             <contact>
                 <email>amadou.diallo2@assemblee.sn</email>
                 <telephone>771000043</telephone>
-                <adresse_bureau>Batiment C Bureau 44</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 44</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amadou_diallo n°2</twitter>
                     <facebook>facebook.com/amadou.diallo n°2</facebook>
@@ -937,7 +937,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT75100">
+        <depute id="DPT1786">
             <identifiant>
                 <nom>DIAMANKA</nom>
                 <prenom>MARIEME</prenom>
@@ -950,7 +950,7 @@
             <contact>
                 <email>marieme.diamanka@assemblee.sn</email>
                 <telephone>771000044</telephone>
-                <adresse_bureau>Batiment A Bureau 45</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 45</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@marieme_diamanka</twitter>
                     <facebook>facebook.com/marieme.diamanka</facebook>
@@ -958,7 +958,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT56803">
+        <depute id="DPT818">
             <identifiant>
                 <nom>DIAW</nom>
                 <prenom>DIOGOMAYE</prenom>
@@ -971,7 +971,7 @@
             <contact>
                 <email>diogomaye.diaw@assemblee.sn</email>
                 <telephone>771000045</telephone>
-                <adresse_bureau>Batiment A Bureau 46</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 46</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@diogomaye_diaw</twitter>
                     <facebook>facebook.com/diogomaye.diaw</facebook>
@@ -979,7 +979,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT41200">
+        <depute id="DPT827">
             <identifiant>
                 <nom>DICKO</nom>
                 <prenom>CHERIF AHMED</prenom>
@@ -992,7 +992,7 @@
             <contact>
                 <email>cherifahmed.dicko@assemblee.sn</email>
                 <telephone>771000046</telephone>
-                <adresse_bureau>Batiment C Bureau 47</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 47</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@cherif ahmed_dicko</twitter>
                     <facebook>facebook.com/cherif ahmed.dicko</facebook>
@@ -1000,7 +1000,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT25336">
+        <depute id="DPT830">
             <identifiant>
                 <nom>DIEDHIOU</nom>
                 <prenom>BACARY</prenom>
@@ -1013,7 +1013,7 @@
             <contact>
                 <email>bacary.diedhiou@assemblee.sn</email>
                 <telephone>771000047</telephone>
-                <adresse_bureau>Batiment A Bureau 48</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 48</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@bacary_diedhiou</twitter>
                     <facebook>facebook.com/bacary.diedhiou</facebook>
@@ -1021,7 +1021,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT78561">
+        <depute id="DPT836">
             <identifiant>
                 <nom>DIENG</nom>
                 <prenom>ANTHIA</prenom>
@@ -1034,7 +1034,7 @@
             <contact>
                 <email>anthia.dieng@assemblee.sn</email>
                 <telephone>771000048</telephone>
-                <adresse_bureau>Batiment D Bureau 49</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 49</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@anthia_dieng</twitter>
                     <facebook>facebook.com/anthia.dieng</facebook>
@@ -1042,7 +1042,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT72110">
+        <depute id="DPT839">
             <identifiant>
                 <nom>DIENG</nom>
                 <prenom>MAIMOUNA</prenom>
@@ -1055,7 +1055,7 @@
             <contact>
                 <email>maimouna.dieng@assemblee.sn</email>
                 <telephone>771000049</telephone>
-                <adresse_bureau>Batiment B Bureau 50</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 50</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@maimouna_dieng</twitter>
                     <facebook>facebook.com/maimouna.dieng</facebook>
@@ -1063,7 +1063,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT84988">
+        <depute id="DPT844">
             <identifiant>
                 <nom>DIENG</nom>
                 <prenom>MASSAMBA</prenom>
@@ -1076,7 +1076,7 @@
             <contact>
                 <email>massamba.dieng@assemblee.sn</email>
                 <telephone>771000050</telephone>
-                <adresse_bureau>Batiment D Bureau 51</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 51</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@massamba_dieng</twitter>
                     <facebook>facebook.com/massamba.dieng</facebook>
@@ -1084,7 +1084,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT07189">
+        <depute id="DPT861">
             <identifiant>
                 <nom>DIENG</nom>
                 <prenom>NDEYE AWA</prenom>
@@ -1097,7 +1097,7 @@
             <contact>
                 <email>ndeyeawa.dieng@assemblee.sn</email>
                 <telephone>771000051</telephone>
-                <adresse_bureau>Batiment B Bureau 52</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 52</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ndeye awa_dieng</twitter>
                     <facebook>facebook.com/ndeye awa.dieng</facebook>
@@ -1105,7 +1105,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT08730">
+        <depute id="DPT870">
             <identifiant>
                 <nom>DIEYE</nom>
                 <prenom>ALIOUNE</prenom>
@@ -1118,7 +1118,7 @@
             <contact>
                 <email>alioune.dieye@assemblee.sn</email>
                 <telephone>771000052</telephone>
-                <adresse_bureau>Batiment B Bureau 53</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 53</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@alioune_dieye</twitter>
                     <facebook>facebook.com/alioune.dieye</facebook>
@@ -1126,7 +1126,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT98421">
+        <depute id="DPT884">
             <identifiant>
                 <nom>DIONE</nom>
                 <prenom>AWA</prenom>
@@ -1139,7 +1139,7 @@
             <contact>
                 <email>awa.dione@assemblee.sn</email>
                 <telephone>771000053</telephone>
-                <adresse_bureau>Batiment D Bureau 54</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 54</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@awa_dione</twitter>
                     <facebook>facebook.com/awa.dione</facebook>
@@ -1147,7 +1147,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT32626">
+        <depute id="DPT910">
             <identifiant>
                 <nom>DIONE</nom>
                 <prenom>YOUNGARE</prenom>
@@ -1160,7 +1160,7 @@
             <contact>
                 <email>youngare.dione@assemblee.sn</email>
                 <telephone>771000054</telephone>
-                <adresse_bureau>Batiment B Bureau 55</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 55</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@youngare_dione</twitter>
                     <facebook>facebook.com/youngare.dione</facebook>
@@ -1168,7 +1168,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT09637">
+        <depute id="DPT1757">
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>OUMAR</prenom>
@@ -1181,7 +1181,7 @@
             <contact>
                 <email>oumar.diop@assemblee.sn</email>
                 <telephone>771000055</telephone>
-                <adresse_bureau>Batiment D Bureau 56</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 56</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@oumar_diop</twitter>
                     <facebook>facebook.com/oumar.diop</facebook>
@@ -1189,7 +1189,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT05830">
+        <depute id="DPT1759">
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>ASSANE</prenom>
@@ -1210,7 +1210,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT84747">
+        <depute id="DPT1765">
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>ELHADJI</prenom>
@@ -1223,7 +1223,7 @@
             <contact>
                 <email>elhadj.diop@assemblee.sn</email>
                 <telephone>771000057</telephone>
-                <adresse_bureau>Batiment A Bureau 58</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 58</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@elhadji_diop</twitter>
                     <facebook>facebook.com/elhadji.diop</facebook>
@@ -1231,7 +1231,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT43844">
+        <depute id="DPT1785">
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>OUSMANE</prenom>
@@ -1252,7 +1252,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT04300">
+        <depute id="DPT943">
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>MARIE ANGE MAME SELBE</prenom>
@@ -1265,7 +1265,7 @@
             <contact>
                 <email>marieange.diouf@assemblee.sn</email>
                 <telephone>771000059</telephone>
-                <adresse_bureau>Batiment D Bureau 60</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 60</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@marie ange mame selbe_diouf</twitter>
                     <facebook>facebook.com/marie ange mame selbe.diouf</facebook>
@@ -1273,7 +1273,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT04379">
+        <depute id="DPT964">
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>SAMBA</prenom>
@@ -1286,7 +1286,7 @@
             <contact>
                 <email>samba.diouf@assemblee.sn</email>
                 <telephone>771000060</telephone>
-                <adresse_bureau>Batiment A Bureau 61</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 61</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@samba_diouf</twitter>
                     <facebook>facebook.com/samba.diouf</facebook>
@@ -1294,7 +1294,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT55600">
+        <depute id="DPT1760">
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>MARIE HELENE NDOFENE</prenom>
@@ -1307,7 +1307,7 @@
             <contact>
                 <email>mariehelene.diouf@assemblee.sn</email>
                 <telephone>771000061</telephone>
-                <adresse_bureau>Batiment C Bureau 62</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 62</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@marie helene ndofene_diouf</twitter>
                     <facebook>facebook.com/marie helene ndofene.diouf</facebook>
@@ -1315,7 +1315,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT82538">
+        <depute id="DPT1761">
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>ABDOURAHMANE</prenom>
@@ -1328,7 +1328,7 @@
             <contact>
                 <email>abdourahmane.diouf@assemblee.sn</email>
                 <telephone>771000062</telephone>
-                <adresse_bureau>Batiment D Bureau 63</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 63</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdourahmane_diouf</twitter>
                     <facebook>facebook.com/abdourahmane.diouf</facebook>
@@ -1336,7 +1336,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT91486">
+        <depute id="DPT1764">
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>BADARA</prenom>
@@ -1349,7 +1349,7 @@
             <contact>
                 <email>badara.diouf@assemblee.sn</email>
                 <telephone>771000063</telephone>
-                <adresse_bureau>Batiment B Bureau 64</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 64</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@badara_diouf</twitter>
                     <facebook>facebook.com/badara.diouf</facebook>
@@ -1357,7 +1357,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT48418">
+        <depute id="DPT1767">
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>AMADOU LAMINE</prenom>
@@ -1370,7 +1370,7 @@
             <contact>
                 <email>amadoulamine.diouf@assemblee.sn</email>
                 <telephone>771000064</telephone>
-                <adresse_bureau>Batiment B Bureau 65</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 65</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amadou lamine_diouf</twitter>
                     <facebook>facebook.com/amadou lamine.diouf</facebook>
@@ -1378,7 +1378,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT78743">
+        <depute id="DPT980">
             <identifiant>
                 <nom>DOUCOURE</nom>
                 <prenom>BOULY</prenom>
@@ -1391,7 +1391,7 @@
             <contact>
                 <email>bouly.doucoure@assemblee.sn</email>
                 <telephone>771000065</telephone>
-                <adresse_bureau>Batiment C Bureau 66</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 66</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@bouly_doucoure</twitter>
                     <facebook>facebook.com/bouly.doucoure</facebook>
@@ -1399,7 +1399,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT92530">
+        <depute id="DPT997">
             <identifiant>
                 <nom>FALL</nom>
                 <prenom>ELHADJI OUSMANE</prenom>
@@ -1412,7 +1412,7 @@
             <contact>
                 <email>elhadjousmane.fall@assemblee.sn</email>
                 <telephone>771000066</telephone>
-                <adresse_bureau>Batiment A Bureau 67</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 67</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@elhadji ousmane_fall</twitter>
                     <facebook>facebook.com/elhadji ousmane.fall</facebook>
@@ -1420,7 +1420,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT77540">
+        <depute id="DPT1022">
             <identifiant>
                 <nom>FALL</nom>
                 <prenom>MAREME</prenom>
@@ -1441,7 +1441,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT96356">
+        <depute id="DPT816">
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>MBENE</prenom>
@@ -1454,7 +1454,7 @@
             <contact>
                 <email>mbene.faye@assemblee.sn</email>
                 <telephone>771000068</telephone>
-                <adresse_bureau>Batiment D Bureau 69</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 69</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mbene_faye</twitter>
                     <facebook>facebook.com/mbene.faye</facebook>
@@ -1462,7 +1462,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT47517">
+        <depute id="DPT1106">
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>ABDOULAYE</prenom>
@@ -1475,7 +1475,7 @@
             <contact>
                 <email>abdoulaye.faye@assemblee.sn</email>
                 <telephone>771000069</telephone>
-                <adresse_bureau>Batiment C Bureau 70</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 70</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdoulaye_faye</twitter>
                     <facebook>facebook.com/abdoulaye.faye</facebook>
@@ -1483,7 +1483,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT36350">
+        <depute id="DPT1144">
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>ABDOULAYE THOMAS</prenom>
@@ -1496,7 +1496,7 @@
             <contact>
                 <email>abdoulayethomas.faye@assemblee.sn</email>
                 <telephone>771000070</telephone>
-                <adresse_bureau>Batiment A Bureau 71</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 71</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdoulaye thomas_faye</twitter>
                     <facebook>facebook.com/abdoulaye thomas.faye</facebook>
@@ -1504,7 +1504,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT22703">
+        <depute id="DPT1238">
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>BEATRICE GERMAINE TENING</prenom>
@@ -1525,7 +1525,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT28292">
+        <depute id="DPT1241">
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>CHEIKH</prenom>
@@ -1538,7 +1538,7 @@
             <contact>
                 <email>cheikh.faye@assemblee.sn</email>
                 <telephone>771000072</telephone>
-                <adresse_bureau>Batiment A Bureau 73</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 73</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@cheikh_faye</twitter>
                     <facebook>facebook.com/cheikh.faye</facebook>
@@ -1546,7 +1546,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT32461">
+        <depute id="DPT1245">
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>GRASSE</prenom>
@@ -1559,7 +1559,7 @@
             <contact>
                 <email>grasse.faye@assemblee.sn</email>
                 <telephone>771000073</telephone>
-                <adresse_bureau>Batiment D Bureau 74</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 74</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@grasse_faye</twitter>
                     <facebook>facebook.com/grasse.faye</facebook>
@@ -1567,7 +1567,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT66816">
+        <depute id="DPT1246">
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>LAMINE</prenom>
@@ -1580,7 +1580,7 @@
             <contact>
                 <email>lamine.faye@assemblee.sn</email>
                 <telephone>771000074</telephone>
-                <adresse_bureau>Batiment B Bureau 75</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 75</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@lamine_faye</twitter>
                     <facebook>facebook.com/lamine.faye</facebook>
@@ -1588,7 +1588,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT40183">
+        <depute id="DPT1290">
             <identifiant>
                 <nom>GUEYE</nom>
                 <prenom>FATMA</prenom>
@@ -1601,7 +1601,7 @@
             <contact>
                 <email>fatma.gueye@assemblee.sn</email>
                 <telephone>771000075</telephone>
-                <adresse_bureau>Batiment D Bureau 76</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 76</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fatma_gueye</twitter>
                     <facebook>facebook.com/fatma.gueye</facebook>
@@ -1609,7 +1609,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT80538">
+        <depute id="DPT819">
             <identifiant>
                 <nom>GUEYE</nom>
                 <prenom>IBOU</prenom>
@@ -1630,7 +1630,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT32053">
+        <depute id="DPT1275">
             <identifiant>
                 <nom>GUEYE</nom>
                 <prenom>EL HADJI</prenom>
@@ -1643,7 +1643,7 @@
             <contact>
                 <email>elhadji.gueye@assemblee.sn</email>
                 <telephone>771000077</telephone>
-                <adresse_bureau>Batiment D Bureau 78</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 78</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@el hadji_gueye</twitter>
                     <facebook>facebook.com/el hadji.gueye</facebook>
@@ -1651,7 +1651,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT44010">
+        <depute id="DPT851">
             <identifiant>
                 <nom>KANE</nom>
                 <prenom>ALLA</prenom>
@@ -1672,7 +1672,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT06216">
+        <depute id="DPT899">
             <identifiant>
                 <nom>LO</nom>
                 <prenom>AHMADOU</prenom>
@@ -1685,7 +1685,7 @@
             <contact>
                 <email>ahmadou.lo@assemblee.sn</email>
                 <telephone>771000079</telephone>
-                <adresse_bureau>Batiment D Bureau 80</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 80</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ahmadou_lo</twitter>
                     <facebook>facebook.com/ahmadou.lo</facebook>
@@ -1693,7 +1693,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT40650">
+        <depute id="DPT914">
             <identifiant>
                 <nom>MANE</nom>
                 <prenom>FODE</prenom>
@@ -1714,7 +1714,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT06318">
+        <depute id="DPT945">
             <identifiant>
                 <nom>MANE</nom>
                 <prenom>NDEYE FATOU</prenom>
@@ -1727,7 +1727,7 @@
             <contact>
                 <email>ndeyefatou.mane@assemblee.sn</email>
                 <telephone>771000081</telephone>
-                <adresse_bureau>Batiment A Bureau 82</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 82</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ndeye fatou_mane</twitter>
                     <facebook>facebook.com/ndeye fatou.mane</facebook>
@@ -1735,7 +1735,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT14650">
+        <depute id="DPT1028">
             <identifiant>
                 <nom>MBACKE</nom>
                 <prenom>CHEIKH THIORO</prenom>
@@ -1748,7 +1748,7 @@
             <contact>
                 <email>cheikhthioro.mbacke@assemblee.sn</email>
                 <telephone>771000082</telephone>
-                <adresse_bureau>Batiment A Bureau 83</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 83</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@cheikh thioro_mbacke</twitter>
                     <facebook>facebook.com/cheikh thioro.mbacke</facebook>
@@ -1756,7 +1756,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT89896">
+        <depute id="DPT1124">
             <identifiant>
                 <nom>MBACKE</nom>
                 <prenom>MAREME</prenom>
@@ -1777,7 +1777,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT42636">
+        <depute id="DPT1157">
             <identifiant>
                 <nom>MBAYE</nom>
                 <prenom>MAYABE</prenom>
@@ -1790,7 +1790,7 @@
             <contact>
                 <email>mayabe.mbaye@assemblee.sn</email>
                 <telephone>771000084</telephone>
-                <adresse_bureau>Batiment C Bureau 85</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 85</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mayabe_mbaye</twitter>
                     <facebook>facebook.com/mayabe.mbaye</facebook>
@@ -1798,7 +1798,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT90426">
+        <depute id="DPT1763">
             <identifiant>
                 <nom>MBAYE</nom>
                 <prenom>SAFIATOU MALICK</prenom>
@@ -1811,7 +1811,7 @@
             <contact>
                 <email>safiatoumalick.mbaye@assemblee.sn</email>
                 <telephone>771000085</telephone>
-                <adresse_bureau>Batiment C Bureau 86</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 86</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@safiatou malick_mbaye</twitter>
                     <facebook>facebook.com/safiatou malick.mbaye</facebook>
@@ -1819,7 +1819,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT29912">
+        <depute id="DPT1254">
             <identifiant>
                 <nom>MBAYE</nom>
                 <prenom>MOUSSA</prenom>
@@ -1832,7 +1832,7 @@
             <contact>
                 <email>moussa.mbaye@assemblee.sn</email>
                 <telephone>771000086</telephone>
-                <adresse_bureau>Batiment A Bureau 87</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 87</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@moussa_mbaye</twitter>
                     <facebook>facebook.com/moussa.mbaye</facebook>
@@ -1840,7 +1840,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT47692">
+        <depute id="DPT1267">
             <identifiant>
                 <nom>MBENGUE</nom>
                 <prenom>IBRAHIMA</prenom>
@@ -1853,7 +1853,7 @@
             <contact>
                 <email>ibrahima.mbengue@assemblee.sn</email>
                 <telephone>771000087</telephone>
-                <adresse_bureau>Batiment A Bureau 88</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 88</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ibrahima_mbengue</twitter>
                     <facebook>facebook.com/ibrahima.mbengue</facebook>
@@ -1861,7 +1861,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT02807">
+        <depute id="DPT1293">
             <identifiant>
                 <nom>MBODJ</nom>
                 <prenom>FATMA</prenom>
@@ -1874,7 +1874,7 @@
             <contact>
                 <email>fatma.mbodj@assemblee.sn</email>
                 <telephone>771000088</telephone>
-                <adresse_bureau>Batiment D Bureau 89</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 89</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fatma_mbodj</twitter>
                     <facebook>facebook.com/fatma.mbodj</facebook>
@@ -1882,7 +1882,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT67426">
+        <depute id="DPT1367">
             <identifiant>
                 <nom>MBODJ</nom>
                 <prenom>IBRAHIMA</prenom>
@@ -1895,7 +1895,7 @@
             <contact>
                 <email>ibrahima.mbodj@assemblee.sn</email>
                 <telephone>771000089</telephone>
-                <adresse_bureau>Batiment C Bureau 90</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 90</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ibrahima_mbodj</twitter>
                     <facebook>facebook.com/ibrahima.mbodj</facebook>
@@ -1903,7 +1903,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT50662">
+        <depute id="DPT1460">
             <identifiant>
                 <nom>NDAO</nom>
                 <prenom>ALIOUNE</prenom>
@@ -1916,7 +1916,7 @@
             <contact>
                 <email>alioune.ndao@assemblee.sn</email>
                 <telephone>771000090</telephone>
-                <adresse_bureau>Batiment D Bureau 91</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 91</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@alioune_ndao</twitter>
                     <facebook>facebook.com/alioune.ndao</facebook>
@@ -1924,7 +1924,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT90327">
+        <depute id="DPT1547">
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>AMY</prenom>
@@ -1945,7 +1945,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT17269">
+        <depute id="DPT1300">
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>DAOUDA</prenom>
@@ -1958,7 +1958,7 @@
             <contact>
                 <email>daouda.ndiaye@assemblee.sn</email>
                 <telephone>771000092</telephone>
-                <adresse_bureau>Batiment B Bureau 93</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 93</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@daouda_ndiaye</twitter>
                     <facebook>facebook.com/daouda.ndiaye</facebook>
@@ -1966,7 +1966,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT68093">
+        <depute id="DPT1851">
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>MALICK</prenom>
@@ -1979,7 +1979,7 @@
             <contact>
                 <email>malick.ndiaye@assemblee.sn</email>
                 <telephone>771000093</telephone>
-                <adresse_bureau>Batiment D Bureau 94</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 94</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@malick_ndiaye</twitter>
                     <facebook>facebook.com/malick.ndiaye</facebook>
@@ -1987,7 +1987,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT95028">
+        <depute id="DPT828">
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>COUMBA</prenom>
@@ -2000,7 +2000,7 @@
             <contact>
                 <email>coumba.ndiaye@assemblee.sn</email>
                 <telephone>771000094</telephone>
-                <adresse_bureau>Batiment B Bureau 95</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 95</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@coumba_ndiaye</twitter>
                     <facebook>facebook.com/coumba.ndiaye</facebook>
@@ -2008,7 +2008,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT79687">
+        <depute id="DPT1455">
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>NDEYE</prenom>
@@ -2021,7 +2021,7 @@
             <contact>
                 <email>ndeye.ndiaye@assemblee.sn</email>
                 <telephone>771000095</telephone>
-                <adresse_bureau>Batiment B Bureau 96</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 96</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ndeye_ndiaye</twitter>
                     <facebook>facebook.com/ndeye.ndiaye</facebook>
@@ -2029,7 +2029,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT74524">
+        <depute id="DPT1473">
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>ROKHY</prenom>
@@ -2050,7 +2050,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT55161">
+        <depute id="DPT1481">
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>SERIGNE ABDOUL AHAD</prenom>
@@ -2063,7 +2063,7 @@
             <contact>
                 <email>serigneabdoulahad.ndiaye@assemblee.sn</email>
                 <telephone>771000097</telephone>
-                <adresse_bureau>Batiment A Bureau 98</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 98</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@serigne abdoul ahad_ndiaye</twitter>
                     <facebook>facebook.com/serigne abdoul ahad.ndiaye</facebook>
@@ -2071,7 +2071,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT02607">
+        <depute id="DPT1758">
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>CHEIKH  BARA</prenom>
@@ -2084,7 +2084,7 @@
             <contact>
                 <email>bara.ndiaye@assemblee.sn</email>
                 <telephone>771000098</telephone>
-                <adresse_bureau>Batiment B Bureau 99</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 99</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@cheikh  bara_ndiaye</twitter>
                     <facebook>facebook.com/cheikh  bara.ndiaye</facebook>
@@ -2092,7 +2092,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT42895">
+        <depute id="DPT1762">
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>BABACAR</prenom>
@@ -2105,7 +2105,7 @@
             <contact>
                 <email>babacar.ndiaye@assemblee.sn</email>
                 <telephone>771000099</telephone>
-                <adresse_bureau>Batiment B Bureau 100</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 100</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@babacar_ndiaye</twitter>
                     <facebook>facebook.com/babacar.ndiaye</facebook>
@@ -2113,7 +2113,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT70461">
+        <depute id="DPT1526">
             <identifiant>
                 <nom>NDIONE</nom>
                 <prenom>SALIOU</prenom>
@@ -2126,7 +2126,7 @@
             <contact>
                 <email>saliou.ndione@assemblee.sn</email>
                 <telephone>771000100</telephone>
-                <adresse_bureau>Batiment B Bureau 101</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 101</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@saliou_ndione</twitter>
                     <facebook>facebook.com/saliou.ndione</facebook>
@@ -2134,7 +2134,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT78664">
+        <depute id="DPT1542">
             <identifiant>
                 <nom>NDOM</nom>
                 <prenom>RAMATOULAYE</prenom>
@@ -2147,7 +2147,7 @@
             <contact>
                 <email>ramatoulaye.ndom@assemblee.sn</email>
                 <telephone>771000101</telephone>
-                <adresse_bureau>Batiment C Bureau 102</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 102</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ramatoulaye_ndom</twitter>
                     <facebook>facebook.com/ramatoulaye.ndom</facebook>
@@ -2155,7 +2155,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT44272">
+        <depute id="DPT1855">
             <identifiant>
                 <nom>NDOYE</nom>
                 <prenom>MAME OUMAR</prenom>
@@ -2168,7 +2168,7 @@
             <contact>
                 <email/>
                 <telephone>771000102</telephone>
-                <adresse_bureau>Batiment A Bureau 103</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 103</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mame oumar_ndoye</twitter>
                     <facebook>facebook.com/mame oumar.ndoye</facebook>
@@ -2176,7 +2176,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT03614">
+        <depute id="DPT1624">
             <identifiant>
                 <nom>NGOM</nom>
                 <prenom>FATOU</prenom>
@@ -2197,7 +2197,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT63359">
+        <depute id="DPT1629">
             <identifiant>
                 <nom>NIANG</nom>
                 <prenom>ALASSANE</prenom>
@@ -2210,7 +2210,7 @@
             <contact>
                 <email>alassane.niang@assemblee.sn</email>
                 <telephone>771000104</telephone>
-                <adresse_bureau>Batiment D Bureau 105</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 105</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@alassane_niang</twitter>
                     <facebook>facebook.com/alassane.niang</facebook>
@@ -2218,7 +2218,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT29823">
+        <depute id="DPT1644">
             <identifiant>
                 <nom>SAGNA</nom>
                 <prenom>GUY MARIUS</prenom>
@@ -2231,7 +2231,7 @@
             <contact>
                 <email>guymarius.sagna@assemblee.sn</email>
                 <telephone>771000105</telephone>
-                <adresse_bureau>Batiment B Bureau 106</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 106</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@guy marius_sagna</twitter>
                     <facebook>facebook.com/guy marius.sagna</facebook>
@@ -2239,7 +2239,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT11310">
+        <depute id="DPT1650">
             <identifiant>
                 <nom>SAGNA</nom>
                 <prenom>JACQUELINE</prenom>
@@ -2260,7 +2260,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT31864">
+        <depute id="DPT1756">
             <identifiant>
                 <nom>SALL</nom>
                 <prenom>MOHAMED</prenom>
@@ -2273,7 +2273,7 @@
             <contact>
                 <email>mohamed.sall@assemblee.sn</email>
                 <telephone>771000107</telephone>
-                <adresse_bureau>Batiment D Bureau 108</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 108</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mohamed_sall</twitter>
                     <facebook>facebook.com/mohamed.sall</facebook>
@@ -2281,7 +2281,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT67891">
+        <depute id="DPT1680">
             <identifiant>
                 <nom>SAMBE</nom>
                 <prenom>SEYNABOU YACINE</prenom>
@@ -2294,7 +2294,7 @@
             <contact>
                 <email>seynabouyacine.sambe@assemblee.sn</email>
                 <telephone>771000108</telephone>
-                <adresse_bureau>Batiment B Bureau 109</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 109</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@seynabou yacine_sambe</twitter>
                     <facebook>facebook.com/seynabou yacine.sambe</facebook>
@@ -2302,7 +2302,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT81190">
+        <depute id="DPT1681">
             <identifiant>
                 <nom>SAMBOU</nom>
                 <prenom>ALPHONSE MANE</prenom>
@@ -2315,7 +2315,7 @@
             <contact>
                 <email>alphonemane.sambou@assemblee.sn</email>
                 <telephone>771000109</telephone>
-                <adresse_bureau>Batiment C Bureau 110</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 110</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@alphonse mane_sambou</twitter>
                     <facebook>facebook.com/alphonse mane.sambou</facebook>
@@ -2323,7 +2323,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT59906">
+        <depute id="DPT1683">
             <identifiant>
                 <nom>SANE</nom>
                 <prenom>NDEYE MARIE</prenom>
@@ -2336,7 +2336,7 @@
             <contact>
                 <email>ndeyemarie.sane@assemblee.sn</email>
                 <telephone>771000110</telephone>
-                <adresse_bureau>Batiment B Bureau 111</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 111</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ndeye marie_sane</twitter>
                     <facebook>facebook.com/ndeye marie.sane</facebook>
@@ -2344,7 +2344,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT38559">
+        <depute id="DPT1685">
             <identifiant>
                 <nom>SAO</nom>
                 <prenom>MAYE</prenom>
@@ -2357,7 +2357,7 @@
             <contact>
                 <email>maye.sao@assemblee.sn</email>
                 <telephone>771000111</telephone>
-                <adresse_bureau>Batiment B Bureau 112</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 112</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@maye_sao</twitter>
                     <facebook>facebook.com/maye.sao</facebook>
@@ -2365,7 +2365,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT47409">
+        <depute id="DPT1702">
             <identifiant>
                 <nom>SARR</nom>
                 <prenom>ANSOUMANA</prenom>
@@ -2378,7 +2378,7 @@
             <contact>
                 <email>ansoumana.sarr@assemblee.sn</email>
                 <telephone>771000112</telephone>
-                <adresse_bureau>Batiment B Bureau 113</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 113</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ansoumana_sarr</twitter>
                     <facebook>facebook.com/ansoumana.sarr</facebook>
@@ -2386,7 +2386,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT41100">
+        <depute id="DPT1709">
             <identifiant>
                 <nom>SARR</nom>
                 <prenom>FELICITE MBOUGANE</prenom>
@@ -2399,7 +2399,7 @@
             <contact>
                 <email>felicitembougane.sarr@assemblee.sn</email>
                 <telephone>771000113</telephone>
-                <adresse_bureau>Batiment C Bureau 114</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 114</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@felicite mbougane_sarr</twitter>
                     <facebook>facebook.com/felicite mbougane.sarr</facebook>
@@ -2407,7 +2407,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT73578">
+        <depute id="DPT1710">
             <identifiant>
                 <nom>SARR</nom>
                 <prenom>KHADY</prenom>
@@ -2420,7 +2420,7 @@
             <contact>
                 <email>khady.sarr@assemblee.sn</email>
                 <telephone>771000114</telephone>
-                <adresse_bureau>Batiment A Bureau 115</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 115</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@khady_sarr</twitter>
                     <facebook>facebook.com/khady.sarr</facebook>
@@ -2428,7 +2428,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT07043">
+        <depute id="DPT1738">
             <identifiant>
                 <nom>SECK</nom>
                 <prenom>AWA</prenom>
@@ -2441,7 +2441,7 @@
             <contact>
                 <email>awa.seck@assemblee.sn</email>
                 <telephone>771000115</telephone>
-                <adresse_bureau>Batiment A Bureau 116</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 116</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@awa_seck</twitter>
                     <facebook>facebook.com/awa.seck</facebook>
@@ -2449,7 +2449,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT66658">
+        <depute id="DPT708">
             <identifiant>
                 <nom>SENE</nom>
                 <prenom>ALIOU</prenom>
@@ -2470,7 +2470,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT96457">
+        <depute id="DPT707">
             <identifiant>
                 <nom>SEYE</nom>
                 <prenom>MAMADOU</prenom>
@@ -2483,7 +2483,7 @@
             <contact>
                 <email>mamadou.seye@assemblee.sn</email>
                 <telephone>771000117</telephone>
-                <adresse_bureau>Batiment C Bureau 118</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 118</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mamadou_seye</twitter>
                     <facebook>facebook.com/mamadou.seye</facebook>
@@ -2491,7 +2491,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT21539">
+        <depute id="DPT702">
             <identifiant>
                 <nom>SIDIBE</nom>
                 <prenom>OULIMATA</prenom>
@@ -2504,7 +2504,7 @@
             <contact>
                 <email>oulimata.sidibe@assemblee.sn</email>
                 <telephone>771000118</telephone>
-                <adresse_bureau>Batiment D Bureau 119</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 119</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@oulimata_sidibe</twitter>
                     <facebook>facebook.com/oulimata.sidibe</facebook>
@@ -2512,7 +2512,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT67152">
+        <depute id="DPT703">
             <identifiant>
                 <nom>SOLLY</nom>
                 <prenom>SONA KINTY</prenom>
@@ -2525,7 +2525,7 @@
             <contact>
                 <email>sonakinti.solly@assemblee.sn</email>
                 <telephone>771000119</telephone>
-                <adresse_bureau>Batiment B Bureau 120</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 120</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@sona kinty_solly</twitter>
                     <facebook>facebook.com/sona kinty.solly</facebook>
@@ -2533,7 +2533,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT60360">
+        <depute id="DPT696">
             <identifiant>
                 <nom>SONKO</nom>
                 <prenom>ABDOUL KADYR</prenom>
@@ -2554,7 +2554,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT97985">
+        <depute id="DPT700">
             <identifiant>
                 <nom>SONKO</nom>
                 <prenom>OUSMANE</prenom>
@@ -2575,7 +2575,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT62737">
+        <depute id="DPT701">
             <identifiant>
                 <nom>SONKO</nom>
                 <prenom>AWA</prenom>
@@ -2588,7 +2588,7 @@
             <contact>
                 <email>awa.sonko@assemblee.sn</email>
                 <telephone>771000122</telephone>
-                <adresse_bureau>Batiment D Bureau 123</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 123</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@awa_sonko</twitter>
                     <facebook>facebook.com/awa.sonko</facebook>
@@ -2596,7 +2596,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT92519">
+        <depute id="DPT693">
             <identifiant>
                 <nom>SOUARE</nom>
                 <prenom>MOHAMED SIRADIO</prenom>
@@ -2617,7 +2617,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT99875">
+        <depute id="DPT695">
             <identifiant>
                 <nom>SOUARE</nom>
                 <prenom>MAMADOU LAMINE</prenom>
@@ -2630,7 +2630,7 @@
             <contact>
                 <email>mamadoulamine.souare@assemblee.sn</email>
                 <telephone>771000124</telephone>
-                <adresse_bureau>Batiment B Bureau 125</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 125</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mamadou lamine_souare</twitter>
                     <facebook>facebook.com/mamadou lamine.souare</facebook>
@@ -2638,7 +2638,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT89278">
+        <depute id="DPT684">
             <identifiant>
                 <nom>SOW</nom>
                 <prenom>KHADY</prenom>
@@ -2651,7 +2651,7 @@
             <contact>
                 <email>khady.sow@assemblee.sn</email>
                 <telephone>771000125</telephone>
-                <adresse_bureau>Batiment B Bureau 126</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 126</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@khady_sow</twitter>
                     <facebook>facebook.com/khady.sow</facebook>
@@ -2659,7 +2659,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT24667">
+        <depute id="DPT685">
             <identifiant>
                 <nom>SOW</nom>
                 <prenom>ABDOULAYE</prenom>
@@ -2672,7 +2672,7 @@
             <contact>
                 <email>abdoulaye.sow@assemblee.sn</email>
                 <telephone>771000126</telephone>
-                <adresse_bureau>Batiment D Bureau 127</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 127</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdoulaye_sow</twitter>
                     <facebook>facebook.com/abdoulaye.sow</facebook>
@@ -2680,7 +2680,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT44924">
+        <depute id="DPT686">
             <identifiant>
                 <nom>SOW</nom>
                 <prenom>SAFIATOU</prenom>
@@ -2693,7 +2693,7 @@
             <contact>
                 <email>safiatou.sow@assemblee.sn</email>
                 <telephone>771000127</telephone>
-                <adresse_bureau>Batiment A Bureau 128</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 128</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@safiatou_sow</twitter>
                     <facebook>facebook.com/safiatou.sow</facebook>
@@ -2701,7 +2701,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT57586">
+        <depute id="DPT689">
             <identifiant>
                 <nom>SOW</nom>
                 <prenom>AWA</prenom>
@@ -2722,7 +2722,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT60983">
+        <depute id="DPT682">
             <identifiant>
                 <nom>SY</nom>
                 <prenom>OUMAR</prenom>
@@ -2743,7 +2743,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT81289">
+        <depute id="DPT683">
             <identifiant>
                 <nom>SY</nom>
                 <prenom>AWA</prenom>
@@ -2756,7 +2756,7 @@
             <contact>
                 <email>awa.sy@assemblee.sn</email>
                 <telephone>771000130</telephone>
-                <adresse_bureau>Batiment B Bureau 131</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 131</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@awa_sy</twitter>
                     <facebook>facebook.com/awa.sy</facebook>
@@ -2764,7 +2764,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT27885">
+        <depute id="DPT680">
             <identifiant>
                 <nom>SYLLA</nom>
                 <prenom>MATAR</prenom>
@@ -2785,7 +2785,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT32011">
+        <depute id="DPT679">
             <identifiant>
                 <nom>TALL</nom>
                 <prenom>ABDOULAYE</prenom>
@@ -2798,7 +2798,7 @@
             <contact>
                 <email>abdoulaye.tall@assemblee.sn</email>
                 <telephone>771000132</telephone>
-                <adresse_bureau>Batiment A Bureau 133</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 133</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdoulaye_tall</twitter>
                     <facebook>facebook.com/abdoulaye.tall</facebook>
@@ -2806,7 +2806,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT65647">
+        <depute id="DPT673">
             <identifiant>
                 <nom>TAMBEDOU</nom>
                 <prenom>ELHADJI ABABACAR</prenom>
@@ -2819,7 +2819,7 @@
             <contact>
                 <email>elhadjababacar.tambedou@assemblee.sn</email>
                 <telephone>771000133</telephone>
-                <adresse_bureau>Batiment C Bureau 134</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 134</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@elhadji ababacar_tambedou</twitter>
                     <facebook>facebook.com/elhadji ababacar.tambedou</facebook>
@@ -2827,7 +2827,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT94495">
+        <depute id="DPT672">
             <identifiant>
                 <nom>TANDJIGORA</nom>
                 <prenom>ADAMA</prenom>
@@ -2840,7 +2840,7 @@
             <contact>
                 <email/>
                 <telephone>771000134</telephone>
-                <adresse_bureau>Batiment D Bureau 135</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 135</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@adama_tandjigora</twitter>
                     <facebook>facebook.com/adama.tandjigora</facebook>
@@ -2848,7 +2848,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT22703">
+        <depute id="DPT670">
             <identifiant>
                 <nom>THIAM</nom>
                 <prenom>NDACK</prenom>
@@ -2861,7 +2861,7 @@
             <contact>
                 <email>ndakh.thiam@assemblee.sn</email>
                 <telephone>771000135</telephone>
-                <adresse_bureau>Batiment B Bureau 136</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 136</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ndack_thiam</twitter>
                     <facebook>facebook.com/ndack.thiam</facebook>
@@ -2869,7 +2869,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT42696">
+        <depute id="DPT669">
             <identifiant>
                 <nom>THIAO</nom>
                 <prenom>SOKHNA DIARRA</prenom>
@@ -2890,7 +2890,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT07781">
+        <depute id="DPT668">
             <identifiant>
                 <nom>THIOUF</nom>
                 <prenom>OUSMANE</prenom>
@@ -2903,7 +2903,7 @@
             <contact>
                 <email>ousmane.thiouf@assemblee.sn</email>
                 <telephone>771000137</telephone>
-                <adresse_bureau>Batiment A Bureau 138</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 138</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ousmane_thiouf</twitter>
                     <facebook>facebook.com/ousmane.thiouf</facebook>
@@ -2911,7 +2911,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT11245">
+        <depute id="DPT666">
             <identifiant>
                 <nom>TINE</nom>
                 <prenom>ANNE MARIE YACINE</prenom>
@@ -2924,7 +2924,7 @@
             <contact>
                 <email>annemarie.tine@assemblee.sn</email>
                 <telephone>771000138</telephone>
-                <adresse_bureau>Batiment B Bureau 139</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 139</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@anne marie yacine_tine</twitter>
                     <facebook>facebook.com/anne marie yacine.tine</facebook>
@@ -2932,7 +2932,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT23688">
+        <depute id="DPT665">
             <identifiant>
                 <nom>TOURE</nom>
                 <prenom>AICHA</prenom>
@@ -2945,7 +2945,7 @@
             <contact>
                 <email>aicha.toure@assemblee.sn</email>
                 <telephone>771000139</telephone>
-                <adresse_bureau>Batiment D Bureau 140</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 140</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@aicha_toure</twitter>
                     <facebook>facebook.com/aicha.toure</facebook>
@@ -2953,7 +2953,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT00751">
+        <depute id="DPT664">
             <identifiant>
                 <nom>VARORE</nom>
                 <prenom>BABACAR</prenom>
@@ -2974,7 +2974,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT75661">
+        <depute id="DPT663">
             <identifiant>
                 <nom>WAGNANE</nom>
                 <prenom>DABA</prenom>
@@ -2987,7 +2987,7 @@
             <contact>
                 <email>daba.wagnane@assemblee.sn</email>
                 <telephone>771000141</telephone>
-                <adresse_bureau>Batiment A Bureau 142</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 142</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@daba_wagnane</twitter>
                     <facebook>facebook.com/daba.wagnane</facebook>
@@ -2995,7 +2995,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT95081">
+        <depute id="DPT662">
             <identifiant>
                 <nom>WAGUE</nom>
                 <prenom>BANTA</prenom>
@@ -3008,7 +3008,7 @@
             <contact>
                 <email>banta.wague@assemblee.sn</email>
                 <telephone>771000142</telephone>
-                <adresse_bureau>Batiment D Bureau 143</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 143</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@banta_wague</twitter>
                     <facebook>facebook.com/banta.wague</facebook>
@@ -3016,7 +3016,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT36587">
+        <depute id="DPT654">
             <identifiant>
                 <nom>WONE</nom>
                 <prenom>ISMAILA MAMADOU ABDOUL</prenom>
@@ -3029,7 +3029,7 @@
             <contact>
                 <email/>
                 <telephone>771000143</telephone>
-                <adresse_bureau>Batiment B Bureau 144</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 144</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ismaila mamadou abdoul_wone</twitter>
                     <facebook>facebook.com/ismaila mamadou abdoul.wone</facebook>
@@ -3037,7 +3037,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT66476">
+        <depute id="DPT1044">
             <identifiant>
                 <nom>FALL</nom>
                 <prenom>PAPE DJIBRIL</prenom>
@@ -3058,7 +3058,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT18794">
+        <depute id="DPT1363">
             <identifiant>
                 <nom>NGOM</nom>
                 <prenom>ANTA BABACAR</prenom>
@@ -3079,7 +3079,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT08116">
+        <depute id="DPT653">
             <identifiant>
                 <nom>YOUM</nom>
                 <prenom>CHEIKH AHMED TIDIANE</prenom>
@@ -3092,7 +3092,7 @@
             <contact>
                 <email>cheikhahmedtidiane.youm@assemblee.sn</email>
                 <telephone>771000146</telephone>
-                <adresse_bureau>Batiment B Bureau 147</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 147</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@cheikh ahmed tidiane_youm</twitter>
                     <facebook>facebook.com/cheikh ahmed tidiane.youm</facebook>
@@ -3100,7 +3100,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT46635">
+        <depute id="DPT1748">
             <identifiant>
                 <nom>SALL</nom>
                 <prenom>THIERNO ALASSANE</prenom>
@@ -3113,7 +3113,7 @@
             <contact>
                 <email>thiernoalassane.sall@assemblee.sn</email>
                 <telephone>771000147</telephone>
-                <adresse_bureau>Batiment B Bureau 148</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 148</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@thierno alassane_sall</twitter>
                     <facebook>facebook.com/thierno alassane.sall</facebook>
@@ -3121,7 +3121,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT16606">
+        <depute id="DPT667">
             <identifiant>
                 <nom>THIOYE</nom>
                 <prenom>TAFSIR</prenom>
@@ -3134,7 +3134,7 @@
             <contact>
                 <email>tafsir.thioye@assemblee.sn</email>
                 <telephone>771000148</telephone>
-                <adresse_bureau>Batiment C Bureau 149</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 149</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@tafsir_thioye</twitter>
                     <facebook>facebook.com/tafsir.thioye</facebook>
@@ -3142,7 +3142,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT60834">
+        <depute id="DPT655">
             <identifiant>
                 <nom>BA</nom>
                 <prenom>SOKHNA</prenom>
@@ -3155,7 +3155,7 @@
             <contact>
                 <email>sokhna.ba@assemblee.sn</email>
                 <telephone>771000149</telephone>
-                <adresse_bureau>Batiment C Bureau 150</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 150</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@sokhna_ba</twitter>
                     <facebook>facebook.com/sokhna.ba</facebook>
@@ -3163,7 +3163,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT47543">
+        <depute id="DPT1422">
             <identifiant>
                 <nom>DIA</nom>
                 <prenom>DAOUDA</prenom>
@@ -3184,7 +3184,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT91404">
+        <depute id="DPT1662">
             <identifiant>
                 <nom>DIALLO</nom>
                 <prenom>RAQUI</prenom>
@@ -3197,7 +3197,7 @@
             <contact>
                 <email>racky.diallo@assemblee.sn</email>
                 <telephone>771000151</telephone>
-                <adresse_bureau>Batiment D Bureau 152</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 152</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@raqui_diallo</twitter>
                     <facebook>facebook.com/raqui.diallo</facebook>
@@ -3205,7 +3205,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT03028">
+        <depute id="DPT1736">
             <identifiant>
                 <nom>DIALLO</nom>
                 <prenom>AISSATA OUSMANE</prenom>
@@ -3218,7 +3218,7 @@
             <contact>
                 <email>aissataousmane.diallo@assemblee.sn</email>
                 <telephone>771000152</telephone>
-                <adresse_bureau>Batiment A Bureau 153</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 153</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@aissata ousmane_diallo</twitter>
                     <facebook>facebook.com/aissata ousmane.diallo</facebook>
@@ -3226,7 +3226,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT46184">
+        <depute id="DPT1744">
             <identifiant>
                 <nom>DIALLO N°1</nom>
                 <prenom>AMADOU</prenom>
@@ -3239,7 +3239,7 @@
             <contact>
                 <email>amadou.diallo1@assemblee.sn</email>
                 <telephone>771000153</telephone>
-                <adresse_bureau>Batiment C Bureau 154</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 154</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amadou_diallo n°1</twitter>
                     <facebook>facebook.com/amadou.diallo n°1</facebook>
@@ -3247,7 +3247,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT10660">
+        <depute id="DPT823">
             <identifiant>
                 <nom>DIAW</nom>
                 <prenom>MAMADOU MORY</prenom>
@@ -3260,7 +3260,7 @@
             <contact>
                 <email>mamadou.diaw@assemblee.sn</email>
                 <telephone>771000154</telephone>
-                <adresse_bureau>Batiment A Bureau 155</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 155</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mamadou mory_diaw</twitter>
                     <facebook>facebook.com/mamadou mory.diaw</facebook>
@@ -3268,7 +3268,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT77963">
+        <depute id="DPT925">
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>AMADOU MAME</prenom>
@@ -3281,7 +3281,7 @@
             <contact>
                 <email>amadoumame.diop@assemblee.sn</email>
                 <telephone>771000155</telephone>
-                <adresse_bureau>Batiment B Bureau 156</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 156</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amadou mame_diop</twitter>
                     <facebook>facebook.com/amadou mame.diop</facebook>
@@ -3289,7 +3289,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT60139">
+        <depute id="DPT1259">
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>THERESE</prenom>
@@ -3310,7 +3310,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT83036">
+        <depute id="DPT1265">
             <identifiant>
                 <nom>FOFANA</nom>
                 <prenom>BARANE</prenom>
@@ -3323,7 +3323,7 @@
             <contact>
                 <email>barane.fofana@assemblee.sn</email>
                 <telephone>771000157</telephone>
-                <adresse_bureau>Batiment A Bureau 158</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 158</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@barane_fofana</twitter>
                     <facebook>facebook.com/barane.fofana</facebook>
@@ -3331,7 +3331,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT12907">
+        <depute id="DPT648">
             <identifiant>
                 <nom>MBOW</nom>
                 <prenom>ABDOU</prenom>
@@ -3344,7 +3344,7 @@
             <contact>
                 <email>abdou.mbow@assemblee.sn</email>
                 <telephone>771000158</telephone>
-                <adresse_bureau>Batiment B Bureau 159</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 159</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdou_mbow</twitter>
                     <facebook>facebook.com/abdou.mbow</facebook>
@@ -3352,7 +3352,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT20243">
+        <depute id="DPT1320">
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>FABINETA</prenom>
@@ -3365,7 +3365,7 @@
             <contact>
                 <email>fabineta.ndiaye@assemblee.sn</email>
                 <telephone>771000159</telephone>
-                <adresse_bureau>Batiment C Bureau 160</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 160</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fabineta_ndiaye</twitter>
                     <facebook>facebook.com/fabineta.ndiaye</facebook>
@@ -3373,7 +3373,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT81481">
+        <depute id="DPT1626">
             <identifiant>
                 <nom>NGOM</nom>
                 <prenom>MAHAMADOU</prenom>
@@ -3386,7 +3386,7 @@
             <contact>
                 <email>mouhamadou.ngom@assemblee.sn</email>
                 <telephone>771000160</telephone>
-                <adresse_bureau>Batiment B Bureau 161</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 161</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mahamadou_ngom</twitter>
                     <facebook>facebook.com/mahamadou.ngom</facebook>
@@ -3394,7 +3394,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT04551">
+        <depute id="DPT694">
             <identifiant>
                 <nom>SOUARE</nom>
                 <prenom>DJIMO</prenom>
@@ -3407,7 +3407,7 @@
             <contact>
                 <email>djimo.souare@assemblee.sn</email>
                 <telephone>771000161</telephone>
-                <adresse_bureau>Batiment A Bureau 162</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 162</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@djimo_souare</twitter>
                     <facebook>facebook.com/djimo.souare</facebook>
@@ -3415,7 +3415,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT49112">
+        <depute id="DPT690">
             <identifiant>
                 <nom>SOW</nom>
                 <prenom>FATOU</prenom>
@@ -3436,7 +3436,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT95402">
+        <depute id="DPT674">
             <identifiant>
                 <nom>TALL</nom>
                 <prenom>AISSATA</prenom>
@@ -3449,7 +3449,7 @@
             <contact>
                 <email>aissata.tall@assemblee.sn</email>
                 <telephone>771000163</telephone>
-                <adresse_bureau>Batiment D Bureau 164</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 164</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@aissata_tall</twitter>
                     <facebook>facebook.com/aissata.tall</facebook>
@@ -3457,7 +3457,7 @@
                 </reseaux_sociaux>
             </contact>
         </depute>
-        <depute id="DPT48094">
+        <depute id="DPT671">
             <identifiant>
                 <nom>THIAM</nom>
                 <prenom>MAMADOU LAMINE</prenom>
@@ -3470,7 +3470,7 @@
             <contact>
                 <email>mamadoulamine.thiam@assemblee.sn</email>
                 <telephone>771000164</telephone>
-                <adresse_bureau>Batiment A Bureau 165</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 165</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mamadou lamine_thiam</twitter>
                     <facebook>facebook.com/mamadou lamine.thiam</facebook>
@@ -3479,4 +3479,363 @@
             </contact>
         </depute>
     </deputes>
+    <lois>
+        <projet_loi id="LOI2093">
+            <titre>Le rapport de la Commission des Lois relatif au Projet de loi n°13/2025 portant statut et protection des lanceurs d'alerte examiné par les députés réunis en séance plénière ce mardi 26 aoùt 2025 à l'Assemblée nationale.</titre>
+            <description_loi>&lt;p&gt;Le rapport de la Commission des Lois relatif au Projet de loi n&amp;deg;13/2025 portant statut et protection des lanceurs d&amp;rsquo;alerte examin&amp;eacute; par les d&amp;eacute;put&amp;eacute;s r&amp;eacute;unis en s&amp;eacute;ance pl&amp;eacute;ni&amp;egrave;re ce mardi 26 ao&amp;ucirc;t 2025 &amp;agrave; l&amp;rsquo;Assembl&amp;eacute;e nationale.&lt;/p&gt;</description_loi>
+            <date_publication>2025-08-26</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI2094">
+            <titre>Le rapport de la Commission des Lois relatif au  projet de loi n°14/2025 relatif à l'Accès à l'Information examiné par les députés réunis en séance plénière ce mardi 26 aoùt 2025 à l'Assemblée nationale.</titre>
+            <description_loi>&lt;p&gt;Le rapport de la Commission des Lois relatif au &amp;nbsp;projet de loi n&amp;deg;14/2025 relatif &amp;agrave; l&amp;rsquo;Acc&amp;egrave;s &amp;agrave; l&amp;rsquo;Information examin&amp;eacute; par les d&amp;eacute;put&amp;eacute;s r&amp;eacute;unis en s&amp;eacute;ance pl&amp;eacute;ni&amp;egrave;re ce mardi 26 ao&amp;ucirc;t 2025 &amp;agrave; l&amp;rsquo;Assembl&amp;eacute;e nationale.&lt;/p&gt;</description_loi>
+            <date_publication>2025-08-26</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI2091">
+            <titre>Le rapport de la Commission des Lois relatif au  projet de loi n° 15/2025 relatif à la déclaration de patrimoine examiné par les députés réunis en séance plénière ce lundi 25 aoùt 2025 à l'Assemblée nationale.</titre>
+            <description_loi>&lt;p&gt;Le rapport de la Commission des Lois relatif au &amp;nbsp;projet de loi n&amp;deg; 15/2025 relatif &amp;agrave; la d&amp;eacute;claration de patrimoine examin&amp;eacute; par les d&amp;eacute;put&amp;eacute;s r&amp;eacute;unis en s&amp;eacute;ance pl&amp;eacute;ni&amp;egrave;re ce lundi 25 ao&amp;ucirc;t 2025 &amp;agrave; l&amp;rsquo;Assembl&amp;eacute;e nationale.&lt;/p&gt;</description_loi>
+            <date_publication>2025-08-25</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI2092">
+            <titre>Le rapport de la Commission des Lois relatif au  projet de loi n°12/2025 portant création de l'Office national de lutte contre la Corruption examiné par les députés réunis en séance plénière ce lundi 25 aoùt 2025 à l'Assemblée nationale.</titre>
+            <description_loi>&lt;p&gt;Le rapport de la Commission des Lois relatif au &amp;nbsp;projet de loi n&amp;deg;12/2025 portant cr&amp;eacute;ation de l&amp;rsquo;Office national de lutte contre la Corruption examin&amp;eacute; par les d&amp;eacute;put&amp;eacute;s r&amp;eacute;unis en s&amp;eacute;ance pl&amp;eacute;ni&amp;egrave;re ce lundi 25 ao&amp;ucirc;t 2025 &amp;agrave; l&amp;rsquo;Assembl&amp;eacute;e nationale.&lt;/p&gt;</description_loi>
+            <date_publication>2025-08-25</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI1650">
+            <titre>Projet de loi n°07-2025 autorisant le président de la république à signer l'Instrument d'adhésion à l'Accord portant création de la Banque européenne pour la reconstruction et le développement (BERD).</titre>
+            <description_loi>&lt;p&gt;Projet de loi n&amp;deg;07-2025 autorisant le pr&amp;eacute;sident de la r&amp;eacute;publique &amp;agrave; signer l&amp;rsquo;Instrument d&amp;rsquo;adh&amp;eacute;sion &amp;agrave; l&amp;rsquo;Accord portant cr&amp;eacute;ation de la Banque europ&amp;eacute;enne pour la reconstruction et le d&amp;eacute;veloppement (BERD).&lt;/p&gt;</description_loi>
+            <date_publication>2025-03-14</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI1651">
+            <titre>Projet de loi n°06-2025 autorisant le président de la république à signer l'Instrument d'adhésion aux statuts de la Banque de commerce et de développement de l'Afrique de l'Est et australe</titre>
+            <description_loi>&lt;p&gt;Projet de loi n&amp;deg;06-2025 autorisant le pr&amp;eacute;sident de la r&amp;eacute;publique &amp;agrave; signer l&amp;rsquo;Instrument d&amp;rsquo;adh&amp;eacute;sion aux statuts de la Banque de commerce et de d&amp;eacute;veloppement de l&amp;rsquo;Afrique de l&amp;rsquo;Est et australe&lt;/p&gt;</description_loi>
+            <date_publication>2025-03-14</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI778">
+            <titre>loi n2 2025 PORTANT REGLEMENTATION DE LA MICROFINANCE</titre>
+            <description_loi>&lt;p&gt;loi n2 2025 PORTANT REGLEMENTATION DE LA MICROFINANCE&lt;/p&gt;</description_loi>
+            <date_publication>2025-03-03</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI757">
+            <titre>Loi portant réglementation de la microfinance</titre>
+            <description_loi>&lt;p&gt;Section premi&amp;egrave;re.- Objet et champ d&amp;#39;application&amp;nbsp;&lt;br /&gt;&#13;
+Article premier. - Objet&amp;nbsp;&lt;br /&gt;&#13;
+La pr&amp;eacute;sente loi a pour objet de r&amp;eacute;gir l&amp;#39;exercice de l&amp;#39;activit&amp;eacute; de microfinance et le contr&amp;ocirc;le des entit&amp;eacute;s vis&amp;eacute;es &amp;agrave; l&amp;#39;article 2 op&amp;eacute;rant sur le territoire du S&amp;eacute;n&amp;eacute;gal.&amp;nbsp;&lt;br /&gt;&#13;
+Article 2.- Entit&amp;eacute;s assujetties et tutelle&amp;nbsp;&lt;br /&gt;&#13;
+La pr&amp;eacute;sente loi s&amp;#39;applique aux institutions de microfinance &amp;eacute;tablies sur le territoire du S&amp;eacute;n&amp;eacute;gal, quels que soient leur forme juridique et le lieu de leur si&amp;egrave;ge social ou d&amp;#39;implantation de leur principal &amp;eacute;tablissement.&amp;nbsp;&lt;br /&gt;&#13;
+Le Ministre charg&amp;eacute; des Finances assure la tutelle des institutions de microfinance, sans pr&amp;eacute;judice des dispositions r&amp;eacute;gissant les pr&amp;eacute;rogatives des autres Autorit&amp;eacute;s comp&amp;eacute;tentes.&amp;nbsp;&lt;br /&gt;&#13;
+Section 2.- Terminologie&amp;nbsp;&lt;br /&gt;&#13;
+Article 3.- D&amp;eacute;finitions&amp;nbsp;&lt;br /&gt;&#13;
+Au sens de la pr&amp;eacute;sente loi, on entend par:&amp;nbsp;&lt;br /&gt;&#13;
+1. activit&amp;eacute; de microfinance une activit&amp;eacute; consistant &amp;agrave; effectuer, &amp;agrave; titre de&amp;nbsp;&lt;br /&gt;&#13;
+profession, une ou plusieurs des op&amp;eacute;rations autoris&amp;eacute;es vis&amp;eacute;es au chapitre II du pr&amp;eacute;sent Titre. Cette activit&amp;eacute; est effectu&amp;eacute;e par une institution de microfinance au profit de personnes physiques et morales qui n&amp;#39;ont g&amp;eacute;n&amp;eacute;ralement pas acc&amp;egrave;s aux services offerts par les banques et &amp;eacute;tablissements financiers de cr&amp;eacute;dit;&amp;nbsp;&lt;br /&gt;&#13;
+2. administrateur une personne physique d&amp;eacute;sign&amp;eacute;e par les statuts ou par&amp;nbsp;&lt;br /&gt;&#13;
+l&amp;#39;assembl&amp;eacute;e g&amp;eacute;n&amp;eacute;rale, conform&amp;eacute;ment aux dispositions du droit des soci&amp;eacute;t&amp;eacute;s applicables &amp;agrave; l&amp;#39;institution. Il est membre de l&amp;#39;organe d&amp;eacute;lib&amp;eacute;rant. La personne physique, repr&amp;eacute;sentant permanent d&amp;#39;une personne morale administrateur, est assimil&amp;eacute;e &amp;agrave; un administrateur;&amp;nbsp;&lt;br /&gt;&#13;
+3.&amp;nbsp;affacturage: l&amp;#39;op&amp;eacute;ration d&amp;eacute;finie par la loi uniforme relative &amp;agrave; l&amp;#39;affacturage dans les Etats membres de l&amp;#39;UMOA;&amp;nbsp;&lt;br /&gt;&#13;
+4.&amp;nbsp;agence: une structure sans personnalit&amp;eacute; juridique, d&amp;eacute;pendant d&amp;#39;une institution de microfinance et pouvant &amp;ecirc;tre dot&amp;eacute;e d&amp;#39;une autonomie de gestion selon les modalit&amp;eacute;s pr&amp;eacute;vues par les statuts de ladite institution;&amp;nbsp;&lt;br /&gt;&#13;
+5.&amp;nbsp;Association Professionnelle des Institutions de Microfinance: l&amp;#39;association regroupant l&amp;#39;ensemble des institutions de microfinance du S&amp;eacute;n&amp;eacute;gal;&lt;/p&gt;</description_loi>
+            <date_publication>2025-02-27</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI779">
+            <titre>Loi portant réglementation bancaire</titre>
+            <description_loi>&lt;p&gt;LOI PORTANT REGLEMENTATION BANCAIRE&lt;/p&gt;</description_loi>
+            <date_publication>2025-02-11</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI262">
+            <titre>Le projet de loi de finances initiale pour l'année 2025 (PLF)</titre>
+            <description_loi>&lt;p&gt;Le projet de loi de finances initiale pour l&amp;rsquo;ann&amp;eacute;e 2025 (PLF) est &amp;eacute;labor&amp;eacute; dans un contexte politique et &amp;eacute;conomique marqu&amp;eacute; par de nombreuses contraintes, avec l&amp;rsquo;av&amp;egrave;nement d&amp;rsquo;un nouveau r&amp;eacute;gime qui a la volont&amp;eacute; dans ses options de rompre d&amp;eacute;finitivement avec l&amp;rsquo;ancien mod&amp;egrave;le de gouvernance, qui continue de maintenir un certain nombre d&amp;rsquo;Etats africains dans une situation de d&amp;eacute;pendance &amp;eacute;conomique vis-&amp;agrave;-vis de l&amp;rsquo;ext&amp;eacute;rieur, les rendant ainsi vuln&amp;eacute;rables &amp;agrave; tout choc exog&amp;egrave;ne ou endog&amp;egrave;ne, malgr&amp;eacute; leurs &amp;eacute;normes potentiels en ressources humaines et naturelles. L&amp;#39;objectif principal de ce projet de budget est de b&amp;acirc;tir une &amp;eacute;conomie plus forte et plus ind&amp;eacute;pendante telle que d&amp;eacute;finie par l&amp;rsquo;Agenda national de Transformation &amp;laquo; S&amp;eacute;n&amp;eacute;gal 2050 &amp;raquo; et d&amp;rsquo;imprimer les ruptures n&amp;eacute;cessaires dans la marche du pays. Il consolide, d&amp;rsquo;une part, les efforts de redressement des finances publiques entam&amp;eacute;s en 2024 et amorce, d&amp;rsquo;autre part, les changements souhaitables, en s&amp;rsquo;appuyant sur les quatre (4) axes de la Strat&amp;eacute;gie nationale de D&amp;eacute;veloppement du S&amp;eacute;n&amp;eacute;gal.&lt;/p&gt;</description_loi>
+            <date_publication>2025-01-15</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI153">
+            <titre>La Loi de Finances pour l'année 2024, connue sous la référence Loi N°2023-18</titre>
+            <description_loi>&lt;p&gt;La Loi de Finances pour l&amp;#39;ann&amp;eacute;e 2024, connue sous la r&amp;eacute;f&amp;eacute;rence Loi N&amp;deg;2023-18, a &amp;eacute;t&amp;eacute; adopt&amp;eacute;e le 15 d&amp;eacute;cembre 2023. Vous pouvez t&amp;eacute;l&amp;eacute;charger le document au format PDF, qui fait 154 pages, via le site de la Direction G&amp;eacute;n&amp;eacute;rale des Imp&amp;ocirc;ts et Domaines du S&amp;eacute;n&amp;eacute;gal ou les Douanes s&amp;eacute;n&amp;eacute;galaises.Toute loi de finances est particuli&amp;egrave;re mais celle de l&amp;rsquo;ann&amp;eacute;e 2024 rev&amp;ecirc;t un caract&amp;egrave;re unique. En effet, depuis que l&amp;rsquo;actuel Chef de l&amp;rsquo;&amp;Eacute;tat a confirm&amp;eacute;, dans son discours &amp;agrave; la nation du 03 juillet 2023, sa volont&amp;eacute; de ne pas se porter candidat &amp;agrave; l&amp;rsquo;&amp;eacute;lection pr&amp;eacute;sidentielle du 25 f&amp;eacute;vrier 2024, pour la premi&amp;egrave;re fois dans l&amp;rsquo;histoire du S&amp;eacute;n&amp;eacute;gal, un Pr&amp;eacute;sident de la R&amp;eacute;publique soumet &amp;agrave; la repr&amp;eacute;sentation nationale une loi de finances qu&amp;rsquo;il est s&amp;ucirc;r de mettre en &amp;oelig;uvre pendant seulement trois mois. Le budget de l&amp;rsquo;&amp;Eacute;tat pour 2024 n&amp;rsquo;est pas un document isol&amp;eacute;. Il s&amp;rsquo;inscrit dans une strat&amp;eacute;gie globale dont l&amp;rsquo;horizon d&amp;eacute;passe les mandats &amp;eacute;lectoraux, quel que soit leur nombre. Il marque une &amp;eacute;tape suppl&amp;eacute;mentaire dans une trajectoire bien d&amp;eacute;finie, qui n&amp;rsquo;a pour point de rep&amp;egrave;re que le bonheur du peuple s&amp;eacute;n&amp;eacute;galais. Ainsi, la loi de finances (LFI) pour 2024 affiche, comme ceux qui l&amp;rsquo;ont pr&amp;eacute;c&amp;eacute;d&amp;eacute;, une volont&amp;eacute; r&amp;eacute;elle de maintenir le S&amp;eacute;n&amp;eacute;gal sur sa trajectoire d&amp;rsquo;&amp;eacute;mergence, profonde aspiration de tout S&amp;eacute;n&amp;eacute;galais de quelque bord qu&amp;rsquo;il soit&lt;/p&gt;</description_loi>
+            <date_publication>2025-01-10</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI775">
+            <titre>LOI 11 2024 LOI PORTANT REVISION DE LA CONSTITUTION</titre>
+            <description_loi>&lt;p&gt;LOI 11 2024 LOI PORTANT REVISION DE LA CONSTITUTION&lt;/p&gt;</description_loi>
+            <date_publication>2024-12-14</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI557">
+            <titre>Abrogation de la loi organique n° 2012-28 du 28 décembre 2012</titre>
+            <description_loi>&lt;p&gt;En s&amp;eacute;ance pl&amp;eacute;ni&amp;egrave;re, ce samedi 14 d&amp;eacute;cembre 2024, les d&amp;eacute;put&amp;eacute;s ont adopt&amp;eacute;́, sous la pr&amp;eacute;sidence de M.&amp;nbsp; Malick Ndiaye, Pr&amp;eacute;sident de l&amp;rsquo;Assembl&amp;eacute;e nationale, les projets de loi portant r&amp;eacute;vision de la Constitution, ainsi que l&amp;rsquo;abrogation de la loi organique n&amp;deg; 2012-28 du 28 d&amp;eacute;cembre 2012 relative à l&amp;rsquo;organisation et au fonctionnement du Conseil &amp;eacute;conomique, social et environnemental (CESE), et de la loi organique n&amp;deg; 2016-24 du 14 juillet 2016 relative à l&amp;rsquo;organisation et au fonctionnement du Haut Conseil des Collectivit&amp;eacute;s Territoriales (HCCT).&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;D&amp;eacute;fendant ces deux projets, le ministre de la Justice a expliqu&amp;eacute;́ que la suppression de ces deux institutions s&amp;rsquo;inscrivait dans la volont&amp;eacute;́ du gouvernement de rationaliser les ressources de l&amp;rsquo;&amp;Eacute;tat, une initiative largement soutenue par la population, va-t-il pr&amp;eacute;cis&amp;eacute;́.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Avant le d&amp;eacute;but des travaux, le pr&amp;eacute;sident a inform&amp;eacute;́ la pl&amp;eacute;ni&amp;egrave;re de la r&amp;eacute;ception de la demande du ministre de la Justice, Garde des Sceaux, relative à la radiation de M. Thierno Aly Sy, ainsi que des lettres de d&amp;eacute;mission de ce dernier et de M. Dethie Fall. Par cons&amp;eacute;quent, leurs suppl&amp;eacute;ants respectifs, M. Mame Oumar&lt;/p&gt;</description_loi>
+            <date_publication>2024-12-14</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+        <projet_loi id="LOI152">
+            <titre>Abrogation de la loi organique n° 2012-28 du 28 décembre 2012 relative à l'organisation et au fonctionnement du (CESE), et de la loi organique n° 2016-24 du 14 juillet 2016 relative à l'organisation et au fonctionnement du (HCCT).</titre>
+            <description_loi>&lt;p&gt;En s&amp;eacute;ance pl&amp;eacute;ni&amp;egrave;re, ce samedi 14 d&amp;eacute;cembre 2024, les d&amp;eacute;put&amp;eacute;s ont adopt&amp;eacute;, sous la pr&amp;eacute;sidence de M. &lt;a href="https://web.facebook.com/elmaalignjaay?__cft__[0]=AZXl_YM9xO-eAZCONIvn-Mvl7FfGfULyj7P0JAXkEGaAAxCPicGlUOpw2_6ULEdRnVBtlWRr_sc02BntDqJFYT23jxEbDncbm9r1iEIDcXa4OKeDl6hy9vn3NeFRSyEQUwlXKQAqz4MM7FjLUddnJQu3vZaCq42vC-eZnyunUHIx89xUHYtS6DK3Q9Bzvo_A3aQ&amp;amp;__tn__=-]K-R"&gt;El Malick Ndiaye&lt;/a&gt;, pr&amp;eacute;sident de l&amp;rsquo;Assembl&amp;eacute;e nationale, les projets de loi portant r&amp;eacute;vision de la Constitution, ainsi que l&amp;rsquo;abrogation de la loi organique n&amp;deg; 2012-28 du 28 d&amp;eacute;cembre 2012 relative &amp;agrave; l&amp;rsquo;organisation et au fonctionnement du Conseil &amp;eacute;conomique, social et environnemental (CESE), et de la loi organique n&amp;deg; 2016-24 du 14 juillet 2016 relative &amp;agrave; l&amp;rsquo;organisation et au fonctionnement du Haut Conseil des Collectivit&amp;eacute;s Territoriales (HCCT).&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;D&amp;eacute;fendant ces deux projets, le ministre de la Justice a expliqu&amp;eacute; que la suppression de ces deux institutions s&amp;rsquo;inscrivait dans la volont&amp;eacute; du gouvernement de rationaliser les ressources de l&amp;rsquo;&amp;Eacute;tat, une initiative largement soutenue par la population, a-t-il pr&amp;eacute;cis&amp;eacute;.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Avant le d&amp;eacute;but des travaux, le pr&amp;eacute;sident a inform&amp;eacute; la pl&amp;eacute;ni&amp;egrave;re de la r&amp;eacute;ception de la demande du ministre de la Justice, Garde des Sceaux, relative &amp;agrave; la radiation de M. Thierno Aly Sy, ainsi que des lettres de d&amp;eacute;mission de ce dernier et de M. Dethie Fall. Par cons&amp;eacute;quent, leurs suppl&amp;eacute;ants respectifs, M. Ndoye et M. Fall, ont &amp;eacute;t&amp;eacute; install&amp;eacute;s conform&amp;eacute;ment aux dispositions en vigueur.&lt;/p&gt;</description_loi>
+            <date_publication>2024-12-14</date_publication>
+            <statut>published</statut>
+        </projet_loi>
+    </lois>
+    <commissions>
+        <commission id="COM420">
+            <titre_com>Commission des Lois, de la Décentralisation, du Travail et des Droits humains</titre_com>
+            <description_com>Justice, Administration territoriale, collectivités territoriales, Modernisation de l'Etat, Lois, Règlement intérieur, Décentralisation, Police, Travail, Emploi, Fonction publique, Retraite, Sécurité sociale</description_com>
+            <bureau>
+                <president_id>DPT679</president_id>
+                <vice_president_id>DPT1702</vice_president_id>
+                <vice_president_id>DPT1405</vice_president_id>
+                <vice_president_id>DPT910</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM421">
+            <titre_com>Commission des Affaires étrangères, des Sénégalais de l'Extérieur et de l'Intégration africaine</titre_com>
+            <description_com>Relations internationales, bilatérales et multilatérales, Organisations africaines, régionales et sous-régionales, Traités et Accords internationaux, Coopération diplomatique, Sénégalais de l'Extérieur</description_com>
+            <bureau>
+                <president_id>DPT775</president_id>
+                <vice_president_id>DPT1629</vice_president_id>
+                <vice_president_id>DPT1784</vice_president_id>
+                <vice_president_id>DPT1124</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM422">
+            <titre_com>Commission du Développement rural</titre_com>
+            <description_com>Agriculture, Pêche, Elevage, Hydraulique rurale</description_com>
+            <bureau>
+                <president_id>DPT1367</president_id>
+                <vice_president_id>DPT980</vice_president_id>
+                <vice_president_id>DPT1254</vice_president_id>
+                <vice_president_id>DPT1022</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM423">
+            <titre_com>Commission de l'Aménagement du Territoire, de l'Urbanisme, de l'Habitat, des Infrastructures et des Transports</titre_com>
+            <description_com>Travaux publics, Urbanisme, Habitat, Logement et Transports</description_com>
+            <bureau>
+                <president_id>DPT682</president_id>
+                <vice_president_id>DPT1392</vice_president_id>
+                <vice_president_id>DPT723</vice_president_id>
+                <vice_president_id>DPT1786</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM424">
+            <titre_com>Commission des Affaires économiques</titre_com>
+            <description_com>Industrie, Artisanat, Tourisme, Echanges, Commerce intérieur et extérieur, Plan, Coopération économique, Consommation</description_com>
+            <bureau>
+                <president_id>DPT649</president_id>
+                <vice_president_id>DPT664</vice_president_id>
+                <vice_president_id>DPT899</vice_president_id>
+                <vice_president_id>DPT1144</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM425">
+            <titre_com>Commission des Finances et du Contrôle budgétaire</titre_com>
+            <description_com>Cette commission examine les budgets de l'État et veille à leur exécution transparente et rigoureuse.</description_com>
+            <bureau>
+                <president_id>DPT827</president_id>
+                <vice_president_id>DPT693</vice_president_id>
+                <vice_president_id>DPT1265</vice_president_id>
+                <vice_president_id>DPT1760</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM426">
+            <titre_com>Commission du Développement durable et de la Transition écologique</titre_com>
+            <description_com>Environnement, Eau, Assainissement, Forêts et Chasse</description_com>
+            <bureau>
+                <president_id>DPT1547</president_id>
+                <vice_president_id>DPT1763</vice_president_id>
+                <vice_president_id>DPT754</vice_president_id>
+                <vice_president_id>DPT683</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM427">
+            <titre_com>Commission de l'Energie et des Ressources minérales</titre_com>
+            <description_com>Electrification urbaine, Electrification rurale, Mines, Ressources pétrolières et gazières, Energies renouvelables</description_com>
+            <bureau>
+                <president_id>DPT1762</president_id>
+                <vice_president_id>DPT818</vice_president_id>
+                <vice_president_id>DPT695</vice_president_id>
+                <vice_president_id>DPT689</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM428">
+            <titre_com>Commission de la Défense et de la Sécurité</titre_com>
+            <description_com>Défense nationale et Préservation de l'Intégrité territoriale, Coopération militaire internationale, Etablissements militaires et paramilitaires, Personnels civils et militaires des Armées, Sécurité publique, Sûreté, Gendarmerie, Justice militaire</description_com>
+            <bureau>
+                <president_id>DPT819</president_id>
+                <vice_president_id>DPT1767</vice_president_id>
+                <vice_president_id>DPT836</vice_president_id>
+                <vice_president_id>DPT670</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM429">
+            <titre_com>Commission de l'Education, de la Jeunesse, des Sports et des Loisirs</titre_com>
+            <description_com>Enseignement de base, Promotion des Langues nationales, Enseignement moyen, secondaire, général et technique, Formation professionnelle, Enseignement universitaire et Recherche, Jeunesse, Sports, Loisirs, Service civique national, Coopération scientifique et technique</description_com>
+            <bureau>
+                <president_id>DPT1275</president_id>
+                <vice_president_id>DPT654</vice_president_id>
+                <vice_president_id>DPT1683</vice_president_id>
+                <vice_president_id>DPT1526</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM430">
+            <titre_com>Commission de la Culture et de la Communication</titre_com>
+            <description_com>Culture, Information, Communication, Télécommunications, Economie numérique, Affaires religieuses, Coopération culturelle</description_com>
+            <bureau>
+                <president_id>DPT708</president_id>
+                <vice_president_id>DPT1761</vice_president_id>
+                <vice_president_id>DPT964</vice_president_id>
+                <vice_president_id>DPT870</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM431">
+            <titre_com>Commission de Comptabilité et de Contrôle</titre_com>
+            <description_com>Le président de la Commission de la Comptabilité et du Contrôle budgétaire de l'Assemblée nationale Monsieur Abdoulaye Sow a tenu une réunion de prise de contact avec les membres de sa commission.</description_com>
+            <bureau>
+                <president_id>DPT685</president_id>
+                <vice_president_id>DPT1764</vice_president_id>
+                <vice_president_id>DPT717</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM432">
+            <titre_com>Commission des Délégations</titre_com>
+            <description_com>Evaluation et contrôle de l'Exécution des Lois votées, Suppléance de l'Assemblée dans l'adoption de mesures relevant du domaine de la loi conformément à la Constitution</description_com>
+            <bureau>
+                <president_id>DPT1460</president_id>
+                <vice_president_id>DPT1267</vice_president_id>
+                <vice_president_id>DPT1709</vice_president_id>
+            </bureau>
+        </commission>
+        <commission id="COM433">
+            <titre_com>Commission de la Santé, de la Population, des Affaires sociales et de la Solidarité nationale</titre_com>
+            <description_com>Santé publique, Soins de santé primaires, Infrastructures et Equipements hospitaliers, Pharmacie, Formations médicale et paramédicale, Femme, Enfant, Personnes vivant avec un Handicap, Action sociale, Solidarité nationale, Politique de Population</description_com>
+            <bureau>
+                <president_id>DPT1710</president_id>
+                <vice_president_id>DPT1680</vice_president_id>
+                <vice_president_id>DPT1738</vice_president_id>
+            </bureau>
+        </commission>
+    </commissions>
+    <sessions>
+        <session id="S001">
+            <description>Session ordinaire budgétaire et examen des lois de finances</description>
+            <periode>Octobre - Juin</periode>
+            <dateDebut>2024-10-01</dateDebut>
+            <dateFin>2025-06-31</dateFin>
+
+            <seances>
+
+                <seance id="SE001">
+                    <presidentSeance ref="DPT14650"/>
+                    <secretaireSeance ref="DPT29912"/>
+
+                    <ordreDuJour>
+                        <point priorite="haute">Projet de loi de finances 2026</point>
+                        <point priorite="moyenne">Réforme du code électoral</point>
+                    </ordreDuJour>
+
+                    <votes>
+                        <vote texte="Projet de loi de finances 2026" resultat="Adopté">
+                            <pour>20</pour>
+                            <contre>40</contre>
+                            <abstention>20</abstention>
+                            <absence>35</absence>
+                        </vote>
+
+                        <vote texte="Réforme du code électoral" resultat="Adopté">
+                            <pour>80</pour>
+                            <contre>45</contre>
+                            <abstention>15</abstention>
+                            <absence>25</absence>
+                        </vote>
+                    </votes>
+                </seance>
+
+                <seance id="SE002">
+                    <presidentSeance ref="DPT92530"/>
+                    <secretaireSeance ref="DPT47517"/>
+
+                    <ordreDuJour>
+                        <point priorite="haute">Loi sur la santé publique</point>
+                        <point priorite="moyenne">Loi sur la sécurité alimentaire</point>
+                    </ordreDuJour>
+
+                    <votes>
+                        <vote texte="Loi sur la santé publique" resultat="Adopté">
+                            <pour>50</pour>
+                            <contre>75</contre>
+                            <abstention>25</abstention>
+                            <absence>15</absence>
+                        </vote>
+                    </votes>
+                </seance>
+
+            </seances>
+        </session>
+        <session id="S002">
+            <description>Session législative ordinaire</description>
+            <periode>Février - Mai</periode>
+            <dateDebut>2026-02-01</dateDebut>
+            <dateFin>2026-05-31</dateFin>
+
+            <seances>
+                <seance id="SE003">
+                    <presidentSeance ref="DPT66866"/>
+                    <secretaireSeance ref="DPT41632"/>
+
+                    <ordreDuJour>
+                        <point priorite="haute">Loi sur l'éducation numérique</point>
+                        <point priorite="moyenne">Réforme du système judiciaire</point>
+                    </ordreDuJour>
+
+                    <votes>
+                        <vote texte="Loi sur l'éducation numérique" resultat="Adopté">
+                            <pour>95</pour>
+                            <contre>45</contre>
+                            <abstention>15</abstention>
+                            <absence>10</absence>
+                        </vote>
+                    </votes>
+                </seance>
+            </seances>
+        </session>
+        <session id="S003">
+            <description>Session extraordinaire sur l'environnement et la sécurité alimentaire</description>
+            <periode>Juin - Août</periode>
+            <dateDebut>2026-06-01</dateDebut>
+            <dateFin>2026-08-31</dateFin>
+
+            <seances>
+                <seance id="SE004">
+                    <presidentSeance ref="DPT80538"/>
+                    <secretaireSeance ref="DPT41632"/>
+
+                    <ordreDuJour>
+                        <point priorite="haute">Loi sur la protection de l'environnement</point>
+                        <point priorite="moyenne">Programme de sécurité alimentaire</point>
+                    </ordreDuJour>
+
+                    <votes>
+                        <vote texte="Loi sur la protection de l'environnement" resultat="Adopté">
+                            <pour>100</pour>
+                            <contre>30</contre>
+                            <abstention>35</abstention>
+                            <absence>0</absence>
+                        </vote>
+                    </votes>
+                </seance>
+            </seances>
+        </session>
+    </sessions>
 </assemblee_nationale>

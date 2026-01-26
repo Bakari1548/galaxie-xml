@@ -1,4 +1,4 @@
-<!ELEMENT assemblee_nationale (informations_generales, deputes, commissions, sessions, lois)>
+<!ELEMENT assemblee_nationale (informations_generales, deputes, lois, commissions)>
 
 <!ELEMENT informations_generales (pays, legislature, date_debut, siege, description, nombre_deputes)>
 <!ELEMENT pays (#PCDATA)>
@@ -10,7 +10,7 @@
 
 <!ELEMENT deputes (depute*)>
 
-<!ELEMENT depute (identifiant, parti, biographie, contact)>
+<!ELEMENT depute (identifiant, parti, profession, contact)>
 <!ATTLIST depute id ID #REQUIRED>
 
 <!ELEMENT identifiant (nom, prenom, nom_complet, date_naissance, lieu_naissance)>
@@ -22,10 +22,6 @@
 
 <!ELEMENT parti (#PCDATA)>
 
-<!ELEMENT biographie (formation, profession)>
-<!ELEMENT formation (diplome, universite)>
-<!ELEMENT diplome (#PCDATA)>
-<!ELEMENT universite (#PCDATA)>
 <!ELEMENT profession (#PCDATA)>
 
 <!ELEMENT contact (email, telephone, adresse_bureau, reseaux_sociaux)>
@@ -36,3 +32,21 @@
 <!ELEMENT twitter (#PCDATA)>
 <!ELEMENT facebook (#PCDATA)>
 <!ELEMENT linkedin (#PCDATA)>
+
+
+<!ELEMENT lois (projet_loi*)>
+<!ELEMENT projet_loi (titre, description_loi, date_publication, statut)>
+<!ATTLIST projet_loi id ID #REQUIRED>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT description_loi (#PCDATA)>
+<!ELEMENT date_publication (#PCDATA)>
+<!ELEMENT statut (#PCDATA)>
+
+<!ELEMENT commissions (commission*)>
+<!ELEMENT commission (titre_com, description_com, bureau)>
+<!ATTLIST commission id ID #REQUIRED>
+<!ELEMENT titre_com (#PCDATA)>
+<!ELEMENT description_com (#PCDATA)>
+<!ELEMENT bureau (president_id, vice_president_id+)>
+<!ELEMENT president_id (#PCDATA)>
+<!ELEMENT vice_president_id (#PCDATA)>

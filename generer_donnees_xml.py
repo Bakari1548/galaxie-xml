@@ -1,6 +1,7 @@
 from lxml import etree
-from random import choice, random
+from random import choice
 import json
+
 
 
 def extaire_deputes_depuis_json(fichier_json):
@@ -13,12 +14,12 @@ def extaire_deputes_depuis_json(fichier_json):
     allDeputes = []
 
     for i in data:
-        deputies = data[i]['deputies']
-        for depute in deputies:
+        deputes = data[i]['deputies']
+        for depute in deputes:
             allDeputes.append(depute)
     print(f"Nombre total de députés extraits : {len(allDeputes)}")
 
-    with open('deputes_extraits.json', 'w', encoding='utf-8') as wf:
+    with open('./dataJSON/deputes_extraits.json', 'w', encoding='utf-8') as wf:
         json.dump(allDeputes, wf, ensure_ascii=False, indent=4)
     return allDeputes
 
@@ -34,46 +35,69 @@ def extraire_lois_depuis_json(fichier_json):
         data = json.load(f)
     projetsDeLoi = []
 
-    for i in data:
-        lois = data[i]
-        for loi in lois:
-            projetsDeLoi.append(loi)
+    lois = data[0]
+    for loi in lois:
+        projetsDeLoi.append(loi)
     print(f"Nombre total de lois extraits : {len(projetsDeLoi)}")
 
-    with open('lois_extraites.json', 'w', encoding='utf-8') as wf:
-        json.dump(projetsDeLoi, wf, ensure_ascii=False, indent=4)
     return projetsDeLoi
 
 
-VILLE_CHOICES = [
-    "Dakar", "Thiès", "Saint-Louis", "Kaolack", "Ziguinchor",
-    "Mbour", "Touba", "Diourbel", "Louga", "Fatick", "Tambacounda",
-    "Kolda", "Kédougou", "Matam", "Rufisque", "Pikine", "Guédiawaye", "Dakar Plateau"
-]
+def extraire_commissions_depuis_json(fichier_json):
+    """
+    Extraction des commissions depuis le fichier JSON
+    avec les membre de bureau de chaque commission.
+    """
+    with open(fichier_json, 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
-PARTI_CHOICES = [
-    'Pastef', 'BBY', 'PDS', 'Yewwi Askan Wi', 'APR', 'Rewmi', 'Bokk Gis Gis',
-    'PIRE'
-]
+    commissions = []
+    commisonJSON = data[0]
 
-BATIMENT_CHOICES = ['A', 'B', 'C', 'D']
+    # print("Commissions depuis JSON : ", commisonJSON)
 
-def generer_id_depute():
-    return f"DPT{int(random() * 100000):05d}"
+    for commission in commisonJSON:
+        commissions.append(commission)
+    print(f"Nombre total de commissions extraits : {len(commissions)}")
+
+    return commissions
+
+
+def generer_commissions_json(fichier_json):
+    """
+    Génération des commissions depuis le fichier JSON
+    commissions.json et retourne une liste de dictionnaires
+    avec le bureau de chaque commission.
+    """
+    with open(fichier_json, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    # commissions = []
+    commissions = data
+
+    # for commission in data:
+    #     commissions.append(commission)
+    print(f"Nombre total de commissions extraits : {len(commissions)}")
+
+    # print("Commissions : ", commissions[0])
+
+    return commissions
 
 
 def generer_donnees_xml(nom_fichier, nbr_donnees):
+    
+    BATIMENT_CHOICES = ['A', 'B', 'C', 'D']
 
-    allDeputes = extaire_deputes_depuis_json('deputes.json')
+    allDeputes = extaire_deputes_depuis_json('./dataJSON/deputes.json')
+    projetsDeLoi = extraire_lois_depuis_json('./dataJSON/projet_loi.json')
+    allCommissions = generer_commissions_json('./dataJSON/commissions.json')
+
+    # print("Commissions : ", commissions)
 
     # 'with' garantit la fermeture propre du fichier
     with etree.xmlfile(nom_fichier, encoding='utf-8') as xf:
         xf.write_declaration()
         # On définit l'élément racine
         with xf.element('assemblee_nationale'):
-
-            # Écriture de la déclaration DTD
-            # xf.write('&lt;!DOCTYPE assemblee_nationale SYSTEM "assemblee_nationale.dtd"&gt;')
 
             # ========= Génération des informations generales de l'assemblee ========
 
@@ -102,7 +126,7 @@ def generer_donnees_xml(nom_fichier, nbr_donnees):
             
             for i in range(nbr_donnees):
                 # Création d'un depute
-                depute = etree.SubElement(deputes, 'depute', id=generer_id_depute())
+                depute = etree.SubElement(deputes, 'depute', id=f"DPT{allDeputes[i]['id']}")
                 # les sous-element identifiant d'un depute
                 identifiant = etree.SubElement(depute, 'identifiant')
 
@@ -145,13 +169,63 @@ def generer_donnees_xml(nom_fichier, nbr_donnees):
 
             xf.write(deputes)
 
-    print(f"Fichier '{nom_fichier}' généré avec {nbr_donnees} députés.")
+            # ======== Génération des lois ========
+            lois = etree.Element('lois')
+            for loi in projetsDeLoi:
+                projet_loi = etree.SubElement(lois, 'projet_loi', id=f"LOI{loi['id']}")
+                titre = etree.SubElement(projet_loi, 'titre')
+                titre.text = loi['title']
+                description_loi = etree.SubElement(projet_loi, 'description_loi')
+                description_loi.text = loi['description']
+                date_publication = etree.SubElement(projet_loi, 'date_publication')
+                date_publication.text = loi['publish_date']
+                statut = etree.SubElement(projet_loi, 'statut')
+                statut.text = loi['status']
+                # document = etree.SubElement(projet_loi, 'document')
+                # titre_document = etree.SubElement(document, 'titre_document')
+                # titre_document.text = loi['fichiers']['name']
+                # fichier_pdf = etree.SubElement(document, 'fichier_pdf')
+                # fichier_pdf.text = loi['fichiers']['full_path']
+            
+            xf.write(lois)
+
+            # ======== Génération des commissions ========
+            commissions = etree.Element('commissions')
+            for commission in allCommissions:
+                print("Titre Commissions: ", commission['title'])
+                title_commission = commission['title']
+                description_commission = commission['description']
+                president_commission = commission['bureau']['president_id']
+                vice_presidents_commission = commission['bureau']['vice_president_id']
+
+                commission = etree.SubElement(commissions, 'commission', id=f"COM{commission['id']}")
+                
+                titre_com = etree.SubElement(commission, 'titre_com')
+                titre_com.text = title_commission
+                
+                description_com = etree.SubElement(commission, 'description_com')
+                description_com.text = description_commission
+                
+                bureau = etree.SubElement(commission, 'bureau')
+                
+                president_id = etree.SubElement(bureau, 'president_id')
+                president_id.text = president_commission
+                
+                for i in range(len(vice_presidents_commission)):
+                    vice_president_id = etree.SubElement(bureau, 'vice_president_id')
+                    vice_president_id.text = vice_presidents_commission[i]
+                # vice_president_id = etree.SubElement(bureau, 'vice_president_id')
+                # vice_president_id.text = commission['bureau']['vice_president_id']
+            xf.write(commissions)
+
+    print(f"Fichier '{nom_fichier}' généré avec {nbr_donnees} députés, {len(projetsDeLoi)} lois et {len(allCommissions)} commissions.")
 
 
 
 # extaire_deputes_depuis_json('deputes.json')
-extraire_lois_depuis_json('prjet_loi.json')
-# generer_donnees_xml('assemblee_nationale.xml', 165)
+# extraire_lois_depuis_json('projet_loi.json')
+# extraire_commissions_depuis_json('projet_loi.json')
+generer_donnees_xml('assemblee_nationale.xml', 165)
 
 
 

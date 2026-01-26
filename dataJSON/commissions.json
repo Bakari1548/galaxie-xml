@@ -1,0 +1,228 @@
+[
+  {
+    "id": 420,
+    "description": "Justice, Administration territoriale, collectivités territoriales, Modernisation de l'Etat, Lois, Règlement intérieur, Décentralisation, Police, Travail, Emploi, Fonction publique, Retraite, Sécurité sociale",
+    "description_wo": "Yoon, Nguur gi, Kurél yi, Yeesal Réew mi, Yoon yi, Dogal yi, Séddale, Polis, Liggéey, Liggéey, Liggéeykat Réew mi, Retreet, Kaarange mbooloo",
+    "description_ar": "العدل، الإدارة الترابية، الجماعات المحلية، تحديث الدولة، القوانين، النظام الداخلي، اللامركزية، الشرطة، العمل، التوظيف، الوظيفة العمومية، التقاعد، الضمان الاجتماعي",
+    "description_en": "Justice, Territorial administration, local authorities, State modernization, Laws, Internal regulations, Decentralization, Police, Labor, Employment, Civil service, Retirement, Social security",
+    "title": "Commission des Lois, de la Décentralisation, du Travail et des Droits humains",
+    "title_wo": "Bànqaasu Wasaare gi (décentralisation) Liggéey ak Àqi doomi aadama",
+    "title_ar": "لجنة القوانين واللامركزية والعمل وحقوق الإنسان",
+    "title_en": "Commission for Laws, Decentralization, Labor and Human Rights",
+    "slug": "commission-des-lois-de-la-decentralisation-du-travail-et-des-droits-humains",
+    "bureau": {
+        "president_id": "DPT679",
+        "vice_president_id": ["DPT1702", "DPT1405", "DPT910"]
+    }
+  },
+  {
+    "id": 421,
+    "description": "Relations internationales, bilatérales et multilatérales, Organisations africaines, régionales et sous-régionales, Traités et Accords internationaux, Coopération diplomatique, Sénégalais de l'Extérieur",
+    "description_wo": "Diggante ak bitim réew, ñaari wet ak ñenti wet, Mbootaay Afrig yi, gox yi ak suuf yi, Digle ak Juboo bitim réew, Juboo diplomasi, Senegale yi nekk bitim réew",
+    "description_ar": "العلاقات الدولية والثنائية والمتعددة الأطراف، المنظمات الأفريقية والإقليمية ودون الإقليمية، المعاهدات والاتفاقيات الدولية، التعاون الدبلوماسي، السنغاليون في الخارج",
+    "description_en": "International, bilateral and multilateral relations, African, regional and sub-regional organizations, International treaties and agreements, Diplomatic cooperation, Senegalese abroad",
+    "title": "Commission des Affaires étrangères, des Sénégalais de l'Extérieur et de l'Intégration africaine",
+    "title_wo": "Bànqaasu Biri Biti réew, saa-senegaal ya nekk Biti Réew ak booloog Afrig",
+    "title_ar": "لجنة الشؤون الخارجية والسنغاليين في الخارج والتكامل الأفريقي",
+    "title_en": "Commission for Foreign Affairs, Senegalese Abroad and African Integration",
+    "slug": "commission-des-affaires-etrangeres-des-senegalais-de-lexterieur-et-de-lintegration-africaine",
+    "bureau": {
+        "president_id": "DPT775",
+        "vice_president_id": ["DPT1629", "DPT1784", "DPT1124"]
+    }
+  },
+  {
+    "id": 422,
+    "description": "Agriculture, Pêche, Elevage, Hydraulique rurale",
+    "description_wo": "Mbey, Napp, Géw, Ndox ak tool yi",
+    "description_ar": "الزراعة، الصيد البحري، تربية المواشي، الري الريفي",
+    "description_en": "Agriculture, Fishing, Livestock, Rural hydraulics",
+    "title": "Commission du Développement rural",
+    "title_wo": "Bànqaasu Suqalikug dëkki kaw gi",
+    "title_ar": "لجنة التنمية الريفية",
+    "title_en": "Rural Development Commission",
+    "slug": "commission-du-developpement-rural",
+    "bureau": {
+        "president_id": "DPT1367",
+        "vice_president_id": ["DPT980", "DPT1254", "DPT1022"]
+    }
+  },
+  {
+    "id": 423,
+    "description": "Travaux publics, Urbanisme, Habitat, Logement et Transports",
+    "description_wo": "Liggéey mbooloo, Defaraat dëkk bi, Dëkkuwaay, Néeg yi ak Transport yi",
+    "description_ar": "الأشغال العامة، التخطيط العمراني، السكن، الإسكان والنقل",
+    "description_en": "Public works, Urban planning, Housing, Accommodation and Transport",
+    "title": "Commission de l'Aménagement du Territoire, de l'Urbanisme, de l'Habitat, des Infrastructures et des Transports",
+    "title_wo": "Bànqaas Taaral Mbeeraay gi, gox-goxaan, Dëkkuwaay yi, Jëfandikukaay yi ak Yaale gi (transports)",
+    "title_ar": "لجنة التهيئة الترابية والتعمير والإسكان والبنية التحتية والنقل",
+    "title_en": "Commission for Territorial Planning, Urban Development, Housing, Infrastructure and Transport",
+    "slug": "commission-de-lamenagement-du-territoire-de-lurbanisme-de-lhabitat-des-infrastructures-et-des-transports",
+    "bureau": {
+        "president_id": "DPT682",
+        "vice_president_id": ["DPT1392", "DPT723", "DPT1786"]
+    }
+  },
+  {
+    "id": 424,
+    "description": "Industrie, Artisanat, Tourisme, Echanges, Commerce intérieur et extérieur, Plan, Coopération économique, Consommation",
+    "description_wo": "Usine yi, Liggéey loxo, Tukki, Weccante, Jaay ak jënd ci biir ak bitim réew, Tëralin, Juboo ci wallu koom-koom, Jëfandikoo",
+    "description_ar": "الصناعة، الحرف، السياحة، التبادل، التجارة الداخلية والخارجية، التخطيط، التعاون الاقتصادي، الاستهلاك",
+    "description_en": "Industry, Crafts, Tourism, Trade, Domestic and foreign commerce, Planning, Economic cooperation, Consumption",
+    "title": "Commission des Affaires économiques",
+    "title_wo": "Bànqaasu Biri Koom yi",
+    "title_ar": "لجنة الشؤون الاقتصادية",
+    "title_en": "Economic Affairs Commission",
+    "slug": "commission-des-affaires-economiques",
+    "bureau": {
+        "president_id": "DPT649",
+        "vice_president_id": ["DPT664", "DPT899", "DPT1144"]
+    }
+  },
+  {
+    "id": 425,
+    "description": "Cette commission examine les budgets de l'État et veille à leur exécution transparente et rigoureuse.",
+    "description_wo": "Bànqaasu bii dañuy saytu xaalis réew mi te wotu ni ñuy doxale bu leer te jubadi.",
+    "description_ar": "تقوم هذه اللجنة بفحص ميزانيات الدولة وضمان تنفيذها بشكل شفاف ودقيق",
+    "description_en": "This commission examines State budgets and ensures their transparent and rigorous execution.",
+    "title": "Commission des Finances et du Contrôle budgétaire",
+    "title_wo": "Bànqaasu Koppar yi ak Saytu njël li",
+    "title_ar": "لجنة المالية والرقابة الميزانية",
+    "title_en": "Finance and Budgetary Control Commission",
+    "slug": "commission-des-finances-et-du-controle-budgetaire",
+    "bureau": {
+        "president_id": "DPT827",
+        "vice_president_id": ["DPT693", "DPT1265", "DPT1760"]
+    }
+  },
+  {
+    "id": 426,
+    "description": "Environnement, Eau, Assainissement, Forêts et Chasse",
+    "description_wo": "Mbir wërale mbooloo, Ndox, Set wecc, Gox ak Rëbb",
+    "description_ar": "البيئة، المياه، الصرف الصحي، الغابات والصيد",
+    "description_en": "Environment, Water, Sanitation, Forests and Hunting",
+    "title": "Commission du Développement durable et de la Transition écologique",
+    "title_wo": "Bànqaasu Suqalikug guy yàgg ak \"transition écologique\"",
+    "title_ar": "لجنة التنمية المستدامة والتحول البيئي",
+    "title_en": "Commission for Sustainable Development and Ecological Transition",
+    "slug": "commission-du-developpement-durable-et-de-la-transition-ecologique",
+    "bureau": {
+        "president_id": "DPT1547",
+        "vice_president_id": ["DPT1763", "DPT754", "DPT683"]
+    }
+
+  },
+  {
+    "id": 427,
+    "description": "Electrification urbaine, Electrification rurale, Mines, Ressources pétrolières et gazières, Energies renouvelables",
+    "description_wo": "Melokaani dëkk yi, Melokaani tool yi, Gas yi, Pëtrol ak Gaz yi, Doole yu saxoo",
+    "description_ar": "الكهربة الحضرية، الكهربة الريفية، المناجم، الموارد النفطية والغازية، الطاقات المتجددة",
+    "description_en": "Urban electrification, Rural electrification, Mining, Oil and gas resources, Renewable energies",
+    "title": "Commission de l'Energie et des Ressources minérales",
+    "title_wo": "Bànqaasu Mbëj gi ak Balluy mbindaare yi (Ressources Minérales)",
+    "title_ar": "لجنة الطاقة والموارد المعدنية",
+    "title_en": "Energy and Mineral Resources Commission",
+    "slug": "commission-de-lenergie-et-des-ressources-minerales",
+    "bureau": {
+        "president_id": "DPT1762",
+        "vice_president_id": ["DPT818", "DPT695", "DPT689"]
+    }
+
+  },
+  {
+    "id": 428,
+    "description": "Défense nationale et Préservation de l'Intégrité territoriale, Coopération militaire internationale, Etablissements militaires et paramilitaires, Personnels civils et militaires des Armées, Sécurité publique, Sûreté, Gendarmerie, Justice militaire",
+    "description_wo": "Aar réew mi ak Sàmm suuf si, Juboo militeer ak bitim réew, Tabax militeer yi, Nit ñi liggéey ci Armée bi, Kaarange mbooloo, Kaarange, Sàmm réew mi, Yoon militeer",
+    "description_ar": "الدفاع الوطني والحفاظ على السلامة الترابية، التعاون العسكري الدولي، المؤسسات العسكرية وشبه العسكرية، الأفراد المدنيين والعسكريين في القوات المسلحة، الأمن العام، السلامة، الدرك، العدالة العسكرية",
+    "description_en": "National Defense and Territorial Integrity Preservation, International military cooperation, Military and paramilitary establishments, Civil and military Army personnel, Public security, Safety, Gendarmerie, Military justice",
+    "title": "Commission de la Défense et de la Sécurité",
+    "title_wo": "Bànqaasu Aar ak ug Kaaraangeg",
+    "title_ar": "لجنة الدفاع والأمن",
+    "title_en": "Defense and Security Commission",
+    "slug": "commission-de-la-defense-et-de-la-securite",
+    "bureau": {
+        "president_id": "DPT819",
+        "vice_president_id": ["DPT1767", "DPT836", "DPT670"]
+    }
+  },
+  {
+    "id": 429,
+    "description": "Enseignement de base, Promotion des Langues nationales, Enseignement moyen, secondaire, général et technique, Formation professionnelle, Enseignement universitaire et Recherche, Jeunesse, Sports, Loisirs, Service civique national, Coopération scientifique et technique",
+    "description_wo": "Njàng mu ndaw, Yékkati làkk réew mi, Njàng moyen, secondaire, yépp ak teknik, Njàngal liggéey, Njàng université ak Gëstu, Ndaw ñi, Sport, Po, Liggéeyal réew mi, Juboo xam-xam ak teknik",
+    "description_ar": "التعليم الأساسي، تعزيز اللغات الوطنية، التعليم المتوسط والثانوي والعام والتقني، التكوين المهني، التعليم الجامعي والبحث، الشباب، الرياضة، الترفيه، الخدمة المدنية الوطنية، التعاون العلمي والتقني",
+    "description_en": "Basic education, Promotion of national languages, Middle, secondary, general and technical education, Vocational training, University education and Research, Youth, Sports, Leisure, National civic service, Scientific and technical cooperation",
+    "title": "Commission de l'Education, de la Jeunesse, des Sports et des Loisirs",
+    "title_wo": "Bànqaasu Yar gi, bu Ndaw ñi, Tàggat Yaram ak Mbégte",
+    "title_ar": "لجنة التربية والشباب والرياضة والترفيه",
+    "title_en": "Commission for Education, Youth, Sports and Leisure",
+    "slug": "commission-de-leducation-de-la-jeunesse-des-sports-et-des-loisirs",
+    "bureau": {
+        "president_id": "DPT1275",
+        "vice_president_id": ["DPT654", "DPT1683", "DPT1526"]
+    }
+  },
+  {
+    "id": 430,
+    "description": "Culture, Information, Communication, Télécommunications, Economie numérique, Affaires religieuses, Coopération culturelle",
+    "description_wo": "Cosaan, Xibaar, Jokkoo, Telefon, Koom-koom numerik, Mbir diine, Juboo cosaan",
+    "description_ar": "الثقافة، الإعلام، الاتصال، الاتصالات، الاقتصاد الرقمي، الشؤون الدينية، التعاون الثقافي",
+    "description_en": "Culture, Information, Communication, Telecommunications, Digital economy, Religious affairs, Cultural cooperation",
+    "title": "Commission de la Culture et de la Communication",
+    "title_wo": "Bànqaasu Mbatiit ak Caabal gi (COM)",
+    "title_ar": "لجنة الثقافة والاتصال",
+    "title_en": "Culture and Communication Commission",
+    "slug": "commission-de-la-culture-et-de-la-communication",
+    "bureau": {
+        "president_id": "DPT708",
+        "vice_president_id": ["DPT1761", "DPT964", "DPT870"]
+    }
+  },
+  {
+    "id": 431,
+    "description": "Le président de la Commission de la Comptabilité et du Contrôle budgétaire de l'Assemblée nationale Monsieur Abdoulaye Sow a tenu une réunion de prise de contact avec les membres de sa commission.",
+    "description_wo": "Njiit Bànqaasu Limu-konte ak Saytu xaalis Péncum Réew mi Abdoulaye Sow def na ndajem xàjjali ak way bokk Bànqaasu am.",
+    "description_ar": "عقد رئيس لجنة المحاسبة والرقابة الميزانية في الجمعية الوطنية السيد عبد الله سو اجتماعا تعريفيا مع أعضاء لجنته",
+    "description_en": "The chairman of the National Assembly's Accounting and Budgetary Control Commission, Mr. Abdoulaye Sow, held an introductory meeting with the members of his commission.",
+    "title": "Commission de Comptabilité et de Contrôle",
+    "title_wo": "Bànqaasu Waññi ak Saytu",
+    "title_ar": "لجنة المحاسبة والرقابة",
+    "title_en": "Accounting and Control Commission",
+    "slug": "commission-de-comptabilite-et-de-controle",
+    "bureau": {
+        "president_id": "DPT685",
+        "vice_president_id": ["DPT1764", "DPT717"]
+    }
+  },
+  {
+    "id": 432,
+    "description": "Evaluation et contrôle de l'Exécution des Lois votées, Suppléance de l'Assemblée dans l'adoption de mesures relevant du domaine de la loi conformément à la Constitution",
+    "description_wo": "Saytu ak kontorole doxalin Yoon yi ñu vCommission de l'Education, de la Jeunesse, des Sports et des Loisirsoter, Wuutu Péncum Réew mi ci jëfekaay yi bokk ci wall yoon bi melni ko Ndeyu Yoon wi santaane",
+    "description_ar": "تقييم ومراقبة تنفيذ القوانين المصوت عليها، نيابة الجمعية في اعتماد التدابير التي تدخل في نطاق القانون وفقا للدستور",
+    "description_en": "Evaluation and monitoring of the execution of voted Laws, Assembly substitution in the adoption of measures falling within the scope of the law in accordance with the Constitution",
+    "title": "Commission des Délégations",
+    "title_wo": "Bànqaasu Ndaw yi",
+    "title_ar": "لجنة التفويضات",
+    "title_en": "Delegations Commission",
+    "slug": "commission-des-delegations",
+    "bureau": {
+        "president_id": "DPT1460",
+        "vice_president_id": ["DPT1267", "DPT1709"]
+    }
+  },
+  {
+    "id": 433,
+    "description": "Santé publique, Soins de santé primaires, Infrastructures et Equipements hospitaliers, Pharmacie, Formations médicale et paramédicale, Femme, Enfant, Personnes vivant avec un Handicap, Action sociale, Solidarité nationale, Politique de Population",
+    "description_wo": "Wér-gi-yaram mbooloo, Faj bu njëkk, Tabax ak Jumtukaay lopitaal yi, Farmasi, Njàngal faj ak dimbalante faj, Jigéen, Xale, Ñi am njurux, Jëf mbooloo, Bennoo réew mi, Politig askan wi",
+    "description_ar": "الصحة العامة، الرعاية الصحية الأولية، البنية التحتية والمعدات الطبية، الصيدلة، التكوين الطبي وشبه الطبي، المرأة، الطفل، الأشخاص ذوو الإعاقة، العمل الاجتماعي، التضامن الوطني، السياسة السكانية",
+    "description_en": "Public health, Primary healthcare, Hospital infrastructure and equipment, Pharmacy, Medical and paramedical training, Women, Children, People living with disabilities, Social action, National solidarity, Population policy",
+    "title": "Commission de la Santé, de la Population, des Affaires sociales et de la Solidarité nationale",
+    "title_wo": "Bànqaasu Wér gu Yaram, Askan wi, ak Biri \"Sociales\" ak Njàppalanteg Réew mi",
+    "title_ar": "لجنة الصحة والسكان والشؤون الاجتماعية والتضامن الوطني",
+    "title_en": "Commission for Health, Population, Social Affairs and National Solidarity",
+    "slug": "commission-de-la-sante-de-la-population-des-affaires-sociales-et-de-la-solidarite-nationale",
+    "bureau": {
+        "president_id": "DPT1710",
+        "vice_president_id": ["DPT1680", "DPT1738"]
+    }
+  }
+]

@@ -5,7 +5,7 @@
             "categories": [
                 {
                     "created_at": null,
-                    "description": "Cette cat\u00e9gorie contient la liste et les d\u00e9tails des commissions.",
+                    "description": "Cette catégorie contient la liste et les détails des commissions.",
                     "id": 6,
                     "parent_id": null,
                     "pivot": {
@@ -18,7 +18,7 @@
                 },
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -39,7 +39,7 @@
                         "publication_id": 2093
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 }
             ],
@@ -82,10 +82,10 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": null,
-            "title": "Le rapport de la Commission des Lois relatif au Projet de loi n\u00b013/2025 portant statut et protection des lanceurs d\u2019alerte examin\u00e9 par les d\u00e9put\u00e9s r\u00e9unis en s\u00e9ance pl\u00e9ni\u00e8re ce mardi 26 ao\u00fbt 2025 \u00e0 l\u2019Assembl\u00e9e nationale.",
+            "title": "Le rapport de la Commission des Lois relatif au Projet de loi n°13/2025 portant statut et protection des lanceurs d'alerte examiné par les députés réunis en séance pléni\u00e8re ce mardi 26 aoùt 2025 à l'Assemblée nationale.",
             "title_ar": "\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0628\u064a\u0644 \u0627\u0644\u0639\u062f\u062f 13/2025 \u062d\u0648\u0644 \u0648\u0636\u0639 \u0648\u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0645\u062e\u0627\u0644\u0641\u0627\u062a \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 26 \u0623\u063a\u0633\u0637\u0633 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.",
-            "title_en": "The report of the Law Commission relating to bill n \u00b0 13/2025 on the status and protection of whistleblowers examined by the deputies gathered in plenary session this Tuesday, August 26, 2025 in the National Assembly.",
-            "title_wo": "T\u00ebnku B\u00e0nqaasu S\u00e0rt yi bu S\u00e9mbu s\u00e0rtu n\u00b013/2025 j\u00ebm ci taxawaay ak aar yoolekat yi SURGA yi di saytu ci pele\u00f1eeru talaata 26i fani ut 2025 ci \"Assembl\u00e9e nationale\".",
+            "title_en": "The report of the Law Commission relating to bill n ° 13/2025 on the status and protection of whistleblowers examined by the deputies gathered in plenary session this Tuesday, August 26, 2025 in the National Assembly.",
+            "title_wo": "T\u00ebnku Bànqaasu Sàrt yi bu Sémbu sàrtu n°13/2025 j\u00ebm ci taxawaay ak aar yoolekat yi SURGA yi di saytu ci pele\u00f1eeru talaata 26i fani ut 2025 ci \"Assemblée nationale\".",
             "updated_at": "2025-08-26T10:07:33.000000Z"
         },
         {
@@ -93,7 +93,7 @@
             "categories": [
                 {
                     "created_at": null,
-                    "description": "Cette cat\u00e9gorie contient les actualit\u00e9s r\u00e9centes.",
+                    "description": "Cette catégorie contient les actualités récentes.",
                     "id": 7,
                     "parent_id": null,
                     "pivot": {
@@ -101,12 +101,12 @@
                         "publication_id": 2094
                     },
                     "slug": "actualites",
-                    "title": "Actualit\u00e9s",
+                    "title": "Actualités",
                     "updated_at": null
                 },
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -127,7 +127,7 @@
                         "publication_id": 2094
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 }
             ],
@@ -170,10 +170,10 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": null,
-            "title": "Le rapport de la Commission des Lois relatif au  projet de loi n\u00b014/2025 relatif \u00e0 l\u2019Acc\u00e8s \u00e0 l\u2019Information examin\u00e9 par les d\u00e9put\u00e9s r\u00e9unis en s\u00e9ance pl\u00e9ni\u00e8re ce mardi 26 ao\u00fbt 2025 \u00e0 l\u2019Assembl\u00e9e nationale.",
+            "title": "Le rapport de la Commission des Lois relatif au  projet de loi n°14/2025 relatif à l'Acc\u00e8s à l'Information examiné par les députés réunis en séance pléni\u00e8re ce mardi 26 aoùt 2025 à l'Assemblée nationale.",
             "title_ar": "\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0628\u064a\u0644 \u0627\u0644\u0639\u062f\u062f 14/2025 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 26 \u0623\u063a\u0633\u0637\u0633 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.",
-            "title_en": "The report of the Law Commission relating to bill n \u00b0 14/2025 relating to the access to information examined by the deputies gathered in plenary session this Tuesday, August 26, 2025 in the National Assembly.",
-            "title_wo": "T\u00ebnku B\u00e0nqaasu S\u00e0rt yi ci s\u00e9mbu s\u00e0rt n\u00b014/2025 j\u00ebm ci Jote ci xibaar bu SURGA yi di saytu ci pele\u00f1eeru talaata 26i fani ut 2025 ci \"Assembl\u00e9e nationale\".",
+            "title_en": "The report of the Law Commission relating to bill n ° 14/2025 relating to the access to information examined by the deputies gathered in plenary session this Tuesday, August 26, 2025 in the National Assembly.",
+            "title_wo": "T\u00ebnku Bànqaasu Sàrt yi ci sémbu sàrt n°14/2025 j\u00ebm ci Jote ci xibaar bu SURGA yi di saytu ci pele\u00f1eeru talaata 26i fani ut 2025 ci \"Assemblée nationale\".",
             "updated_at": "2025-08-26T14:56:48.000000Z"
         },
         {
@@ -181,7 +181,7 @@
             "categories": [
                 {
                     "created_at": null,
-                    "description": "Cette cat\u00e9gorie contient les actualit\u00e9s r\u00e9centes.",
+                    "description": "Cette catégorie contient les actualités récentes.",
                     "id": 7,
                     "parent_id": null,
                     "pivot": {
@@ -189,7 +189,7 @@
                         "publication_id": 2091
                     },
                     "slug": "actualites",
-                    "title": "Actualit\u00e9s",
+                    "title": "Actualités",
                     "updated_at": null
                 },
                 {
@@ -202,12 +202,12 @@
                         "publication_id": 2091
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 },
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -258,10 +258,10 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": null,
-            "title": "Le rapport de la Commission des Lois relatif au \u00a0projet de loi n\u00b0 15/2025 relatif \u00e0 la d\u00e9claration de patrimoine examin\u00e9 par les d\u00e9put\u00e9s r\u00e9unis en s\u00e9ance pl\u00e9ni\u00e8re ce lundi 25 ao\u00fbt 2025 \u00e0 l\u2019Assembl\u00e9e nationale.",
+            "title": "Le rapport de la Commission des Lois relatif au \u00a0projet de loi n° 15/2025 relatif à la déclaration de patrimoine examiné par les députés réunis en séance pléni\u00e8re ce lundi 25 aoùt 2025 à l'Assemblée nationale.",
             "title_ar": "\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0628\u064a\u0644 \u0631\u0642\u0645 15/2025 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u0625\u0639\u0644\u0627\u0646 \u0627\u0644\u0623\u0635\u0648\u0644 \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u060c 25 \u0623\u063a\u0633\u0637\u0633 \u060c 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.",
-            "title_en": "The report of the Law Commission relating to bill n \u00b0 15/2025 relating to the declaration of assets examined by the deputies gathered in plenary session this Monday, August 25, 2025 in the National Assembly.",
-            "title_wo": "T\u00ebnku B\u00e0nqaasu S\u00e0rt yi j\u00ebm ci s\u00e9mbu s\u00e0rt n\u00b015/2025 bu soppar\u00f1i xamleg moomeel bi SURGA yi di saytu ci pele\u00f1eeru altine 25i fani ut 2025 ci \"Assembl\u00e9e nationale\".",
+            "title_en": "The report of the Law Commission relating to bill n ° 15/2025 relating to the declaration of assets examined by the deputies gathered in plenary session this Monday, August 25, 2025 in the National Assembly.",
+            "title_wo": "T\u00ebnku Bànqaasu Sàrt yi j\u00ebm ci sémbu sàrt n°15/2025 bu soppar\u00f1i xamleg moomeel bi SURGA yi di saytu ci pele\u00f1eeru altine 25i fani ut 2025 ci \"Assemblée nationale\".",
             "updated_at": "2025-08-25T16:01:19.000000Z"
         },
         {
@@ -269,7 +269,7 @@
             "categories": [
                 {
                     "created_at": null,
-                    "description": "Cette cat\u00e9gorie contient les actualit\u00e9s r\u00e9centes.",
+                    "description": "Cette catégorie contient les actualités récentes.",
                     "id": 7,
                     "parent_id": null,
                     "pivot": {
@@ -277,7 +277,7 @@
                         "publication_id": 2092
                     },
                     "slug": "actualites",
-                    "title": "Actualit\u00e9s",
+                    "title": "Actualités",
                     "updated_at": null
                 },
                 {
@@ -290,12 +290,12 @@
                         "publication_id": 2092
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 },
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -346,10 +346,10 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": null,
-            "title": "Le rapport de la Commission des Lois relatif au  projet de loi n\u00b012/2025 portant cr\u00e9ation de l\u2019Office national de lutte contre la Corruption examin\u00e9 par les d\u00e9put\u00e9s r\u00e9unis en s\u00e9ance pl\u00e9ni\u00e8re ce lundi 25 ao\u00fbt 2025 \u00e0 l\u2019Assembl\u00e9e nationale.",
+            "title": "Le rapport de la Commission des Lois relatif au  projet de loi n°12/2025 portant création de l'Office national de lutte contre la Corruption examiné par les députés réunis en séance pléni\u00e8re ce lundi 25 aoùt 2025 à l'Assemblée nationale.",
             "title_ar": "\u062a\u0642\u0631\u064a\u0631 \u0644\u062c\u0646\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u064a\u0644 \u0628\u064a\u0644 \u0631\u0642\u0645 12/2025 \u0625\u0646\u0634\u0627\u0621 \u0627\u0644\u0645\u0643\u062a\u0628 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0641\u0633\u0627\u062f \u0627\u0644\u062a\u064a \u0641\u062d\u0635\u0647\u0627 \u0627\u0644\u0646\u0648\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u0645 \u062c\u0645\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u062c\u0644\u0633\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646 \u060c 25 \u0623\u063a\u0633\u0637\u0633 2025 \u0641\u064a \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629.",
             "title_en": "The report of the Law Commission relating to bill No. 12/2025 creating the National Office for the Fight against Corruption examined by the deputies gathered in plenary session this Monday, August 25, 2025 in the National Assembly.",
-            "title_wo": "T\u00ebnku B\u00e0nqaasu S\u00e0rt yi soppar\u00f1i ci s\u00e9mbu s\u00e0rt n\u00b012/2025 bi j\u00ebm ci taxawalug OFNAC ci xeex Ger bi SURGA yi di saytu ci pele\u00f1eeru altine 25i fani ut 2025 ci \"Assembl\u00e9e nationale\".",
+            "title_wo": "T\u00ebnku Bànqaasu Sàrt yi soppar\u00f1i ci sémbu sàrt n°12/2025 bi j\u00ebm ci taxawalug OFNAC ci xeex Ger bi SURGA yi di saytu ci pele\u00f1eeru altine 25i fani ut 2025 ci \"Assemblée nationale\".",
             "updated_at": "2025-08-25T16:05:10.000000Z"
         },
         {
@@ -357,7 +357,7 @@
             "categories": [
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -378,7 +378,7 @@
                         "publication_id": 1650
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 }
             ],
@@ -409,10 +409,10 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": null,
-            "title": "Projet de loi n\u00b007-2025 autorisant le pr\u00e9sident de la r\u00e9publique \u00e0 signer l\u2019Instrument d\u2019adh\u00e9sion \u00e0 l\u2019Accord portant cr\u00e9ation de la Banque europ\u00e9enne pour la reconstruction et le d\u00e9veloppement (BERD).",
+            "title": "Projet de loi n°07-2025 autorisant le président de la république à signer l'Instrument d'adhésion à l'Accord portant création de la Banque européenne pour la reconstruction et le développement (BERD).",
             "title_ar": "\u0628\u064a\u0644 \u0631\u0642\u0645 07-2025 \u064a\u0633\u0645\u062d \u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0628\u062a\u0648\u0642\u064a\u0639 \u0623\u062f\u0627\u0629 \u0627\u0644\u0639\u0636\u0648\u064a\u0629 \u0641\u064a \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u062e\u0644\u0642 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0644\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u0625\u0639\u0645\u0627\u0631 \u0648\u0627\u0644\u062a\u0637\u0648\u064a\u0631 (BERD).",
-            "title_en": "Bill N \u00b0 07-2025 authorizing the President of the Republic to sign the instrument of membership in the agreement creating the European Bank for Reconstruction and Development (BERD).",
-            "title_wo": "S\u00e9mbu s\u00e0rt n\u00b007-2025 buy may Njiitu R\u00e9ew mi mu torlu (sign\u00e9) lu koy tax a bokk ci d\u00e9ggoob biy taxawal B\u00e0nku sas-\u00f3rob ngir tabaxaat ag suqaliku\u00a0(BERD).",
+            "title_en": "Bill N ° 07-2025 authorizing the President of the Republic to sign the instrument of membership in the agreement creating the European Bank for Reconstruction and Development (BERD).",
+            "title_wo": "Sémbu sàrt n°07-2025 buy may Njiitu Réew mi mu torlu (signé) lu koy tax a bokk ci déggoob biy taxawal Bànku sas-\u00f3rob ngir tabaxaat ag suqaliku\u00a0(BERD).",
             "updated_at": "2025-05-15T09:02:09.000000Z"
         },
         {
@@ -420,7 +420,7 @@
             "categories": [
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -441,7 +441,7 @@
                         "publication_id": 1651
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 }
             ],
@@ -472,10 +472,10 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": null,
-            "title": "Projet de loi n\u00b006-2025 autorisant le pr\u00e9sident de la r\u00e9publique \u00e0 signer l\u2019Instrument d\u2019adh\u00e9sion aux statuts de la Banque de commerce et de d\u00e9veloppement de l\u2019Afrique de l\u2019Est et australe",
+            "title": "Projet de loi n°06-2025 autorisant le président de la république à signer l'Instrument d'adhésion aux statuts de la Banque de commerce et de développement de l'Afrique de l'Est et australe",
             "title_ar": "\u0628\u064a\u0644 \u0631\u0642\u0645 06-2025 \u064a\u0633\u0645\u062d \u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0628\u0627\u0644\u062a\u0648\u0642\u064a\u0639 \u0639\u0644\u0649 \u0623\u062f\u0627\u0629 \u0627\u0644\u0639\u0636\u0648\u064a\u0629 \u0641\u064a \u0642\u0648\u0627\u0646\u064a\u0646 \u0628\u0646\u0643 \u0627\u0644\u062a\u062c\u0627\u0631\u064a \u0648\u0627\u0644\u062a\u0646\u0645\u064a\u0629 \u0641\u064a \u0634\u0631\u0642 \u0648\u062c\u0646\u0648\u0628 \u0625\u0641\u0631\u064a\u0642\u064a\u0627",
-            "title_en": "Bill N \u00b0 06-2025 authorizing the President of the Republic to sign the instrument of membership in the statutes of the Bank of Commercial and Development of East and Southern Africa",
-            "title_wo": "Bill N \u00b0 \u00b0 06-2025 may njiitu r\u00e9ew mi mu si\u00f1e jumtukaayu bokk yi ci w\u00e0llu s\u00e0rti B\u00e0nk ak yokkute ci penku ak Sud Africa",
+            "title_en": "Bill N ° 06-2025 authorizing the President of the Republic to sign the instrument of membership in the statutes of the Bank of Commercial and Development of East and Southern Africa",
+            "title_wo": "Bill N ° ° 06-2025 may njiitu réew mi mu si\u00f1e jumtukaayu bokk yi ci wàllu sàrti Bànk ak yokkute ci penku ak Sud Africa",
             "updated_at": "2025-05-15T09:02:55.000000Z"
         },
         {
@@ -491,12 +491,12 @@
                         "publication_id": 778
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 },
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -550,7 +550,7 @@
             "title": "loi n2 2025 PORTANT REGLEMENTATION DE LA MICROFINANCE",
             "title_ar": "\u0627\u0644\u0642\u0627\u0646\u0648\u0646 N2 2025 \u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631",
             "title_en": "Law N2 2025 Regulating microfinance",
-            "title_wo": "S\u00e0rt n2 2025 bu j\u00ebm ci joyyanti t\u00ebraliinu\u00a0\"microfinance\"",
+            "title_wo": "Sàrt n2 2025 bu j\u00ebm ci joyyanti t\u00ebraliinu\u00a0\"microfinance\"",
             "updated_at": "2025-06-30T11:04:54.000000Z"
         },
         {
@@ -558,7 +558,7 @@
             "categories": [
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -579,7 +579,7 @@
                         "publication_id": 757
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 }
             ],
@@ -622,10 +622,10 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": null,
-            "title": "Loi portant r\u00e9glementation de la microfinance",
+            "title": "Loi portant réglementation de la microfinance",
             "title_ar": "\u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0635\u063a\u0631",
             "title_en": "Law regulating microfinance",
-            "title_wo": "S\u00e0rt bu j\u00ebm ci joyyanti t\u00ebraliinu \"microfinance\"",
+            "title_wo": "Sàrt bu j\u00ebm ci joyyanti t\u00ebraliinu \"microfinance\"",
             "updated_at": "2025-05-15T09:08:39.000000Z"
         },
         {
@@ -641,12 +641,12 @@
                         "publication_id": 779
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 },
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -697,10 +697,10 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": null,
-            "title": "Loi portant r\u00e9glementation bancaire",
+            "title": "Loi portant réglementation bancaire",
             "title_ar": "\u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0630\u064a \u064a\u062d\u0645\u0644 \u0627\u0644\u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u0645\u0635\u0631\u0641\u064a",
             "title_en": "Law bearing banking regulation",
-            "title_wo": "S\u00e0rt bu j\u00ebm ci joyyanti t\u00ebraliinu b\u00e2nk yi",
+            "title_wo": "Sàrt bu j\u00ebm ci joyyanti t\u00ebraliinu b\u00e2nk yi",
             "updated_at": "2025-05-15T09:11:09.000000Z"
         },
         {
@@ -708,7 +708,7 @@
             "categories": [
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -729,7 +729,7 @@
                         "publication_id": 262
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 }
             ],
@@ -785,7 +785,7 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": "https://api.assemblee.sn/fichier/afficher?path=thumbnails%2FjsPwO9Cz77EAvVZlyePNkVTCTJwvY2w3YyG79ZtC.png&signature=d823eacce906bc772fad166ef09d3699dfc46a4fc8be522f2b7c5344e18cea7b",
-            "title": "Le projet de loi de finances initiale pour l\u2019ann\u00e9e 2025 (PLF)",
+            "title": "Le projet de loi de finances initiale pour l'année 2025 (PLF)",
             "title_ar": "\u0645\u0634\u0631\u0648\u0639 \u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0627\u0644\u0623\u0648\u0644\u064a \u0644\u0639\u0627\u0645 2025 (PLF)",
             "title_en": "The initial finance bill for the year 2025 (PLF)",
             "title_wo": "Ndimbalukaay bu nj\u00ebl ci dawal bu xaalis bu nj\u00ebkk ngir atum 2025 (PLF).",
@@ -796,7 +796,7 @@
             "categories": [
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -817,7 +817,7 @@
                         "publication_id": 153
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 }
             ],
@@ -850,10 +850,10 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": "https://api.assemblee.sn/fichier/afficher?path=thumbnails%2Fo3Jyr59nmwmREwPQxeFKKZFtnpC6DlzFOpuaXxhl.png&signature=a83789cc350f66ed1dd3a8370ff968bd929367faeaec5d41ff56aa90a552878a",
-            "title": "La Loi de Finances pour l'ann\u00e9e 2024, connue sous la r\u00e9f\u00e9rence Loi N\u00b02023-18",
+            "title": "La Loi de Finances pour l'année 2024, connue sous la référence Loi N°2023-18",
             "title_ar": "\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u062a\u0645\u0648\u064a\u0644 \u0644\u0639\u0627\u0645 2024 \u060c \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0645\u0648\u062c\u0628 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0645\u0631\u062c\u0639\u064a \u0631\u0642\u0645 2023-18",
-            "title_en": "The finance law for the year 2024, known under the reference law n \u00b0 2023-18",
-            "title_wo": "S\u00e0rtu Koppar ngir atum 2024, mu m\u00e0ndargawoo ci S\u00e0rtu N\u00b02023-18",
+            "title_en": "The finance law for the year 2024, known under the reference law n ° 2023-18",
+            "title_wo": "Sàrtu Koppar ngir atum 2024, mu màndargawoo ci Sàrtu N°2023-18",
             "updated_at": "2025-05-15T09:12:27.000000Z"
         },
         {
@@ -869,12 +869,12 @@
                         "publication_id": 775
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 },
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -928,7 +928,7 @@
             "title": "LOI 11 2024 LOI PORTANT REVISION DE LA CONSTITUTION",
             "title_ar": "\u0627\u0644\u0642\u0627\u0646\u0648\u0646 11 2024 \u0642\u0627\u0646\u0648\u0646 \u0645\u0631\u0627\u062c\u0639\u0629 \u0627\u0644\u062f\u0633\u062a\u0648\u0631",
             "title_en": "Law 11 2024 Law revising the Constitution",
-            "title_wo": "S\u00e0rt 11 2024 bu j\u00ebm ci t\u00ebggaat ndayu-s\u00e0rti r\u00e9ew mi",
+            "title_wo": "Sàrt 11 2024 bu j\u00ebm ci t\u00ebggaat ndayu-sàrti réew mi",
             "updated_at": "2025-05-15T09:13:40.000000Z"
         },
         {
@@ -936,7 +936,7 @@
             "categories": [
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -957,7 +957,7 @@
                         "publication_id": 557
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 }
             ],
@@ -1057,10 +1057,10 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": "https://api.assemblee.sn/fichier/afficher?path=thumbnails%2FwC91O2rQeulFmGHfbWqKEdGJh7WGL9dHUjXGYq5j.jpg&signature=c24c9522a6e283330780c938e9818c840671f02abb4d51a3f1d86f47678b95cb",
-            "title": "Abrogation de la loi organique n\u00b0 2012-28 du 28 d\u00e9cembre 2012",
+            "title": "Abrogation de la loi organique n° 2012-28 du 28 décembre 2012",
             "title_ar": "\u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0639\u0636\u0648\u064a \u0631\u0642\u0645 2012-28 \u0645\u0646 28 \u062f\u064a\u0633\u0645\u0628\u0631 2012",
-            "title_en": "Abrogation of organic law n \u00b0 2012-28 of December 28, 2012",
-            "title_wo": "2012 ba 28 des\u00e0mbar 28, 2012, 2012 ba 28 des\u00e0mbar 2012",
+            "title_en": "Abrogation of organic law n ° 2012-28 of December 28, 2012",
+            "title_wo": "2012 ba 28 desàmbar 28, 2012, 2012 ba 28 desàmbar 2012",
             "updated_at": "2025-05-15T08:57:47.000000Z"
         },
         {
@@ -1068,7 +1068,7 @@
             "categories": [
                 {
                     "created_at": "2025-01-09T12:04:12.000000Z",
-                    "description": "Est un texte \u00e9manant du Gouvernement transmis \u00e0 l\u2019Assembl\u00e9e Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis \u00e0 l\u2019examen et au vote des d\u00e9putes ou des parlementaires .",
+                    "description": "Est un texte émanant du Gouvernement transmis à l'Assemblée Nationale ou au Parlement, apr\u00e8s son adoption en Conseil des Ministres, pour \u00eatre soumis à l'examen et au vote des députes ou des parlementaires .",
                     "id": 41,
                     "parent_id": null,
                     "pivot": {
@@ -1089,7 +1089,7 @@
                         "publication_id": 152
                     },
                     "slug": "xv-legislature",
-                    "title": "XV\u1d49 l\u00e9gislature",
+                    "title": "XV\u1d49 législature",
                     "updated_at": "2025-01-15T14:26:51.000000Z"
                 }
             ],
@@ -1146,10 +1146,10 @@
             "thumbnail_banniere": null,
             "thumbnail_banniere_full_path": null,
             "thumbnail_full_path": "https://api.assemblee.sn/fichier/afficher?path=thumbnails%2F6w7rG6QU2OCeBNtKTjLYN57faLUeylEfMOSnUwx2.jpg&signature=2a77d9ee0fe86e526f2391f783b83ed8a5217144bac68336ff523387c75abbe9",
-            "title": "Abrogation de la loi organique n\u00b0 2012-28 du 28 d\u00e9cembre 2012 relative \u00e0 l\u2019organisation et au fonctionnement du (CESE), et de la loi organique n\u00b0 2016-24 du 14 juillet 2016 relative \u00e0 l\u2019organisation et au fonctionnement du (HCCT).",
-            "title_ar": "\u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0639\u0636\u0648\u064a N \u00b0 2012-28 \u0645\u0646 28 \u062f\u064a\u0633\u0645\u0628\u0631 2012 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u062a\u0646\u0638\u064a\u0645 (EESC) \u060c \u0648\u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0639\u0636\u0648\u064a N \u00b0 2016-24 \u0645\u0646 14 \u064a\u0648\u0644\u064a\u0648 2016 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u062a\u0646\u0638\u064a\u0645 (HCCT).",
-            "title_en": "Abrogation of organic law n \u00b0 2012-28 of December 28, 2012 relating to the organization and functioning of (EESC), and organic law n \u00b0 2016-24 of July 14, 2016 relating to the organization and functioning of (HCCT).",
-            "title_wo": "Arogation ci loi organik \u00b0 2012-28 ci 28 des\u00e0mbar, 2012 bu j\u00ebm ci mbootaay ak doxal (ESC), ak yoon organik \u00b0 \u00b0 2016-24 ci weeru sulet 14, 2016 bu j\u00ebm ci mbootaay ak doxalinu (HCCT).",
+            "title": "Abrogation de la loi organique n° 2012-28 du 28 décembre 2012 relative à l'organisation et au fonctionnement du (CESE), et de la loi organique n° 2016-24 du 14 juillet 2016 relative à l'organisation et au fonctionnement du (HCCT).",
+            "title_ar": "\u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0639\u0636\u0648\u064a N ° 2012-28 \u0645\u0646 28 \u062f\u064a\u0633\u0645\u0628\u0631 2012 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u062a\u0646\u0638\u064a\u0645 (EESC) \u060c \u0648\u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0639\u0636\u0648\u064a N ° 2016-24 \u0645\u0646 14 \u064a\u0648\u0644\u064a\u0648 2016 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u062a\u0646\u0638\u064a\u0645 (HCCT).",
+            "title_en": "Abrogation of organic law n ° 2012-28 of December 28, 2012 relating to the organization and functioning of (EESC), and organic law n ° 2016-24 of July 14, 2016 relating to the organization and functioning of (HCCT).",
+            "title_wo": "Arogation ci loi organik ° 2012-28 ci 28 desàmbar, 2012 bu j\u00ebm ci mbootaay ak doxal (ESC), ak yoon organik ° ° 2016-24 ci weeru sulet 14, 2016 bu j\u00ebm ci mbootaay ak doxalinu (HCCT).",
             "updated_at": "2025-05-15T08:56:46.000000Z"
         }
     ]
