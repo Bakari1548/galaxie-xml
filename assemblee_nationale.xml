@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE assemblee_nationale SYSTEM "assemblee.dtd">
 <assemblee_nationale>
     <informations_generales>
         <pays>Sénégal</pays>
         <legislature>15ème législature (2024-2029)</legislature>
-        <date_debut>2022-07-30</date_debut>
+        <annee_debut_legis>2022-07-30</annee_debut_legis>
         <siege>Dakar</siege>
         <description>
                 L'Assemblée nationale est l'institution législative qui représente le peuple et exerce 
@@ -3729,21 +3730,21 @@ l&amp;#39;assembl&amp;eacute;e g&amp;eacute;n&amp;eacute;rale, conform&amp;eacut
     </commissions>
     <sessions>
         <session id="S001">
-            <description>Session ordinaire budgétaire et examen des lois de finances</description>
+            <description_sess>Session ordinaire budgétaire et examen des lois de finances</description_sess>
             <periode>Octobre - Juin</periode>
-            <dateDebut>2024-10-01</dateDebut>
-            <dateFin>2025-06-31</dateFin>
+            <date_debut>2024-10-01</date_debut>
+            <date_fin>2025-06-31</date_fin>
 
             <seances>
 
                 <seance id="SE001">
-                    <presidentSeance ref="DPT14650"/>
-                    <secretaireSeance ref="DPT29912"/>
+                    <president_seance ref="DPT827"/>
+                    <secretaire_seance ref="DPT693"/>
 
-                    <ordreDuJour>
+                    <ordre_du_jour>
                         <point priorite="haute">Projet de loi de finances 2026</point>
                         <point priorite="moyenne">Réforme du code électoral</point>
-                    </ordreDuJour>
+                    </ordre_du_jour>
 
                     <votes>
                         <vote texte="Projet de loi de finances 2026" resultat="Adopté">
@@ -3763,13 +3764,13 @@ l&amp;#39;assembl&amp;eacute;e g&amp;eacute;n&amp;eacute;rale, conform&amp;eacut
                 </seance>
 
                 <seance id="SE002">
-                    <presidentSeance ref="DPT92530"/>
-                    <secretaireSeance ref="DPT47517"/>
+                    <president_seance ref="DPT1710"/>
+                    <secretaire_seance ref="DPT1680"/>
 
-                    <ordreDuJour>
+                    <ordre_du_jour>
                         <point priorite="haute">Loi sur la santé publique</point>
                         <point priorite="moyenne">Loi sur la sécurité alimentaire</point>
-                    </ordreDuJour>
+                    </ordre_du_jour>
 
                     <votes>
                         <vote texte="Loi sur la santé publique" resultat="Adopté">
@@ -3784,20 +3785,20 @@ l&amp;#39;assembl&amp;eacute;e g&amp;eacute;n&amp;eacute;rale, conform&amp;eacut
             </seances>
         </session>
         <session id="S002">
-            <description>Session législative ordinaire</description>
+            <description_sess>Session législative ordinaire</description_sess>
             <periode>Février - Mai</periode>
-            <dateDebut>2026-02-01</dateDebut>
-            <dateFin>2026-05-31</dateFin>
+            <date_debut>2026-02-01</date_debut>
+            <date_fin>2026-05-31</date_fin>
 
             <seances>
                 <seance id="SE003">
-                    <presidentSeance ref="DPT66866"/>
-                    <secretaireSeance ref="DPT41632"/>
+                    <president_seance ref="DPT1275"/>
+                    <secretaire_seance ref="DPT654"/>
 
-                    <ordreDuJour>
+                    <ordre_du_jour>
                         <point priorite="haute">Loi sur l'éducation numérique</point>
                         <point priorite="moyenne">Réforme du système judiciaire</point>
-                    </ordreDuJour>
+                    </ordre_du_jour>
 
                     <votes>
                         <vote texte="Loi sur l'éducation numérique" resultat="Adopté">
@@ -3811,20 +3812,20 @@ l&amp;#39;assembl&amp;eacute;e g&amp;eacute;n&amp;eacute;rale, conform&amp;eacut
             </seances>
         </session>
         <session id="S003">
-            <description>Session extraordinaire sur l'environnement et la sécurité alimentaire</description>
+            <description_sess>Session extraordinaire sur l'environnement et la sécurité alimentaire</description_sess>
             <periode>Juin - Août</periode>
-            <dateDebut>2026-06-01</dateDebut>
-            <dateFin>2026-08-31</dateFin>
+            <date_debut>2026-06-01</date_debut>
+            <date_fin>2026-08-31</date_fin>
 
             <seances>
                 <seance id="SE004">
-                    <presidentSeance ref="DPT80538"/>
-                    <secretaireSeance ref="DPT41632"/>
+                    <president_seance ref="DPT1547"/>
+                    <secretaire_seance ref="DPT1763"/>
 
-                    <ordreDuJour>
+                    <ordre_du_jour>
                         <point priorite="haute">Loi sur la protection de l'environnement</point>
                         <point priorite="moyenne">Programme de sécurité alimentaire</point>
-                    </ordreDuJour>
+                    </ordre_du_jour>
 
                     <votes>
                         <vote texte="Loi sur la protection de l'environnement" resultat="Adopté">

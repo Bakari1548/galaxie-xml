@@ -1,9 +1,9 @@
-<!ELEMENT assemblee_nationale (informations_generales, deputes, lois, commissions)>
+<!ELEMENT assemblee_nationale (informations_generales, deputes, lois, commissions, sessions)>
 
-<!ELEMENT informations_generales (pays, legislature, date_debut, siege, description, nombre_deputes)>
+<!ELEMENT informations_generales (pays, legislature, annee_debut_legis, siege, description, nombre_deputes)>
 <!ELEMENT pays (#PCDATA)>
 <!ELEMENT legislature (#PCDATA)>
-<!ELEMENT date_debut (#PCDATA)>
+<!ELEMENT annee_debut_legis (#PCDATA)>
 <!ELEMENT siege (#PCDATA)>
 <!ELEMENT description (#PCDATA)>
 <!ELEMENT nombre_deputes (#PCDATA)>
@@ -50,3 +50,33 @@
 <!ELEMENT bureau (president_id, vice_president_id+)>
 <!ELEMENT president_id (#PCDATA)>
 <!ELEMENT vice_president_id (#PCDATA)>
+
+
+<!ELEMENT sessions (session*)>
+<!ELEMENT session (description_sess, periode, date_debut, date_fin, seances)>
+<!ATTLIST session id ID #REQUIRED>
+<!ELEMENT description_sess (#PCDATA)>
+<!ELEMENT periode (#PCDATA)>
+<!ELEMENT date_debut (#PCDATA)>
+<!ELEMENT date_fin (#PCDATA)>
+
+<!ELEMENT seances (seance*)>
+<!ELEMENT seance (president_seance, secretaire_seance, ordre_du_jour, votes)>
+<!ATTLIST seance id ID #REQUIRED>
+<!ELEMENT president_seance (#PCDATA)>
+<!ELEMENT secretaire_seance (#PCDATA)>
+<!ATTLIST president_seance ref IDREF #REQUIRED>
+<!ATTLIST secretaire_seance ref IDREF #REQUIRED>
+
+<!ELEMENT ordre_du_jour (point+)>
+<!ELEMENT point (#PCDATA)>
+<!ATTLIST point priorite (basse|moyenne|haute) #IMPLIED>
+
+<!ELEMENT votes (vote*)>
+<!ELEMENT vote (pour, contre, abstention, absence)>
+<!ATTLIST vote texte CDATA #REQUIRED>
+<!ATTLIST vote resultat (Adopté|Rejeté) #REQUIRED>
+<!ELEMENT pour (#PCDATA)>
+<!ELEMENT contre (#PCDATA)>
+<!ELEMENT abstention (#PCDATA)>
+<!ELEMENT absence (#PCDATA)>
