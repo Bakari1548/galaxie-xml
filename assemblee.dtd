@@ -8,15 +8,14 @@
 <!ELEMENT description (#PCDATA)>
 <!ELEMENT nombre_deputes (#PCDATA)>
 
-<!ELEMENT deputes (depute*)>
+<!ELEMENT deputes (depute+)>
 
 <!ELEMENT depute (identifiant, parti, profession, contact)>
 <!ATTLIST depute id ID #REQUIRED>
 
-<!ELEMENT identifiant (nom, prenom, nom_complet, date_naissance, lieu_naissance)>
+<!ELEMENT identifiant (nom, prenom, date_naissance, lieu_naissance)>
 <!ELEMENT nom (#PCDATA)>
 <!ELEMENT prenom (#PCDATA)>
-<!ELEMENT nom_complet (#PCDATA)>
 <!ELEMENT date_naissance (#PCDATA)>
 <!ELEMENT lieu_naissance (#PCDATA)>
 
@@ -42,7 +41,7 @@
 <!ELEMENT date_publication (#PCDATA)>
 <!ELEMENT statut (#PCDATA)>
 
-<!ELEMENT commissions (commission*)>
+<!ELEMENT commissions (commission+)>
 <!ELEMENT commission (titre_com, description_com, bureau)>
 <!ATTLIST commission id ID #REQUIRED>
 <!ELEMENT titre_com (#PCDATA)>
@@ -52,7 +51,7 @@
 <!ELEMENT vice_president_id (#PCDATA)>
 
 
-<!ELEMENT sessions (session*)>
+<!ELEMENT sessions (session+)>
 <!ELEMENT session (description_sess, periode, date_debut, date_fin, seances)>
 <!ATTLIST session id ID #REQUIRED>
 <!ELEMENT description_sess (#PCDATA)>
@@ -60,7 +59,7 @@
 <!ELEMENT date_debut (#PCDATA)>
 <!ELEMENT date_fin (#PCDATA)>
 
-<!ELEMENT seances (seance*)>
+<!ELEMENT seances (seance+)>
 <!ELEMENT seance (president_seance, secretaire_seance, ordre_du_jour, votes)>
 <!ATTLIST seance id ID #REQUIRED>
 <!ELEMENT president_seance (#PCDATA)>
@@ -72,7 +71,7 @@
 <!ELEMENT point (#PCDATA)>
 <!ATTLIST point priorite (basse|moyenne|haute) #IMPLIED>
 
-<!ELEMENT votes (vote*)>
+<!ELEMENT votes (vote+)>
 <!ELEMENT vote (pour, contre, abstention, absence)>
 <!ATTLIST vote texte CDATA #REQUIRED>
 <!ATTLIST vote resultat (Adopté|Rejeté) #REQUIRED>

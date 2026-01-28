@@ -1,0 +1,96 @@
+<sessions>
+    <session id="S001">
+        <description_sess>Session ordinaire budgétaire et examen des lois de finances</description_sess>
+        <periode>Octobre - Juin</periode>
+        <date_debut>2024-10-01</date_debut>
+        <date_fin>2025-06-30</date_fin>
+        <seances>
+            <seance id="SE001">
+                <president_seance ref="DPT827"/>
+                <secretaire_seance ref="DPT693"/>
+                <ordre_du_jour>
+                    <point priorite="haute">Projet de loi de finances 2026</point>
+                    <point priorite="moyenne">Réforme du code électoral</point>
+                </ordre_du_jour>
+                <votes>
+                    <vote texte="Projet de loi de finances 2026" resultat="Adopté">
+                        <pour>20</pour>
+                        <contre>40</contre>
+                        <abstention>20</abstention>
+                        <absence>35</absence>
+                    </vote>
+                    <vote texte="Réforme du code électoral" resultat="Adopté">
+                        <pour>80</pour>
+                        <contre>45</contre>
+                        <abstention>15</abstention>
+                        <absence>25</absence>
+                    </vote>
+                </votes>
+            </seance>
+            <seance id="SE002">
+                <president_seance ref="DPT1710"/>
+                <secretaire_seance ref="DPT1680"/>
+                <ordre_du_jour>
+                    <point priorite="haute">Loi sur la santé publique</point>
+                    <point priorite="moyenne">Loi sur la sécurité alimentaire</point>
+                </ordre_du_jour>
+                <votes>
+                    <vote texte="Loi sur la santé publique" resultat="Adopté">
+                        <pour>50</pour>
+                        <contre>75</contre>
+                        <abstention>25</abstention>
+                        <absence>15</absence>
+                    </vote>
+                </votes>
+            </seance>
+        </seances>
+    </session>
+    <session id="S002">
+        <description_sess>Session législative ordinaire</description_sess>
+        <periode>Février - Mai</periode>
+        <date_debut>2026-02-01</date_debut>
+        <date_fin>2026-05-31</date_fin>
+        <seances>
+            <seance id="SE003">
+                <president_seance ref="DPT1275"/>
+                <secretaire_seance ref="DPT654"/>
+                <ordre_du_jour>
+                    <point priorite="haute">Loi sur l'éducation numérique</point>
+                    <point priorite="moyenne">Réforme du système judiciaire</point>
+                </ordre_du_jour>
+                <votes>
+                    <vote texte="Loi sur l'éducation numérique" resultat="Adopté">
+                        <pour>95</pour>
+                        <contre>45</contre>
+                        <abstention>15</abstention>
+                        <absence>10</absence>
+                    </vote>
+                </votes>
+            </seance>
+        </seances>
+    </session>
+    <session id="S003">
+        <description_sess>Session extraordinaire sur l'environnement et la sécurité alimentaire</description_sess>
+        <periode>Juin - Août</periode>
+        <date_debut>2026-06-01</date_debut>
+        <date_fin>2026-08-31</date_fin>
+        <seances>
+            <seance id="SE004">
+                <president_seance ref="DPT1547"/>
+                <secretaire_seance ref="DPT1763"/>
+                <ordre_du_jour>
+                    <point priorite="haute">Loi sur la protection de l'environnement</point>
+                    <point priorite="moyenne">Programme de sécurité alimentaire</point>
+                </ordre_du_jour>
+                <votes>
+                    <vote texte="Loi sur la protection de l'environnement" resultat="Adopté">
+                        <pour>100</pour>
+                        <contre>30</contre>
+                        <abstention>35</abstention>
+                        <absence>0</absence>
+                    </vote>
+                </votes>
+            </seance>
+        </seances>
+    </session>
+</sessions>

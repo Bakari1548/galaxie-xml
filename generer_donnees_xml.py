@@ -74,8 +74,6 @@ def generer_commissions_json(fichier_json):
     # commissions = []
     commissions = data
 
-    # for commission in data:
-    #     commissions.append(commission)
     print(f"Nombre total de commissions extraits : {len(commissions)}")
 
     # print("Commissions : ", commissions[0])
@@ -106,8 +104,8 @@ def generer_donnees_xml(nom_fichier, nbr_donnees):
             pays.text = 'Sénégal'
             legislature = etree.SubElement(informations_generales, 'legislature')
             legislature.text = '15ème législature (2024-2029)'
-            date_debut = etree.SubElement(informations_generales, 'date_debut')
-            date_debut.text = '2022-07-30'
+            annee_debut_legis = etree.SubElement(informations_generales, 'annee_debut_legis')
+            annee_debut_legis.text = '2022-07-30'
             siege = etree.SubElement(informations_generales, 'siege')
             siege.text = 'Dakar'
             description = etree.SubElement(informations_generales, 'description')
@@ -134,8 +132,6 @@ def generer_donnees_xml(nom_fichier, nbr_donnees):
                 nom.text = allDeputes[i]['first_name']
                 prenom = etree.SubElement(identifiant, 'prenom')
                 prenom.text = allDeputes[i]['last_name']
-                nom_complet = etree.SubElement(identifiant, 'nom_complet')
-                nom_complet.text = f"{allDeputes[i]['last_name']} {allDeputes[i]['first_name']}"
                 date_naissance = etree.SubElement(identifiant, 'date_naissance')
                 date_naissance.text = allDeputes[i]['birth_date']
                 lieu_naissance = etree.SubElement(identifiant, 'lieu_naissance')
@@ -192,7 +188,7 @@ def generer_donnees_xml(nom_fichier, nbr_donnees):
             # ======== Génération des commissions ========
             commissions = etree.Element('commissions')
             for commission in allCommissions:
-                print("Titre Commissions: ", commission['title'])
+                # print("Titre Commissions: ", commission['title'])
                 title_commission = commission['title']
                 description_commission = commission['description']
                 president_commission = commission['bureau']['president_id']
@@ -226,49 +222,3 @@ def generer_donnees_xml(nom_fichier, nbr_donnees):
 # extraire_lois_depuis_json('projet_loi.json')
 # extraire_commissions_depuis_json('projet_loi.json')
 generer_donnees_xml('assemblee_nationale.xml', 165)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#             dtd_str = '''<!DOCTYPE assemblee_nationale [
-# <!ELEMENT assemblee_nationale (deputes, commissions, sessions, lois)>
-# <!ELEMENT deputes (depute*)> 
-# <!ELEMENT depute (identifiant, parti, biographie, contact)>
-# <!ATTLIST depute id ID #REQUIRED>
-# <!ELEMENT identifiant (nom, prenom, nom_complet, date_naissance, lieu_naissance)>
-# <!ELEMENT nom (#PCDATA)>
-# <!ELEMENT prenom (#PCDATA)>
-# <!ELEMENT nom_complet (#PCDATA)>
-# <!ELEMENT date_naissance (#PCDATA)>
-# <!ELEMENT lieu_naissance (#PCDATA)>
-# <!ELEMENT parti (#PCDATA)>
-# <!ELEMENT biographie (formation, profession)>
-# <!ELEMENT formation (diplome, universite)>
-# <!ELEMENT diplome (#PCDATA)>
-# <!ELEMENT universite (#PCDATA)>
-# <!ELEMENT profession (#PCDATA)>
-# <!ELEMENT contact (email, telephone, adresse_bureau, reseaux_sociaux)>
-# <!ELEMENT email (#PCDATA)>
-# <!ELEMENT telephone (#PCDATA)>
-# <!ELEMENT adresse_bureau (#PCDATA)>
-# <!ELEMENT reseaux_sociaux (twitter, facebook, linkedin)>
-# <!ELEMENT twitter (#PCDATA)>
-# <!ELEMENT facebook (#PCDATA)>
-# <!ELEMENT linkedin (#PCDATA)>  '''

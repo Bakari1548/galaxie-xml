@@ -18,7 +18,6 @@
             <identifiant>
                 <nom>SYLLA</nom>
                 <prenom>ABDOULAYE</prenom>
-                <nom_complet>ABDOULAYE SYLLA</nom_complet>
                 <date_naissance>1971-11-15</date_naissance>
                 <lieu_naissance>Diourbel</lieu_naissance>
             </identifiant>
@@ -39,7 +38,6 @@
             <identifiant>
                 <nom>SALL</nom>
                 <prenom>ABDOU KARIM</prenom>
-                <nom_complet>ABDOU KARIM SALL</nom_complet>
                 <date_naissance>1965-01-01</date_naissance>
                 <lieu_naissance>Orkadiéré</lieu_naissance>
             </identifiant>
@@ -48,7 +46,7 @@
             <contact>
                 <email>abdoukarim.sall@assemblee.sn</email>
                 <telephone>771000001</telephone>
-                <adresse_bureau>Batiment B Bureau 2</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 2</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdou karim_sall</twitter>
                     <facebook>facebook.com/abdou karim.sall</facebook>
@@ -60,7 +58,6 @@
             <identifiant>
                 <nom>DIALLO</nom>
                 <prenom>ADAMA</prenom>
-                <nom_complet>ADAMA DIALLO</nom_complet>
                 <date_naissance>1973-02-21</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -69,7 +66,7 @@
             <contact>
                 <email>adama.diallo@assemblee.sn</email>
                 <telephone>771000002</telephone>
-                <adresse_bureau>Batiment A Bureau 3</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 3</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@adama_diallo</twitter>
                     <facebook>facebook.com/adama.diallo</facebook>
@@ -81,7 +78,6 @@
             <identifiant>
                 <nom>SENE</nom>
                 <prenom>MAGUETTE</prenom>
-                <nom_complet>MAGUETTE SENE</nom_complet>
                 <date_naissance>1970-01-16</date_naissance>
                 <lieu_naissance>Mbour</lieu_naissance>
             </identifiant>
@@ -90,7 +86,7 @@
             <contact>
                 <email>maguette.sene@assemblee.sn</email>
                 <telephone>771000003</telephone>
-                <adresse_bureau>Batiment D Bureau 4</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 4</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@maguette_sene</twitter>
                     <facebook>facebook.com/maguette.sene</facebook>
@@ -102,7 +98,6 @@
             <identifiant>
                 <nom>ANNE</nom>
                 <prenom>CHEIKH OUMAR</prenom>
-                <nom_complet>CHEIKH OUMAR ANNE</nom_complet>
                 <date_naissance>1960-02-21</date_naissance>
                 <lieu_naissance>Thiès</lieu_naissance>
             </identifiant>
@@ -111,7 +106,7 @@
             <contact>
                 <email>cheikhoumar.anne@assemblee.sn</email>
                 <telephone>771000004</telephone>
-                <adresse_bureau>Batiment C Bureau 5</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 5</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@cheikh oumar_anne</twitter>
                     <facebook>facebook.com/cheikh oumar.anne</facebook>
@@ -123,7 +118,6 @@
             <identifiant>
                 <nom>BA N°1</nom>
                 <prenom>AMADOU</prenom>
-                <nom_complet>AMADOU BA N°1</nom_complet>
                 <date_naissance>1961-05-17</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -132,7 +126,7 @@
             <contact>
                 <email>amadou.ba1@assemblee.sn</email>
                 <telephone>771000005</telephone>
-                <adresse_bureau>Batiment B Bureau 6</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 6</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amadou_ba n°1</twitter>
                     <facebook>facebook.com/amadou.ba n°1</facebook>
@@ -144,7 +138,6 @@
             <identifiant>
                 <nom>CAMARA</nom>
                 <prenom>ROKHAYA</prenom>
-                <nom_complet>ROKHAYA CAMARA</nom_complet>
                 <date_naissance>1960-10-10</date_naissance>
                 <lieu_naissance>DAKAR</lieu_naissance>
             </identifiant>
@@ -153,7 +146,7 @@
             <contact>
                 <email>rokhaya.camara@assemblee.sn</email>
                 <telephone>771000006</telephone>
-                <adresse_bureau>Batiment C Bureau 7</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 7</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@rokhaya_camara</twitter>
                     <facebook>facebook.com/rokhaya.camara</facebook>
@@ -165,7 +158,6 @@
             <identifiant>
                 <nom>DIONE</nom>
                 <prenom>MBAYE</prenom>
-                <nom_complet>MBAYE DIONE</nom_complet>
                 <date_naissance>1972-08-04</date_naissance>
                 <lieu_naissance>Ngoodiome</lieu_naissance>
             </identifiant>
@@ -186,7 +178,6 @@
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>SALIMATA</prenom>
-                <nom_complet>SALIMATA DIOP</nom_complet>
                 <date_naissance>1955-09-30</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -195,7 +186,7 @@
             <contact>
                 <email>salimata.diop@assemblee.sn</email>
                 <telephone>771000008</telephone>
-                <adresse_bureau>Batiment C Bureau 9</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 9</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@salimata_diop</twitter>
                     <facebook>facebook.com/salimata.diop</facebook>
@@ -207,7 +198,6 @@
             <identifiant>
                 <nom>KANE</nom>
                 <prenom>NAFI</prenom>
-                <nom_complet>NAFI KANE</nom_complet>
                 <date_naissance>1976-06-09</date_naissance>
                 <lieu_naissance>Mbolo Birane</lieu_naissance>
             </identifiant>
@@ -216,7 +206,7 @@
             <contact>
                 <email>nafi.kane@assemblee.sn</email>
                 <telephone>771000009</telephone>
-                <adresse_bureau>Batiment C Bureau 10</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 10</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@nafi_kane</twitter>
                     <facebook>facebook.com/nafi.kane</facebook>
@@ -228,7 +218,6 @@
             <identifiant>
                 <nom>SARR</nom>
                 <prenom>MOUSSA HAMADY</prenom>
-                <nom_complet>MOUSSA HAMADY SARR</nom_complet>
                 <date_naissance>1981-05-20</date_naissance>
                 <lieu_naissance>Walaldé</lieu_naissance>
             </identifiant>
@@ -249,7 +238,6 @@
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>MOUSTAPHA</prenom>
-                <nom_complet>MOUSTAPHA DIOP</nom_complet>
                 <date_naissance>1979-10-25</date_naissance>
                 <lieu_naissance>Ngoundioura</lieu_naissance>
             </identifiant>
@@ -258,7 +246,7 @@
             <contact>
                 <email>moustapha.diop@assemblee.sn</email>
                 <telephone>771000011</telephone>
-                <adresse_bureau>Batiment A Bureau 12</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 12</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@moustapha_diop</twitter>
                     <facebook>facebook.com/moustapha.diop</facebook>
@@ -270,7 +258,6 @@
             <identifiant>
                 <nom>MANGARA</nom>
                 <prenom>BIRIMA</prenom>
-                <nom_complet>BIRIMA MANGARA</nom_complet>
                 <date_naissance>1963-06-08</date_naissance>
                 <lieu_naissance>Keur Samba Kane</lieu_naissance>
             </identifiant>
@@ -291,7 +278,6 @@
             <identifiant>
                 <nom>SARR</nom>
                 <prenom>PAPA TAHIROU</prenom>
-                <nom_complet>PAPA TAHIROU SARR</nom_complet>
                 <date_naissance>1985-09-27</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -300,7 +286,7 @@
             <contact>
                 <email>papatahirou.sarr@assemblee.sn</email>
                 <telephone>771000013</telephone>
-                <adresse_bureau>Batiment D Bureau 14</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 14</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@papa tahirou_sarr</twitter>
                     <facebook>facebook.com/papa tahirou.sarr</facebook>
@@ -312,7 +298,6 @@
             <identifiant>
                 <nom>BA</nom>
                 <prenom>DIARAYE</prenom>
-                <nom_complet>DIARAYE BA</nom_complet>
                 <date_naissance>1995-07-14</date_naissance>
                 <lieu_naissance>Kibassa</lieu_naissance>
             </identifiant>
@@ -333,7 +318,6 @@
             <identifiant>
                 <nom>BA</nom>
                 <prenom>FATOU</prenom>
-                <nom_complet>FATOU BA</nom_complet>
                 <date_naissance>1980-05-06</date_naissance>
                 <lieu_naissance>FOROU PEULH</lieu_naissance>
             </identifiant>
@@ -342,7 +326,7 @@
             <contact>
                 <email>fatou.ba@assemblee.sn</email>
                 <telephone>771000015</telephone>
-                <adresse_bureau>Batiment C Bureau 16</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 16</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fatou_ba</twitter>
                     <facebook>facebook.com/fatou.ba</facebook>
@@ -354,7 +338,6 @@
             <identifiant>
                 <nom>BA</nom>
                 <prenom>FAMA</prenom>
-                <nom_complet>FAMA BA</nom_complet>
                 <date_naissance>1978-10-22</date_naissance>
                 <lieu_naissance>GAE</lieu_naissance>
             </identifiant>
@@ -363,7 +346,7 @@
             <contact>
                 <email>fama.ba@assemblee.sn</email>
                 <telephone>771000016</telephone>
-                <adresse_bureau>Batiment C Bureau 17</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 17</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fama_ba</twitter>
                     <facebook>facebook.com/fama.ba</facebook>
@@ -375,7 +358,6 @@
             <identifiant>
                 <nom>BABY</nom>
                 <prenom>BOYE</prenom>
-                <nom_complet>BOYE BABY</nom_complet>
                 <date_naissance>1990-11-12</date_naissance>
                 <lieu_naissance>BAKEL</lieu_naissance>
             </identifiant>
@@ -396,7 +378,6 @@
             <identifiant>
                 <nom>BALDE</nom>
                 <prenom>YOBA</prenom>
-                <nom_complet>YOBA BALDE</nom_complet>
                 <date_naissance>1987-01-10</date_naissance>
                 <lieu_naissance>SANTOULOU</lieu_naissance>
             </identifiant>
@@ -405,7 +386,7 @@
             <contact>
                 <email>yoba.balde@assemblee.sn</email>
                 <telephone>771000018</telephone>
-                <adresse_bureau>Batiment C Bureau 19</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 19</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@yoba_balde</twitter>
                     <facebook>facebook.com/yoba.balde</facebook>
@@ -417,7 +398,6 @@
             <identifiant>
                 <nom>BAYO</nom>
                 <prenom>HOLEMATA</prenom>
-                <nom_complet>HOLEMATA BAYO</nom_complet>
                 <date_naissance>1961-04-25</date_naissance>
                 <lieu_naissance>DIANNAH MALARI</lieu_naissance>
             </identifiant>
@@ -426,7 +406,7 @@
             <contact>
                 <email>holemata.bayo@assemblee.sn</email>
                 <telephone>771000019</telephone>
-                <adresse_bureau>Batiment D Bureau 20</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 20</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@holemata_bayo</twitter>
                     <facebook>facebook.com/holemata.bayo</facebook>
@@ -438,7 +418,6 @@
             <identifiant>
                 <nom>BEYE</nom>
                 <prenom>MAME DIARRA</prenom>
-                <nom_complet>MAME DIARRA BEYE</nom_complet>
                 <date_naissance>1988-04-02</date_naissance>
                 <lieu_naissance>THIAROYE SUR MER</lieu_naissance>
             </identifiant>
@@ -459,7 +438,6 @@
             <identifiant>
                 <nom>BODIAN</nom>
                 <prenom>RAMATOULAYE</prenom>
-                <nom_complet>RAMATOULAYE BODIAN</nom_complet>
                 <date_naissance>1977-01-27</date_naissance>
                 <lieu_naissance>ZIGUINCHOR</lieu_naissance>
             </identifiant>
@@ -468,7 +446,7 @@
             <contact>
                 <email>ramatoulaye.bodian@assemblee.sn</email>
                 <telephone>771000021</telephone>
-                <adresse_bureau>Batiment B Bureau 22</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 22</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ramatoulaye_bodian</twitter>
                     <facebook>facebook.com/ramatoulaye.bodian</facebook>
@@ -480,7 +458,6 @@
             <identifiant>
                 <nom>Bousso</nom>
                 <prenom>Maimouna</prenom>
-                <nom_complet>Maimouna Bousso</nom_complet>
                 <date_naissance>1980-03-17</date_naissance>
                 <lieu_naissance>KHOUMA</lieu_naissance>
             </identifiant>
@@ -489,7 +466,7 @@
             <contact>
                 <email>bousso.maimouna@assemblee.sn</email>
                 <telephone>771000022</telephone>
-                <adresse_bureau>Batiment B Bureau 23</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 23</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@maimouna_bousso</twitter>
                     <facebook>facebook.com/maimouna.bousso</facebook>
@@ -501,7 +478,6 @@
             <identifiant>
                 <nom>CISS</nom>
                 <prenom>OUSMANE</prenom>
-                <nom_complet>OUSMANE CISS</nom_complet>
                 <date_naissance>1986-12-28</date_naissance>
                 <lieu_naissance>TIVAOUANE</lieu_naissance>
             </identifiant>
@@ -510,7 +486,7 @@
             <contact>
                 <email>ousmane.ciss@assemblee.sn</email>
                 <telephone>771000023</telephone>
-                <adresse_bureau>Batiment A Bureau 24</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 24</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ousmane_ciss</twitter>
                     <facebook>facebook.com/ousmane.ciss</facebook>
@@ -522,7 +498,6 @@
             <identifiant>
                 <nom>CISS</nom>
                 <prenom>DJIBY</prenom>
-                <nom_complet>DJIBY CISS</nom_complet>
                 <date_naissance>1980-12-18</date_naissance>
                 <lieu_naissance>TOGLOU SERERE</lieu_naissance>
             </identifiant>
@@ -531,7 +506,7 @@
             <contact>
                 <email>djiby.ciss@assemblee.sn</email>
                 <telephone>771000024</telephone>
-                <adresse_bureau>Batiment B Bureau 25</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 25</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@djiby_ciss</twitter>
                     <facebook>facebook.com/djiby.ciss</facebook>
@@ -543,7 +518,6 @@
             <identifiant>
                 <nom>CISSE</nom>
                 <prenom>FATOU DIOP</prenom>
-                <nom_complet>FATOU DIOP CISSE</nom_complet>
                 <date_naissance>1979-12-22</date_naissance>
                 <lieu_naissance>DAKAR</lieu_naissance>
             </identifiant>
@@ -552,7 +526,7 @@
             <contact>
                 <email>fatoudiop.cisse@assemblee.sn</email>
                 <telephone>771000025</telephone>
-                <adresse_bureau>Batiment D Bureau 26</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 26</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fatou diop_cisse</twitter>
                     <facebook>facebook.com/fatou diop.cisse</facebook>
@@ -564,7 +538,6 @@
             <identifiant>
                 <nom>CISSE</nom>
                 <prenom>SAYE</prenom>
-                <nom_complet>SAYE CISSE</nom_complet>
                 <date_naissance>1989-06-04</date_naissance>
                 <lieu_naissance>BAKEL</lieu_naissance>
             </identifiant>
@@ -573,7 +546,7 @@
             <contact>
                 <email>saye.cisse@assemblee.sn</email>
                 <telephone>771000026</telephone>
-                <adresse_bureau>Batiment A Bureau 27</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 27</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@saye_cisse</twitter>
                     <facebook>facebook.com/saye.cisse</facebook>
@@ -585,7 +558,6 @@
             <identifiant>
                 <nom>CISSOKO</nom>
                 <prenom>YOUNOUSSA</prenom>
-                <nom_complet>YOUNOUSSA CISSOKO</nom_complet>
                 <date_naissance>1979-11-22</date_naissance>
                 <lieu_naissance>DAKAR</lieu_naissance>
             </identifiant>
@@ -594,7 +566,7 @@
             <contact>
                 <email>younoussa.cissokho@assemblee.sn</email>
                 <telephone>771000027</telephone>
-                <adresse_bureau>Batiment C Bureau 28</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 28</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@younoussa_cissoko</twitter>
                     <facebook>facebook.com/younoussa.cissoko</facebook>
@@ -606,7 +578,6 @@
             <identifiant>
                 <nom>COLY</nom>
                 <prenom>MARIAMA</prenom>
-                <nom_complet>MARIAMA COLY</nom_complet>
                 <date_naissance>1968-11-10</date_naissance>
                 <lieu_naissance>Dianké</lieu_naissance>
             </identifiant>
@@ -615,7 +586,7 @@
             <contact>
                 <email>mariama.coly@assemblee.sn</email>
                 <telephone>771000028</telephone>
-                <adresse_bureau>Batiment D Bureau 29</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 29</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mariama_coly</twitter>
                     <facebook>facebook.com/mariama.coly</facebook>
@@ -627,7 +598,6 @@
             <identifiant>
                 <nom>DABO</nom>
                 <prenom>AMY</prenom>
-                <nom_complet>AMY DABO</nom_complet>
                 <date_naissance>1975-06-06</date_naissance>
                 <lieu_naissance>BALANLIR</lieu_naissance>
             </identifiant>
@@ -636,7 +606,7 @@
             <contact>
                 <email>amy.dabo@assemblee.sn</email>
                 <telephone>771000029</telephone>
-                <adresse_bureau>Batiment C Bureau 30</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 30</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amy_dabo</twitter>
                     <facebook>facebook.com/amy.dabo</facebook>
@@ -648,7 +618,6 @@
             <identifiant>
                 <nom>DAFFE</nom>
                 <prenom>MOHAMED AYIB SALIM</prenom>
-                <nom_complet>MOHAMED AYIB SALIM DAFFE</nom_complet>
                 <date_naissance>1977-08-04</date_naissance>
                 <lieu_naissance>DAKAR</lieu_naissance>
             </identifiant>
@@ -669,7 +638,6 @@
             <identifiant>
                 <nom>DANFA</nom>
                 <prenom>INSA</prenom>
-                <nom_complet>INSA DANFA</nom_complet>
                 <date_naissance>1980-09-02</date_naissance>
                 <lieu_naissance>DIAROUME</lieu_naissance>
             </identifiant>
@@ -678,7 +646,7 @@
             <contact>
                 <email>insa.danfa@assemblee.sn</email>
                 <telephone>771000031</telephone>
-                <adresse_bureau>Batiment A Bureau 32</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 32</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@insa_danfa</twitter>
                     <facebook>facebook.com/insa.danfa</facebook>
@@ -690,7 +658,6 @@
             <identifiant>
                 <nom>DANFAKHA</nom>
                 <prenom>MADY</prenom>
-                <nom_complet>MADY DANFAKHA</nom_complet>
                 <date_naissance>1987-06-18</date_naissance>
                 <lieu_naissance>TAMBACOUNDA</lieu_naissance>
             </identifiant>
@@ -711,7 +678,6 @@
             <identifiant>
                 <nom>DANG</nom>
                 <prenom>SAMBA</prenom>
-                <nom_complet>SAMBA DANG</nom_complet>
                 <date_naissance>1982-04-08</date_naissance>
                 <lieu_naissance>BIRKELANE</lieu_naissance>
             </identifiant>
@@ -720,7 +686,7 @@
             <contact>
                 <email>samba.dang@assemblee.sn</email>
                 <telephone>771000033</telephone>
-                <adresse_bureau>Batiment D Bureau 34</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 34</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@samba_dang</twitter>
                     <facebook>facebook.com/samba.dang</facebook>
@@ -732,7 +698,6 @@
             <identifiant>
                 <nom>DARY</nom>
                 <prenom>MAME MARIAMA</prenom>
-                <nom_complet>MAME MARIAMA DARY</nom_complet>
                 <date_naissance>1981-08-30</date_naissance>
                 <lieu_naissance>DAKAR</lieu_naissance>
             </identifiant>
@@ -753,7 +718,6 @@
             <identifiant>
                 <nom>DIA</nom>
                 <prenom>AMADOU</prenom>
-                <nom_complet>AMADOU DIA</nom_complet>
                 <date_naissance>1974-07-18</date_naissance>
                 <lieu_naissance>Pout</lieu_naissance>
             </identifiant>
@@ -762,7 +726,7 @@
             <contact>
                 <email>amadou.dia@assemblee.sn</email>
                 <telephone>771000035</telephone>
-                <adresse_bureau>Batiment C Bureau 36</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 36</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amadou_dia</twitter>
                     <facebook>facebook.com/amadou.dia</facebook>
@@ -774,7 +738,6 @@
             <identifiant>
                 <nom>DIA</nom>
                 <prenom>AMY</prenom>
-                <nom_complet>AMY DIA</nom_complet>
                 <date_naissance>1969-04-25</date_naissance>
                 <lieu_naissance>DAKAR</lieu_naissance>
             </identifiant>
@@ -783,7 +746,7 @@
             <contact>
                 <email>amy.dia@assemblee.sn</email>
                 <telephone>771000036</telephone>
-                <adresse_bureau>Batiment B Bureau 37</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 37</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amy_dia</twitter>
                     <facebook>facebook.com/amy.dia</facebook>
@@ -795,7 +758,6 @@
             <identifiant>
                 <nom>DIA</nom>
                 <prenom>ANTA</prenom>
-                <nom_complet>ANTA DIA</nom_complet>
                 <date_naissance>1965-08-14</date_naissance>
                 <lieu_naissance>DAKAR</lieu_naissance>
             </identifiant>
@@ -816,7 +778,6 @@
             <identifiant>
                 <nom>DIABY</nom>
                 <prenom>AMDIATTA</prenom>
-                <nom_complet>AMDIATTA DIABY</nom_complet>
                 <date_naissance>1987-11-04</date_naissance>
                 <lieu_naissance>KHOSSANTO</lieu_naissance>
             </identifiant>
@@ -825,7 +786,7 @@
             <contact>
                 <email>amdiatta.diaby@assemblee.sn</email>
                 <telephone>771000038</telephone>
-                <adresse_bureau>Batiment D Bureau 39</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 39</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amdiatta_diaby</twitter>
                     <facebook>facebook.com/amdiatta.diaby</facebook>
@@ -837,7 +798,6 @@
             <identifiant>
                 <nom>Diagne</nom>
                 <prenom>Alioune Badara</prenom>
-                <nom_complet>Alioune Badara Diagne</nom_complet>
                 <date_naissance>1980-02-29</date_naissance>
                 <lieu_naissance>Kaolack</lieu_naissance>
             </identifiant>
@@ -846,7 +806,7 @@
             <contact>
                 <email>aliounebadara.diagne@assemblee.sn</email>
                 <telephone>771000039</telephone>
-                <adresse_bureau>Batiment D Bureau 40</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 40</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@alioune badara_diagne</twitter>
                     <facebook>facebook.com/alioune badara.diagne</facebook>
@@ -858,7 +818,6 @@
             <identifiant>
                 <nom>DIAITE</nom>
                 <prenom>MAMADOU LAMINE</prenom>
-                <nom_complet>MAMADOU LAMINE DIAITE</nom_complet>
                 <date_naissance>1975-09-29</date_naissance>
                 <lieu_naissance>ZIGUINCHOR</lieu_naissance>
             </identifiant>
@@ -867,7 +826,7 @@
             <contact>
                 <email>mamadoulamine.diaite@assemblee.sn</email>
                 <telephone>771000040</telephone>
-                <adresse_bureau>Batiment B Bureau 41</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 41</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mamadou lamine_diaite</twitter>
                     <facebook>facebook.com/mamadou lamine.diaite</facebook>
@@ -879,7 +838,6 @@
             <identifiant>
                 <nom>DIAKITE</nom>
                 <prenom>MOURAMANI KABA</prenom>
-                <nom_complet>MOURAMANI KABA DIAKITE</nom_complet>
                 <date_naissance>1973-07-12</date_naissance>
                 <lieu_naissance>TAMBACOUNDA</lieu_naissance>
             </identifiant>
@@ -900,7 +858,6 @@
             <identifiant>
                 <nom>DIALLO</nom>
                 <prenom>ISMAILA</prenom>
-                <nom_complet>ISMAILA DIALLO</nom_complet>
                 <date_naissance>1979-05-18</date_naissance>
                 <lieu_naissance>KOUNKANE</lieu_naissance>
             </identifiant>
@@ -909,7 +866,7 @@
             <contact>
                 <email>ismaila.diallo@assemblee.sn</email>
                 <telephone>771000042</telephone>
-                <adresse_bureau>Batiment B Bureau 43</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 43</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ismaila_diallo</twitter>
                     <facebook>facebook.com/ismaila.diallo</facebook>
@@ -921,7 +878,6 @@
             <identifiant>
                 <nom>DIALLO N°2</nom>
                 <prenom>AMADOU</prenom>
-                <nom_complet>AMADOU DIALLO N°2</nom_complet>
                 <date_naissance>1972-12-24</date_naissance>
                 <lieu_naissance>DAKAR</lieu_naissance>
             </identifiant>
@@ -942,7 +898,6 @@
             <identifiant>
                 <nom>DIAMANKA</nom>
                 <prenom>MARIEME</prenom>
-                <nom_complet>MARIEME DIAMANKA</nom_complet>
                 <date_naissance>1989-12-29</date_naissance>
                 <lieu_naissance>Richard Toll</lieu_naissance>
             </identifiant>
@@ -963,7 +918,6 @@
             <identifiant>
                 <nom>DIAW</nom>
                 <prenom>DIOGOMAYE</prenom>
-                <nom_complet>DIOGOMAYE DIAW</nom_complet>
                 <date_naissance>1985-08-05</date_naissance>
                 <lieu_naissance>Sadio</lieu_naissance>
             </identifiant>
@@ -984,7 +938,6 @@
             <identifiant>
                 <nom>DICKO</nom>
                 <prenom>CHERIF AHMED</prenom>
-                <nom_complet>CHERIF AHMED DICKO</nom_complet>
                 <date_naissance>1974-05-22</date_naissance>
                 <lieu_naissance>Ziguinchor</lieu_naissance>
             </identifiant>
@@ -1005,7 +958,6 @@
             <identifiant>
                 <nom>DIEDHIOU</nom>
                 <prenom>BACARY</prenom>
-                <nom_complet>BACARY DIEDHIOU</nom_complet>
                 <date_naissance>1974-07-08</date_naissance>
                 <lieu_naissance>Mandigane</lieu_naissance>
             </identifiant>
@@ -1014,7 +966,7 @@
             <contact>
                 <email>bacary.diedhiou@assemblee.sn</email>
                 <telephone>771000047</telephone>
-                <adresse_bureau>Batiment B Bureau 48</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 48</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@bacary_diedhiou</twitter>
                     <facebook>facebook.com/bacary.diedhiou</facebook>
@@ -1026,7 +978,6 @@
             <identifiant>
                 <nom>DIENG</nom>
                 <prenom>ANTHIA</prenom>
-                <nom_complet>ANTHIA DIENG</nom_complet>
                 <date_naissance>1980-01-01</date_naissance>
                 <lieu_naissance>Médina Sabakh</lieu_naissance>
             </identifiant>
@@ -1047,7 +998,6 @@
             <identifiant>
                 <nom>DIENG</nom>
                 <prenom>MAIMOUNA</prenom>
-                <nom_complet>MAIMOUNA DIENG</nom_complet>
                 <date_naissance>1977-10-03</date_naissance>
                 <lieu_naissance>Kaffrine</lieu_naissance>
             </identifiant>
@@ -1068,7 +1018,6 @@
             <identifiant>
                 <nom>DIENG</nom>
                 <prenom>MASSAMBA</prenom>
-                <nom_complet>MASSAMBA DIENG</nom_complet>
                 <date_naissance>1982-01-02</date_naissance>
                 <lieu_naissance>Nioro du Rip</lieu_naissance>
             </identifiant>
@@ -1077,7 +1026,7 @@
             <contact>
                 <email>massamba.dieng@assemblee.sn</email>
                 <telephone>771000050</telephone>
-                <adresse_bureau>Batiment A Bureau 51</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 51</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@massamba_dieng</twitter>
                     <facebook>facebook.com/massamba.dieng</facebook>
@@ -1089,7 +1038,6 @@
             <identifiant>
                 <nom>DIENG</nom>
                 <prenom>NDEYE AWA</prenom>
-                <nom_complet>NDEYE AWA DIENG</nom_complet>
                 <date_naissance>1996-06-18</date_naissance>
                 <lieu_naissance>Médina Ndiengliene</lieu_naissance>
             </identifiant>
@@ -1098,7 +1046,7 @@
             <contact>
                 <email>ndeyeawa.dieng@assemblee.sn</email>
                 <telephone>771000051</telephone>
-                <adresse_bureau>Batiment C Bureau 52</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 52</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ndeye awa_dieng</twitter>
                     <facebook>facebook.com/ndeye awa.dieng</facebook>
@@ -1110,7 +1058,6 @@
             <identifiant>
                 <nom>DIEYE</nom>
                 <prenom>ALIOUNE</prenom>
-                <nom_complet>ALIOUNE DIEYE</nom_complet>
                 <date_naissance>1976-09-10</date_naissance>
                 <lieu_naissance>Mpal</lieu_naissance>
             </identifiant>
@@ -1131,7 +1078,6 @@
             <identifiant>
                 <nom>DIONE</nom>
                 <prenom>AWA</prenom>
-                <nom_complet>AWA DIONE</nom_complet>
                 <date_naissance>1977-10-16</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -1140,7 +1086,7 @@
             <contact>
                 <email>awa.dione@assemblee.sn</email>
                 <telephone>771000053</telephone>
-                <adresse_bureau>Batiment A Bureau 54</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 54</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@awa_dione</twitter>
                     <facebook>facebook.com/awa.dione</facebook>
@@ -1152,7 +1098,6 @@
             <identifiant>
                 <nom>DIONE</nom>
                 <prenom>YOUNGARE</prenom>
-                <nom_complet>YOUNGARE DIONE</nom_complet>
                 <date_naissance>1983-10-02</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -1173,7 +1118,6 @@
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>OUMAR</prenom>
-                <nom_complet>OUMAR DIOP</nom_complet>
                 <date_naissance>1980-10-18</date_naissance>
                 <lieu_naissance>Darou Mousty</lieu_naissance>
             </identifiant>
@@ -1182,7 +1126,7 @@
             <contact>
                 <email>oumar.diop@assemblee.sn</email>
                 <telephone>771000055</telephone>
-                <adresse_bureau>Batiment C Bureau 56</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 56</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@oumar_diop</twitter>
                     <facebook>facebook.com/oumar.diop</facebook>
@@ -1194,7 +1138,6 @@
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>ASSANE</prenom>
-                <nom_complet>ASSANE DIOP</nom_complet>
                 <date_naissance>1974-09-20</date_naissance>
                 <lieu_naissance>Pire</lieu_naissance>
             </identifiant>
@@ -1203,7 +1146,7 @@
             <contact>
                 <email>assane.diop@assemblee.sn</email>
                 <telephone>771000056</telephone>
-                <adresse_bureau>Batiment A Bureau 57</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 57</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@assane_diop</twitter>
                     <facebook>facebook.com/assane.diop</facebook>
@@ -1215,7 +1158,6 @@
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>ELHADJI</prenom>
-                <nom_complet>ELHADJI DIOP</nom_complet>
                 <date_naissance>1992-11-14</date_naissance>
                 <lieu_naissance>Sagna</lieu_naissance>
             </identifiant>
@@ -1224,7 +1166,7 @@
             <contact>
                 <email>elhadj.diop@assemblee.sn</email>
                 <telephone>771000057</telephone>
-                <adresse_bureau>Batiment B Bureau 58</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 58</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@elhadji_diop</twitter>
                     <facebook>facebook.com/elhadji.diop</facebook>
@@ -1236,7 +1178,6 @@
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>OUSMANE</prenom>
-                <nom_complet>OUSMANE DIOP</nom_complet>
                 <date_naissance>1979-01-18</date_naissance>
                 <lieu_naissance>Kébémer</lieu_naissance>
             </identifiant>
@@ -1245,7 +1186,7 @@
             <contact>
                 <email>ousmane.diop@assemblee.sn</email>
                 <telephone>771000058</telephone>
-                <adresse_bureau>Batiment A Bureau 59</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 59</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ousmane_diop</twitter>
                     <facebook>facebook.com/ousmane.diop</facebook>
@@ -1257,7 +1198,6 @@
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>MARIE ANGE MAME SELBE</prenom>
-                <nom_complet>MARIE ANGE MAME SELBE DIOUF</nom_complet>
                 <date_naissance>1976-03-16</date_naissance>
                 <lieu_naissance>Joal Fadiouth</lieu_naissance>
             </identifiant>
@@ -1266,7 +1206,7 @@
             <contact>
                 <email>marieange.diouf@assemblee.sn</email>
                 <telephone>771000059</telephone>
-                <adresse_bureau>Batiment B Bureau 60</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 60</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@marie ange mame selbe_diouf</twitter>
                     <facebook>facebook.com/marie ange mame selbe.diouf</facebook>
@@ -1278,7 +1218,6 @@
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>SAMBA</prenom>
-                <nom_complet>SAMBA DIOUF</nom_complet>
                 <date_naissance>1974-11-15</date_naissance>
                 <lieu_naissance>Ziguinchor</lieu_naissance>
             </identifiant>
@@ -1287,7 +1226,7 @@
             <contact>
                 <email>samba.diouf@assemblee.sn</email>
                 <telephone>771000060</telephone>
-                <adresse_bureau>Batiment D Bureau 61</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 61</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@samba_diouf</twitter>
                     <facebook>facebook.com/samba.diouf</facebook>
@@ -1299,7 +1238,6 @@
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>MARIE HELENE NDOFENE</prenom>
-                <nom_complet>MARIE HELENE NDOFENE DIOUF</nom_complet>
                 <date_naissance>1981-12-18</date_naissance>
                 <lieu_naissance>Pikine</lieu_naissance>
             </identifiant>
@@ -1308,7 +1246,7 @@
             <contact>
                 <email>mariehelene.diouf@assemblee.sn</email>
                 <telephone>771000061</telephone>
-                <adresse_bureau>Batiment D Bureau 62</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 62</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@marie helene ndofene_diouf</twitter>
                     <facebook>facebook.com/marie helene ndofene.diouf</facebook>
@@ -1320,7 +1258,6 @@
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>ABDOURAHMANE</prenom>
-                <nom_complet>ABDOURAHMANE DIOUF</nom_complet>
                 <date_naissance>1977-03-06</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -1329,7 +1266,7 @@
             <contact>
                 <email>abdourahmane.diouf@assemblee.sn</email>
                 <telephone>771000062</telephone>
-                <adresse_bureau>Batiment A Bureau 63</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 63</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdourahmane_diouf</twitter>
                     <facebook>facebook.com/abdourahmane.diouf</facebook>
@@ -1341,7 +1278,6 @@
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>BADARA</prenom>
-                <nom_complet>BADARA DIOUF</nom_complet>
                 <date_naissance>1980-01-10</date_naissance>
                 <lieu_naissance>Gatte</lieu_naissance>
             </identifiant>
@@ -1350,7 +1286,7 @@
             <contact>
                 <email>badara.diouf@assemblee.sn</email>
                 <telephone>771000063</telephone>
-                <adresse_bureau>Batiment D Bureau 64</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 64</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@badara_diouf</twitter>
                     <facebook>facebook.com/badara.diouf</facebook>
@@ -1362,7 +1298,6 @@
             <identifiant>
                 <nom>DIOUF</nom>
                 <prenom>AMADOU LAMINE</prenom>
-                <nom_complet>AMADOU LAMINE DIOUF</nom_complet>
                 <date_naissance>1963-04-19</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -1371,7 +1306,7 @@
             <contact>
                 <email>amadoulamine.diouf@assemblee.sn</email>
                 <telephone>771000064</telephone>
-                <adresse_bureau>Batiment A Bureau 65</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 65</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amadou lamine_diouf</twitter>
                     <facebook>facebook.com/amadou lamine.diouf</facebook>
@@ -1383,7 +1318,6 @@
             <identifiant>
                 <nom>DOUCOURE</nom>
                 <prenom>BOULY</prenom>
-                <nom_complet>BOULY DOUCOURE</nom_complet>
                 <date_naissance>1985-01-16</date_naissance>
                 <lieu_naissance>Kéréwane</lieu_naissance>
             </identifiant>
@@ -1404,7 +1338,6 @@
             <identifiant>
                 <nom>FALL</nom>
                 <prenom>ELHADJI OUSMANE</prenom>
-                <nom_complet>ELHADJI OUSMANE FALL</nom_complet>
                 <date_naissance>1977-12-20</date_naissance>
                 <lieu_naissance>Bignona</lieu_naissance>
             </identifiant>
@@ -1413,7 +1346,7 @@
             <contact>
                 <email>elhadjousmane.fall@assemblee.sn</email>
                 <telephone>771000066</telephone>
-                <adresse_bureau>Batiment B Bureau 67</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 67</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@elhadji ousmane_fall</twitter>
                     <facebook>facebook.com/elhadji ousmane.fall</facebook>
@@ -1425,7 +1358,6 @@
             <identifiant>
                 <nom>FALL</nom>
                 <prenom>MAREME</prenom>
-                <nom_complet>MAREME FALL</nom_complet>
                 <date_naissance>1995-12-15</date_naissance>
                 <lieu_naissance>Keur Momar Sarr</lieu_naissance>
             </identifiant>
@@ -1434,7 +1366,7 @@
             <contact>
                 <email>mareme.fall@assemblee.sn</email>
                 <telephone>771000067</telephone>
-                <adresse_bureau>Batiment C Bureau 68</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 68</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mareme_fall</twitter>
                     <facebook>facebook.com/mareme.fall</facebook>
@@ -1446,7 +1378,6 @@
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>MBENE</prenom>
-                <nom_complet>MBENE FAYE</nom_complet>
                 <date_naissance>1981-12-07</date_naissance>
                 <lieu_naissance>Saint-Louis</lieu_naissance>
             </identifiant>
@@ -1455,7 +1386,7 @@
             <contact>
                 <email>mbene.faye@assemblee.sn</email>
                 <telephone>771000068</telephone>
-                <adresse_bureau>Batiment A Bureau 69</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 69</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mbene_faye</twitter>
                     <facebook>facebook.com/mbene.faye</facebook>
@@ -1467,7 +1398,6 @@
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>ABDOULAYE</prenom>
-                <nom_complet>ABDOULAYE FAYE</nom_complet>
                 <date_naissance>1956-12-31</date_naissance>
                 <lieu_naissance>Pout Diack</lieu_naissance>
             </identifiant>
@@ -1476,7 +1406,7 @@
             <contact>
                 <email>abdoulaye.faye@assemblee.sn</email>
                 <telephone>771000069</telephone>
-                <adresse_bureau>Batiment A Bureau 70</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 70</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdoulaye_faye</twitter>
                     <facebook>facebook.com/abdoulaye.faye</facebook>
@@ -1488,7 +1418,6 @@
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>ABDOULAYE THOMAS</prenom>
-                <nom_complet>ABDOULAYE THOMAS FAYE</nom_complet>
                 <date_naissance>1988-04-16</date_naissance>
                 <lieu_naissance>Kaffrine</lieu_naissance>
             </identifiant>
@@ -1497,7 +1426,7 @@
             <contact>
                 <email>abdoulayethomas.faye@assemblee.sn</email>
                 <telephone>771000070</telephone>
-                <adresse_bureau>Batiment B Bureau 71</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 71</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdoulaye thomas_faye</twitter>
                     <facebook>facebook.com/abdoulaye thomas.faye</facebook>
@@ -1509,7 +1438,6 @@
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>BEATRICE GERMAINE TENING</prenom>
-                <nom_complet>BEATRICE GERMAINE TENING FAYE</nom_complet>
                 <date_naissance>1990-09-09</date_naissance>
                 <lieu_naissance>Mbour</lieu_naissance>
             </identifiant>
@@ -1518,7 +1446,7 @@
             <contact>
                 <email>beatricegermaine.faye@assemblee.sn</email>
                 <telephone>771000071</telephone>
-                <adresse_bureau>Batiment B Bureau 72</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 72</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@beatrice germaine tening_faye</twitter>
                     <facebook>facebook.com/beatrice germaine tening.faye</facebook>
@@ -1530,7 +1458,6 @@
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>CHEIKH</prenom>
-                <nom_complet>CHEIKH FAYE</nom_complet>
                 <date_naissance>1985-12-25</date_naissance>
                 <lieu_naissance>Tattaguine</lieu_naissance>
             </identifiant>
@@ -1539,7 +1466,7 @@
             <contact>
                 <email>cheikh.faye@assemblee.sn</email>
                 <telephone>771000072</telephone>
-                <adresse_bureau>Batiment B Bureau 73</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 73</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@cheikh_faye</twitter>
                     <facebook>facebook.com/cheikh.faye</facebook>
@@ -1551,7 +1478,6 @@
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>GRASSE</prenom>
-                <nom_complet>GRASSE FAYE</nom_complet>
                 <date_naissance>1984-01-15</date_naissance>
                 <lieu_naissance>Tivaoune</lieu_naissance>
             </identifiant>
@@ -1572,7 +1498,6 @@
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>LAMINE</prenom>
-                <nom_complet>LAMINE FAYE</nom_complet>
                 <date_naissance>1974-05-03</date_naissance>
                 <lieu_naissance>Réfane</lieu_naissance>
             </identifiant>
@@ -1581,7 +1506,7 @@
             <contact>
                 <email>lamine.faye@assemblee.sn</email>
                 <telephone>771000074</telephone>
-                <adresse_bureau>Batiment A Bureau 75</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 75</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@lamine_faye</twitter>
                     <facebook>facebook.com/lamine.faye</facebook>
@@ -1593,7 +1518,6 @@
             <identifiant>
                 <nom>GUEYE</nom>
                 <prenom>FATMA</prenom>
-                <nom_complet>FATMA GUEYE</nom_complet>
                 <date_naissance>1986-05-31</date_naissance>
                 <lieu_naissance>Keur Ibra Gueye</lieu_naissance>
             </identifiant>
@@ -1614,7 +1538,6 @@
             <identifiant>
                 <nom>GUEYE</nom>
                 <prenom>IBOU</prenom>
-                <nom_complet>IBOU GUEYE</nom_complet>
                 <date_naissance>1990-08-08</date_naissance>
                 <lieu_naissance>Ouassadou</lieu_naissance>
             </identifiant>
@@ -1623,7 +1546,7 @@
             <contact>
                 <email>ibou.gueye@assemblee.sn</email>
                 <telephone>771000076</telephone>
-                <adresse_bureau>Batiment A Bureau 77</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 77</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ibou_gueye</twitter>
                     <facebook>facebook.com/ibou.gueye</facebook>
@@ -1635,7 +1558,6 @@
             <identifiant>
                 <nom>GUEYE</nom>
                 <prenom>EL HADJI</prenom>
-                <nom_complet>EL HADJI GUEYE</nom_complet>
                 <date_naissance>1987-07-26</date_naissance>
                 <lieu_naissance>Médina Sambène</lieu_naissance>
             </identifiant>
@@ -1644,7 +1566,7 @@
             <contact>
                 <email>elhadji.gueye@assemblee.sn</email>
                 <telephone>771000077</telephone>
-                <adresse_bureau>Batiment C Bureau 78</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 78</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@el hadji_gueye</twitter>
                     <facebook>facebook.com/el hadji.gueye</facebook>
@@ -1656,7 +1578,6 @@
             <identifiant>
                 <nom>KANE</nom>
                 <prenom>ALLA</prenom>
-                <nom_complet>ALLA KANE</nom_complet>
                 <date_naissance>1963-12-21</date_naissance>
                 <lieu_naissance>Gaat (Bambey)</lieu_naissance>
             </identifiant>
@@ -1665,7 +1586,7 @@
             <contact>
                 <email>alla.kane@assemblee.sn</email>
                 <telephone>771000078</telephone>
-                <adresse_bureau>Batiment C Bureau 79</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 79</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@alla_kane</twitter>
                     <facebook>facebook.com/alla.kane</facebook>
@@ -1677,7 +1598,6 @@
             <identifiant>
                 <nom>LO</nom>
                 <prenom>AHMADOU</prenom>
-                <nom_complet>AHMADOU LO</nom_complet>
                 <date_naissance>1986-10-10</date_naissance>
                 <lieu_naissance>Touba</lieu_naissance>
             </identifiant>
@@ -1698,7 +1618,6 @@
             <identifiant>
                 <nom>MANE</nom>
                 <prenom>FODE</prenom>
-                <nom_complet>FODE MANE</nom_complet>
                 <date_naissance>1980-09-06</date_naissance>
                 <lieu_naissance>BETTENTY</lieu_naissance>
             </identifiant>
@@ -1707,7 +1626,7 @@
             <contact>
                 <email>fode.mane@assemblee.sn</email>
                 <telephone>771000080</telephone>
-                <adresse_bureau>Batiment B Bureau 81</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 81</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fode_mane</twitter>
                     <facebook>facebook.com/fode.mane</facebook>
@@ -1719,7 +1638,6 @@
             <identifiant>
                 <nom>MANE</nom>
                 <prenom>NDEYE FATOU</prenom>
-                <nom_complet>NDEYE FATOU MANE</nom_complet>
                 <date_naissance>1972-12-22</date_naissance>
                 <lieu_naissance>Ziguinchor</lieu_naissance>
             </identifiant>
@@ -1728,7 +1646,7 @@
             <contact>
                 <email>ndeyefatou.mane@assemblee.sn</email>
                 <telephone>771000081</telephone>
-                <adresse_bureau>Batiment C Bureau 82</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 82</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ndeye fatou_mane</twitter>
                     <facebook>facebook.com/ndeye fatou.mane</facebook>
@@ -1740,7 +1658,6 @@
             <identifiant>
                 <nom>MBACKE</nom>
                 <prenom>CHEIKH THIORO</prenom>
-                <nom_complet>CHEIKH THIORO MBACKE</nom_complet>
                 <date_naissance>1988-01-01</date_naissance>
                 <lieu_naissance>Touba</lieu_naissance>
             </identifiant>
@@ -1749,7 +1666,7 @@
             <contact>
                 <email>cheikhthioro.mbacke@assemblee.sn</email>
                 <telephone>771000082</telephone>
-                <adresse_bureau>Batiment C Bureau 83</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 83</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@cheikh thioro_mbacke</twitter>
                     <facebook>facebook.com/cheikh thioro.mbacke</facebook>
@@ -1761,7 +1678,6 @@
             <identifiant>
                 <nom>MBACKE</nom>
                 <prenom>MAREME</prenom>
-                <nom_complet>MAREME MBACKE</nom_complet>
                 <date_naissance>1972-01-13</date_naissance>
                 <lieu_naissance>Touba</lieu_naissance>
             </identifiant>
@@ -1770,7 +1686,7 @@
             <contact>
                 <email>mareme.mbacke@assemblee.sn</email>
                 <telephone>771000083</telephone>
-                <adresse_bureau>Batiment D Bureau 84</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 84</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mareme_mbacke</twitter>
                     <facebook>facebook.com/mareme.mbacke</facebook>
@@ -1782,7 +1698,6 @@
             <identifiant>
                 <nom>MBAYE</nom>
                 <prenom>MAYABE</prenom>
-                <nom_complet>MAYABE MBAYE</nom_complet>
                 <date_naissance>1956-06-06</date_naissance>
                 <lieu_naissance>SAINT-LOUIS</lieu_naissance>
             </identifiant>
@@ -1791,7 +1706,7 @@
             <contact>
                 <email>mayabe.mbaye@assemblee.sn</email>
                 <telephone>771000084</telephone>
-                <adresse_bureau>Batiment D Bureau 85</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 85</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mayabe_mbaye</twitter>
                     <facebook>facebook.com/mayabe.mbaye</facebook>
@@ -1803,7 +1718,6 @@
             <identifiant>
                 <nom>MBAYE</nom>
                 <prenom>SAFIATOU MALICK</prenom>
-                <nom_complet>SAFIATOU MALICK MBAYE</nom_complet>
                 <date_naissance>1981-01-11</date_naissance>
                 <lieu_naissance>Pikine</lieu_naissance>
             </identifiant>
@@ -1824,7 +1738,6 @@
             <identifiant>
                 <nom>MBAYE</nom>
                 <prenom>MOUSSA</prenom>
-                <nom_complet>MOUSSA MBAYE</nom_complet>
                 <date_naissance>1972-08-18</date_naissance>
                 <lieu_naissance>Kaolack</lieu_naissance>
             </identifiant>
@@ -1845,7 +1758,6 @@
             <identifiant>
                 <nom>MBENGUE</nom>
                 <prenom>IBRAHIMA</prenom>
-                <nom_complet>IBRAHIMA MBENGUE</nom_complet>
                 <date_naissance>1972-02-03</date_naissance>
                 <lieu_naissance>Vélingara</lieu_naissance>
             </identifiant>
@@ -1854,7 +1766,7 @@
             <contact>
                 <email>ibrahima.mbengue@assemblee.sn</email>
                 <telephone>771000087</telephone>
-                <adresse_bureau>Batiment B Bureau 88</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 88</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ibrahima_mbengue</twitter>
                     <facebook>facebook.com/ibrahima.mbengue</facebook>
@@ -1866,7 +1778,6 @@
             <identifiant>
                 <nom>MBODJ</nom>
                 <prenom>FATMA</prenom>
-                <nom_complet>FATMA MBODJ</nom_complet>
                 <date_naissance>1979-09-09</date_naissance>
                 <lieu_naissance>KAOLACK</lieu_naissance>
             </identifiant>
@@ -1875,7 +1786,7 @@
             <contact>
                 <email>fatma.mbodj@assemblee.sn</email>
                 <telephone>771000088</telephone>
-                <adresse_bureau>Batiment B Bureau 89</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 89</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fatma_mbodj</twitter>
                     <facebook>facebook.com/fatma.mbodj</facebook>
@@ -1887,7 +1798,6 @@
             <identifiant>
                 <nom>MBODJ</nom>
                 <prenom>IBRAHIMA</prenom>
-                <nom_complet>IBRAHIMA MBODJ</nom_complet>
                 <date_naissance>1978-12-29</date_naissance>
                 <lieu_naissance>Ross Bethio</lieu_naissance>
             </identifiant>
@@ -1896,7 +1806,7 @@
             <contact>
                 <email>ibrahima.mbodj@assemblee.sn</email>
                 <telephone>771000089</telephone>
-                <adresse_bureau>Batiment D Bureau 90</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 90</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ibrahima_mbodj</twitter>
                     <facebook>facebook.com/ibrahima.mbodj</facebook>
@@ -1908,7 +1818,6 @@
             <identifiant>
                 <nom>NDAO</nom>
                 <prenom>ALIOUNE</prenom>
-                <nom_complet>ALIOUNE NDAO</nom_complet>
                 <date_naissance>1954-05-03</date_naissance>
                 <lieu_naissance>Kaolack</lieu_naissance>
             </identifiant>
@@ -1929,7 +1838,6 @@
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>AMY</prenom>
-                <nom_complet>AMY NDIAYE</nom_complet>
                 <date_naissance>1986-10-19</date_naissance>
                 <lieu_naissance>Ndiongolor</lieu_naissance>
             </identifiant>
@@ -1938,7 +1846,7 @@
             <contact>
                 <email>amy.ndiaye@assemblee.sn</email>
                 <telephone>771000091</telephone>
-                <adresse_bureau>Batiment C Bureau 92</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 92</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amy_ndiaye</twitter>
                     <facebook>facebook.com/amy.ndiaye</facebook>
@@ -1950,7 +1858,6 @@
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>DAOUDA</prenom>
-                <nom_complet>DAOUDA NDIAYE</nom_complet>
                 <date_naissance>1984-01-01</date_naissance>
                 <lieu_naissance/>
             </identifiant>
@@ -1971,7 +1878,6 @@
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>MALICK</prenom>
-                <nom_complet>MALICK NDIAYE</nom_complet>
                 <date_naissance>1982-07-24</date_naissance>
                 <lieu_naissance>Dahra Djolof</lieu_naissance>
             </identifiant>
@@ -1980,7 +1886,7 @@
             <contact>
                 <email>malick.ndiaye@assemblee.sn</email>
                 <telephone>771000093</telephone>
-                <adresse_bureau>Batiment A Bureau 94</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 94</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@malick_ndiaye</twitter>
                     <facebook>facebook.com/malick.ndiaye</facebook>
@@ -1992,7 +1898,6 @@
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>COUMBA</prenom>
-                <nom_complet>COUMBA NDIAYE</nom_complet>
                 <date_naissance>1983-05-21</date_naissance>
                 <lieu_naissance>Ndindy</lieu_naissance>
             </identifiant>
@@ -2001,7 +1906,7 @@
             <contact>
                 <email>coumba.ndiaye@assemblee.sn</email>
                 <telephone>771000094</telephone>
-                <adresse_bureau>Batiment D Bureau 95</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 95</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@coumba_ndiaye</twitter>
                     <facebook>facebook.com/coumba.ndiaye</facebook>
@@ -2013,7 +1918,6 @@
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>NDEYE</prenom>
-                <nom_complet>NDEYE NDIAYE</nom_complet>
                 <date_naissance>1978-01-01</date_naissance>
                 <lieu_naissance/>
             </identifiant>
@@ -2022,7 +1926,7 @@
             <contact>
                 <email>ndeye.ndiaye@assemblee.sn</email>
                 <telephone>771000095</telephone>
-                <adresse_bureau>Batiment A Bureau 96</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 96</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ndeye_ndiaye</twitter>
                     <facebook>facebook.com/ndeye.ndiaye</facebook>
@@ -2034,7 +1938,6 @@
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>ROKHY</prenom>
-                <nom_complet>ROKHY NDIAYE</nom_complet>
                 <date_naissance>1989-07-06</date_naissance>
                 <lieu_naissance>Koutal</lieu_naissance>
             </identifiant>
@@ -2043,7 +1946,7 @@
             <contact>
                 <email>rokhy.ndiaye@assemblee.sn</email>
                 <telephone>771000096</telephone>
-                <adresse_bureau>Batiment B Bureau 97</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 97</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@rokhy_ndiaye</twitter>
                     <facebook>facebook.com/rokhy.ndiaye</facebook>
@@ -2055,7 +1958,6 @@
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>SERIGNE ABDOUL AHAD</prenom>
-                <nom_complet>SERIGNE ABDOUL AHAD NDIAYE</nom_complet>
                 <date_naissance>1985-08-13</date_naissance>
                 <lieu_naissance>Delerlou Syll</lieu_naissance>
             </identifiant>
@@ -2064,7 +1966,7 @@
             <contact>
                 <email>serigneabdoulahad.ndiaye@assemblee.sn</email>
                 <telephone>771000097</telephone>
-                <adresse_bureau>Batiment C Bureau 98</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 98</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@serigne abdoul ahad_ndiaye</twitter>
                     <facebook>facebook.com/serigne abdoul ahad.ndiaye</facebook>
@@ -2076,7 +1978,6 @@
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>CHEIKH  BARA</prenom>
-                <nom_complet>CHEIKH  BARA NDIAYE</nom_complet>
                 <date_naissance>1987-03-08</date_naissance>
                 <lieu_naissance>Touba</lieu_naissance>
             </identifiant>
@@ -2085,7 +1986,7 @@
             <contact>
                 <email>bara.ndiaye@assemblee.sn</email>
                 <telephone>771000098</telephone>
-                <adresse_bureau>Batiment D Bureau 99</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 99</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@cheikh  bara_ndiaye</twitter>
                     <facebook>facebook.com/cheikh  bara.ndiaye</facebook>
@@ -2097,7 +1998,6 @@
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>BABACAR</prenom>
-                <nom_complet>BABACAR NDIAYE</nom_complet>
                 <date_naissance>1986-08-21</date_naissance>
                 <lieu_naissance>Diamaguene</lieu_naissance>
             </identifiant>
@@ -2106,7 +2006,7 @@
             <contact>
                 <email>babacar.ndiaye@assemblee.sn</email>
                 <telephone>771000099</telephone>
-                <adresse_bureau>Batiment C Bureau 100</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 100</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@babacar_ndiaye</twitter>
                     <facebook>facebook.com/babacar.ndiaye</facebook>
@@ -2118,7 +2018,6 @@
             <identifiant>
                 <nom>NDIONE</nom>
                 <prenom>SALIOU</prenom>
-                <nom_complet>SALIOU NDIONE</nom_complet>
                 <date_naissance>1990-10-25</date_naissance>
                 <lieu_naissance>Rufisque</lieu_naissance>
             </identifiant>
@@ -2127,7 +2026,7 @@
             <contact>
                 <email>saliou.ndione@assemblee.sn</email>
                 <telephone>771000100</telephone>
-                <adresse_bureau>Batiment D Bureau 101</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 101</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@saliou_ndione</twitter>
                     <facebook>facebook.com/saliou.ndione</facebook>
@@ -2139,7 +2038,6 @@
             <identifiant>
                 <nom>NDOM</nom>
                 <prenom>RAMATOULAYE</prenom>
-                <nom_complet>RAMATOULAYE NDOM</nom_complet>
                 <date_naissance>1978-05-07</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -2160,7 +2058,6 @@
             <identifiant>
                 <nom>NDOYE</nom>
                 <prenom>MAME OUMAR</prenom>
-                <nom_complet>MAME OUMAR NDOYE</nom_complet>
                 <date_naissance>1979-01-05</date_naissance>
                 <lieu_naissance>YOFF</lieu_naissance>
             </identifiant>
@@ -2181,7 +2078,6 @@
             <identifiant>
                 <nom>NGOM</nom>
                 <prenom>FATOU</prenom>
-                <nom_complet>FATOU NGOM</nom_complet>
                 <date_naissance>1975-03-05</date_naissance>
                 <lieu_naissance>Ndié Ngom</lieu_naissance>
             </identifiant>
@@ -2190,7 +2086,7 @@
             <contact>
                 <email>fatou.ngom@assemblee.sn</email>
                 <telephone>771000103</telephone>
-                <adresse_bureau>Batiment D Bureau 104</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 104</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fatou_ngom</twitter>
                     <facebook>facebook.com/fatou.ngom</facebook>
@@ -2202,7 +2098,6 @@
             <identifiant>
                 <nom>NIANG</nom>
                 <prenom>ALASSANE</prenom>
-                <nom_complet>ALASSANE NIANG</nom_complet>
                 <date_naissance>1973-08-23</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -2223,7 +2118,6 @@
             <identifiant>
                 <nom>SAGNA</nom>
                 <prenom>GUY MARIUS</prenom>
-                <nom_complet>GUY MARIUS SAGNA</nom_complet>
                 <date_naissance>1979-01-29</date_naissance>
                 <lieu_naissance>Etome (Ziguinchor)</lieu_naissance>
             </identifiant>
@@ -2232,7 +2126,7 @@
             <contact>
                 <email>guymarius.sagna@assemblee.sn</email>
                 <telephone>771000105</telephone>
-                <adresse_bureau>Batiment C Bureau 106</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 106</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@guy marius_sagna</twitter>
                     <facebook>facebook.com/guy marius.sagna</facebook>
@@ -2244,7 +2138,6 @@
             <identifiant>
                 <nom>SAGNA</nom>
                 <prenom>JACQUELINE</prenom>
-                <nom_complet>JACQUELINE SAGNA</nom_complet>
                 <date_naissance>1974-06-21</date_naissance>
                 <lieu_naissance>Dialang</lieu_naissance>
             </identifiant>
@@ -2265,7 +2158,6 @@
             <identifiant>
                 <nom>SALL</nom>
                 <prenom>MOHAMED</prenom>
-                <nom_complet>MOHAMED SALL</nom_complet>
                 <date_naissance>1963-01-10</date_naissance>
                 <lieu_naissance>Fissel</lieu_naissance>
             </identifiant>
@@ -2274,7 +2166,7 @@
             <contact>
                 <email>mohamed.sall@assemblee.sn</email>
                 <telephone>771000107</telephone>
-                <adresse_bureau>Batiment A Bureau 108</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 108</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mohamed_sall</twitter>
                     <facebook>facebook.com/mohamed.sall</facebook>
@@ -2286,7 +2178,6 @@
             <identifiant>
                 <nom>SAMBE</nom>
                 <prenom>SEYNABOU YACINE</prenom>
-                <nom_complet>SEYNABOU YACINE SAMBE</nom_complet>
                 <date_naissance>1977-01-29</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -2295,7 +2186,7 @@
             <contact>
                 <email>seynabouyacine.sambe@assemblee.sn</email>
                 <telephone>771000108</telephone>
-                <adresse_bureau>Batiment C Bureau 109</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 109</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@seynabou yacine_sambe</twitter>
                     <facebook>facebook.com/seynabou yacine.sambe</facebook>
@@ -2307,7 +2198,6 @@
             <identifiant>
                 <nom>SAMBOU</nom>
                 <prenom>ALPHONSE MANE</prenom>
-                <nom_complet>ALPHONSE MANE SAMBOU</nom_complet>
                 <date_naissance>1987-02-02</date_naissance>
                 <lieu_naissance>Mlomp Haer</lieu_naissance>
             </identifiant>
@@ -2316,7 +2206,7 @@
             <contact>
                 <email>alphonemane.sambou@assemblee.sn</email>
                 <telephone>771000109</telephone>
-                <adresse_bureau>Batiment B Bureau 110</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 110</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@alphonse mane_sambou</twitter>
                     <facebook>facebook.com/alphonse mane.sambou</facebook>
@@ -2328,7 +2218,6 @@
             <identifiant>
                 <nom>SANE</nom>
                 <prenom>NDEYE MARIE</prenom>
-                <nom_complet>NDEYE MARIE SANE</nom_complet>
                 <date_naissance>1988-01-02</date_naissance>
                 <lieu_naissance>Bassary Dioub</lieu_naissance>
             </identifiant>
@@ -2337,7 +2226,7 @@
             <contact>
                 <email>ndeyemarie.sane@assemblee.sn</email>
                 <telephone>771000110</telephone>
-                <adresse_bureau>Batiment A Bureau 111</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 111</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ndeye marie_sane</twitter>
                     <facebook>facebook.com/ndeye marie.sane</facebook>
@@ -2349,7 +2238,6 @@
             <identifiant>
                 <nom>SAO</nom>
                 <prenom>MAYE</prenom>
-                <nom_complet>MAYE SAO</nom_complet>
                 <date_naissance>1981-08-12</date_naissance>
                 <lieu_naissance>Coulibatan</lieu_naissance>
             </identifiant>
@@ -2358,7 +2246,7 @@
             <contact>
                 <email>maye.sao@assemblee.sn</email>
                 <telephone>771000111</telephone>
-                <adresse_bureau>Batiment D Bureau 112</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 112</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@maye_sao</twitter>
                     <facebook>facebook.com/maye.sao</facebook>
@@ -2370,7 +2258,6 @@
             <identifiant>
                 <nom>SARR</nom>
                 <prenom>ANSOUMANA</prenom>
-                <nom_complet>ANSOUMANA SARR</nom_complet>
                 <date_naissance>1983-08-05</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -2391,7 +2278,6 @@
             <identifiant>
                 <nom>SARR</nom>
                 <prenom>FELICITE MBOUGANE</prenom>
-                <nom_complet>FELICITE MBOUGANE SARR</nom_complet>
                 <date_naissance>1979-10-03</date_naissance>
                 <lieu_naissance>Thiandène</lieu_naissance>
             </identifiant>
@@ -2412,7 +2298,6 @@
             <identifiant>
                 <nom>SARR</nom>
                 <prenom>KHADY</prenom>
-                <nom_complet>KHADY SARR</nom_complet>
                 <date_naissance>1979-06-16</date_naissance>
                 <lieu_naissance>Bargny</lieu_naissance>
             </identifiant>
@@ -2421,7 +2306,7 @@
             <contact>
                 <email>khady.sarr@assemblee.sn</email>
                 <telephone>771000114</telephone>
-                <adresse_bureau>Batiment B Bureau 115</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 115</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@khady_sarr</twitter>
                     <facebook>facebook.com/khady.sarr</facebook>
@@ -2433,7 +2318,6 @@
             <identifiant>
                 <nom>SECK</nom>
                 <prenom>AWA</prenom>
-                <nom_complet>AWA SECK</nom_complet>
                 <date_naissance>1979-09-02</date_naissance>
                 <lieu_naissance>Touba</lieu_naissance>
             </identifiant>
@@ -2454,7 +2338,6 @@
             <identifiant>
                 <nom>SENE</nom>
                 <prenom>ALIOU</prenom>
-                <nom_complet>ALIOU SENE</nom_complet>
                 <date_naissance>1967-01-31</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -2475,7 +2358,6 @@
             <identifiant>
                 <nom>SEYE</nom>
                 <prenom>MAMADOU</prenom>
-                <nom_complet>MAMADOU SEYE</nom_complet>
                 <date_naissance>1982-12-12</date_naissance>
                 <lieu_naissance>Fatick</lieu_naissance>
             </identifiant>
@@ -2484,7 +2366,7 @@
             <contact>
                 <email>mamadou.seye@assemblee.sn</email>
                 <telephone>771000117</telephone>
-                <adresse_bureau>Batiment B Bureau 118</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 118</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mamadou_seye</twitter>
                     <facebook>facebook.com/mamadou.seye</facebook>
@@ -2496,7 +2378,6 @@
             <identifiant>
                 <nom>SIDIBE</nom>
                 <prenom>OULIMATA</prenom>
-                <nom_complet>OULIMATA SIDIBE</nom_complet>
                 <date_naissance>1975-03-19</date_naissance>
                 <lieu_naissance>Ziguinchor</lieu_naissance>
             </identifiant>
@@ -2505,7 +2386,7 @@
             <contact>
                 <email>oulimata.sidibe@assemblee.sn</email>
                 <telephone>771000118</telephone>
-                <adresse_bureau>Batiment C Bureau 119</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 119</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@oulimata_sidibe</twitter>
                     <facebook>facebook.com/oulimata.sidibe</facebook>
@@ -2517,7 +2398,6 @@
             <identifiant>
                 <nom>SOLLY</nom>
                 <prenom>SONA KINTY</prenom>
-                <nom_complet>SONA KINTY SOLLY</nom_complet>
                 <date_naissance>1977-11-20</date_naissance>
                 <lieu_naissance>Karantaba</lieu_naissance>
             </identifiant>
@@ -2526,7 +2406,7 @@
             <contact>
                 <email>sonakinti.solly@assemblee.sn</email>
                 <telephone>771000119</telephone>
-                <adresse_bureau>Batiment D Bureau 120</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 120</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@sona kinty_solly</twitter>
                     <facebook>facebook.com/sona kinty.solly</facebook>
@@ -2538,7 +2418,6 @@
             <identifiant>
                 <nom>SONKO</nom>
                 <prenom>ABDOUL KADYR</prenom>
-                <nom_complet>ABDOUL KADYR SONKO</nom_complet>
                 <date_naissance>1959-03-25</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -2547,7 +2426,7 @@
             <contact>
                 <email>abdoulkadyr.sonko@assemblee.sn</email>
                 <telephone>771000120</telephone>
-                <adresse_bureau>Batiment B Bureau 121</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 121</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdoul kadyr_sonko</twitter>
                     <facebook>facebook.com/abdoul kadyr.sonko</facebook>
@@ -2559,7 +2438,6 @@
             <identifiant>
                 <nom>SONKO</nom>
                 <prenom>OUSMANE</prenom>
-                <nom_complet>OUSMANE SONKO</nom_complet>
                 <date_naissance>1980-04-04</date_naissance>
                 <lieu_naissance>Bignona</lieu_naissance>
             </identifiant>
@@ -2568,7 +2446,7 @@
             <contact>
                 <email>ousmane.sonko@assemblee.sn</email>
                 <telephone>771000121</telephone>
-                <adresse_bureau>Batiment D Bureau 122</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 122</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ousmane_sonko</twitter>
                     <facebook>facebook.com/ousmane.sonko</facebook>
@@ -2580,7 +2458,6 @@
             <identifiant>
                 <nom>SONKO</nom>
                 <prenom>AWA</prenom>
-                <nom_complet>AWA SONKO</nom_complet>
                 <date_naissance>1985-12-20</date_naissance>
                 <lieu_naissance>Mongone</lieu_naissance>
             </identifiant>
@@ -2589,7 +2466,7 @@
             <contact>
                 <email>awa.sonko@assemblee.sn</email>
                 <telephone>771000122</telephone>
-                <adresse_bureau>Batiment A Bureau 123</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 123</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@awa_sonko</twitter>
                     <facebook>facebook.com/awa.sonko</facebook>
@@ -2601,7 +2478,6 @@
             <identifiant>
                 <nom>SOUARE</nom>
                 <prenom>MOHAMED SIRADIO</prenom>
-                <nom_complet>MOHAMED SIRADIO SOUARE</nom_complet>
                 <date_naissance>1978-05-13</date_naissance>
                 <lieu_naissance>Yeumbeul</lieu_naissance>
             </identifiant>
@@ -2610,7 +2486,7 @@
             <contact>
                 <email>mohamedsiradio.souare@assemblee.sn</email>
                 <telephone>771000123</telephone>
-                <adresse_bureau>Batiment B Bureau 124</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 124</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mohamed siradio_souare</twitter>
                     <facebook>facebook.com/mohamed siradio.souare</facebook>
@@ -2622,7 +2498,6 @@
             <identifiant>
                 <nom>SOUARE</nom>
                 <prenom>MAMADOU LAMINE</prenom>
-                <nom_complet>MAMADOU LAMINE SOUARE</nom_complet>
                 <date_naissance>1989-08-23</date_naissance>
                 <lieu_naissance>Salémata</lieu_naissance>
             </identifiant>
@@ -2631,7 +2506,7 @@
             <contact>
                 <email>mamadoulamine.souare@assemblee.sn</email>
                 <telephone>771000124</telephone>
-                <adresse_bureau>Batiment C Bureau 125</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 125</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mamadou lamine_souare</twitter>
                     <facebook>facebook.com/mamadou lamine.souare</facebook>
@@ -2643,7 +2518,6 @@
             <identifiant>
                 <nom>SOW</nom>
                 <prenom>KHADY</prenom>
-                <nom_complet>KHADY SOW</nom_complet>
                 <date_naissance>1986-05-09</date_naissance>
                 <lieu_naissance>Mbacké</lieu_naissance>
             </identifiant>
@@ -2652,7 +2526,7 @@
             <contact>
                 <email>khady.sow@assemblee.sn</email>
                 <telephone>771000125</telephone>
-                <adresse_bureau>Batiment D Bureau 126</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 126</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@khady_sow</twitter>
                     <facebook>facebook.com/khady.sow</facebook>
@@ -2664,7 +2538,6 @@
             <identifiant>
                 <nom>SOW</nom>
                 <prenom>ABDOULAYE</prenom>
-                <nom_complet>ABDOULAYE SOW</nom_complet>
                 <date_naissance>1987-10-17</date_naissance>
                 <lieu_naissance>Tomboronkoto</lieu_naissance>
             </identifiant>
@@ -2673,7 +2546,7 @@
             <contact>
                 <email>abdoulaye.sow@assemblee.sn</email>
                 <telephone>771000126</telephone>
-                <adresse_bureau>Batiment A Bureau 127</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 127</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdoulaye_sow</twitter>
                     <facebook>facebook.com/abdoulaye.sow</facebook>
@@ -2685,7 +2558,6 @@
             <identifiant>
                 <nom>SOW</nom>
                 <prenom>SAFIATOU</prenom>
-                <nom_complet>SAFIATOU SOW</nom_complet>
                 <date_naissance>1988-09-06</date_naissance>
                 <lieu_naissance>Vélingara</lieu_naissance>
             </identifiant>
@@ -2694,7 +2566,7 @@
             <contact>
                 <email>safiatou.sow@assemblee.sn</email>
                 <telephone>771000127</telephone>
-                <adresse_bureau>Batiment C Bureau 128</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 128</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@safiatou_sow</twitter>
                     <facebook>facebook.com/safiatou.sow</facebook>
@@ -2706,7 +2578,6 @@
             <identifiant>
                 <nom>SOW</nom>
                 <prenom>AWA</prenom>
-                <nom_complet>AWA SOW</nom_complet>
                 <date_naissance>1993-04-06</date_naissance>
                 <lieu_naissance>Diokoul</lieu_naissance>
             </identifiant>
@@ -2715,7 +2586,7 @@
             <contact>
                 <email>awa.sow@assemblee.sn</email>
                 <telephone>771000128</telephone>
-                <adresse_bureau>Batiment D Bureau 129</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 129</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@awa_sow</twitter>
                     <facebook>facebook.com/awa.sow</facebook>
@@ -2727,7 +2598,6 @@
             <identifiant>
                 <nom>SY</nom>
                 <prenom>OUMAR</prenom>
-                <nom_complet>OUMAR SY</nom_complet>
                 <date_naissance>1974-05-10</date_naissance>
                 <lieu_naissance>Ouarkhokh</lieu_naissance>
             </identifiant>
@@ -2736,7 +2606,7 @@
             <contact>
                 <email>oumar.sy@assemblee.sn</email>
                 <telephone>771000129</telephone>
-                <adresse_bureau>Batiment A Bureau 130</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 130</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@oumar_sy</twitter>
                     <facebook>facebook.com/oumar.sy</facebook>
@@ -2748,7 +2618,6 @@
             <identifiant>
                 <nom>SY</nom>
                 <prenom>AWA</prenom>
-                <nom_complet>AWA SY</nom_complet>
                 <date_naissance>1997-04-20</date_naissance>
                 <lieu_naissance>Baneba</lieu_naissance>
             </identifiant>
@@ -2757,7 +2626,7 @@
             <contact>
                 <email>awa.sy@assemblee.sn</email>
                 <telephone>771000130</telephone>
-                <adresse_bureau>Batiment D Bureau 131</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 131</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@awa_sy</twitter>
                     <facebook>facebook.com/awa.sy</facebook>
@@ -2769,7 +2638,6 @@
             <identifiant>
                 <nom>SYLLA</nom>
                 <prenom>MATAR</prenom>
-                <nom_complet>MATAR SYLLA</nom_complet>
                 <date_naissance>1990-10-06</date_naissance>
                 <lieu_naissance>Kaolack</lieu_naissance>
             </identifiant>
@@ -2790,7 +2658,6 @@
             <identifiant>
                 <nom>TALL</nom>
                 <prenom>ABDOULAYE</prenom>
-                <nom_complet>ABDOULAYE TALL</nom_complet>
                 <date_naissance>1975-03-15</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -2799,7 +2666,7 @@
             <contact>
                 <email>abdoulaye.tall@assemblee.sn</email>
                 <telephone>771000132</telephone>
-                <adresse_bureau>Batiment C Bureau 133</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 133</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdoulaye_tall</twitter>
                     <facebook>facebook.com/abdoulaye.tall</facebook>
@@ -2811,7 +2678,6 @@
             <identifiant>
                 <nom>TAMBEDOU</nom>
                 <prenom>ELHADJI ABABACAR</prenom>
-                <nom_complet>ELHADJI ABABACAR TAMBEDOU</nom_complet>
                 <date_naissance>1975-03-15</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -2820,7 +2686,7 @@
             <contact>
                 <email>elhadjababacar.tambedou@assemblee.sn</email>
                 <telephone>771000133</telephone>
-                <adresse_bureau>Batiment A Bureau 134</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 134</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@elhadji ababacar_tambedou</twitter>
                     <facebook>facebook.com/elhadji ababacar.tambedou</facebook>
@@ -2832,7 +2698,6 @@
             <identifiant>
                 <nom>TANDJIGORA</nom>
                 <prenom>ADAMA</prenom>
-                <nom_complet>ADAMA TANDJIGORA</nom_complet>
                 <date_naissance>1977-02-11</date_naissance>
                 <lieu_naissance>Bélé</lieu_naissance>
             </identifiant>
@@ -2841,7 +2706,7 @@
             <contact>
                 <email/>
                 <telephone>771000134</telephone>
-                <adresse_bureau>Batiment C Bureau 135</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 135</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@adama_tandjigora</twitter>
                     <facebook>facebook.com/adama.tandjigora</facebook>
@@ -2853,7 +2718,6 @@
             <identifiant>
                 <nom>THIAM</nom>
                 <prenom>NDACK</prenom>
-                <nom_complet>NDACK THIAM</nom_complet>
                 <date_naissance>1968-08-21</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -2862,7 +2726,7 @@
             <contact>
                 <email>ndakh.thiam@assemblee.sn</email>
                 <telephone>771000135</telephone>
-                <adresse_bureau>Batiment C Bureau 136</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 136</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ndack_thiam</twitter>
                     <facebook>facebook.com/ndack.thiam</facebook>
@@ -2874,7 +2738,6 @@
             <identifiant>
                 <nom>THIAO</nom>
                 <prenom>SOKHNA DIARRA</prenom>
-                <nom_complet>SOKHNA DIARRA THIAO</nom_complet>
                 <date_naissance>1990-02-10</date_naissance>
                 <lieu_naissance>Bambey</lieu_naissance>
             </identifiant>
@@ -2883,7 +2746,7 @@
             <contact>
                 <email>sokhnadiarra.thiao@assemblee.sn</email>
                 <telephone>771000136</telephone>
-                <adresse_bureau>Batiment C Bureau 137</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 137</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@sokhna diarra_thiao</twitter>
                     <facebook>facebook.com/sokhna diarra.thiao</facebook>
@@ -2895,7 +2758,6 @@
             <identifiant>
                 <nom>THIOUF</nom>
                 <prenom>OUSMANE</prenom>
-                <nom_complet>OUSMANE THIOUF</nom_complet>
                 <date_naissance>1962-06-27</date_naissance>
                 <lieu_naissance>Ndianda</lieu_naissance>
             </identifiant>
@@ -2904,7 +2766,7 @@
             <contact>
                 <email>ousmane.thiouf@assemblee.sn</email>
                 <telephone>771000137</telephone>
-                <adresse_bureau>Batiment C Bureau 138</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 138</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@ousmane_thiouf</twitter>
                     <facebook>facebook.com/ousmane.thiouf</facebook>
@@ -2916,7 +2778,6 @@
             <identifiant>
                 <nom>TINE</nom>
                 <prenom>ANNE MARIE YACINE</prenom>
-                <nom_complet>ANNE MARIE YACINE TINE</nom_complet>
                 <date_naissance>1998-08-15</date_naissance>
                 <lieu_naissance>Fandène Yaboye</lieu_naissance>
             </identifiant>
@@ -2937,7 +2798,6 @@
             <identifiant>
                 <nom>TOURE</nom>
                 <prenom>AICHA</prenom>
-                <nom_complet>AICHA TOURE</nom_complet>
                 <date_naissance>1974-10-16</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -2946,7 +2806,7 @@
             <contact>
                 <email>aicha.toure@assemblee.sn</email>
                 <telephone>771000139</telephone>
-                <adresse_bureau>Batiment A Bureau 140</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 140</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@aicha_toure</twitter>
                     <facebook>facebook.com/aicha.toure</facebook>
@@ -2958,7 +2818,6 @@
             <identifiant>
                 <nom>VARORE</nom>
                 <prenom>BABACAR</prenom>
-                <nom_complet>BABACAR VARORE</nom_complet>
                 <date_naissance>1976-04-08</date_naissance>
                 <lieu_naissance>Guédiawaye</lieu_naissance>
             </identifiant>
@@ -2967,7 +2826,7 @@
             <contact>
                 <email>babacar.varore@assemblee.sn</email>
                 <telephone>771000140</telephone>
-                <adresse_bureau>Batiment D Bureau 141</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 141</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@babacar_varore</twitter>
                     <facebook>facebook.com/babacar.varore</facebook>
@@ -2979,7 +2838,6 @@
             <identifiant>
                 <nom>WAGNANE</nom>
                 <prenom>DABA</prenom>
-                <nom_complet>DABA WAGNANE</nom_complet>
                 <date_naissance>1987-08-11</date_naissance>
                 <lieu_naissance>Darou Mousty</lieu_naissance>
             </identifiant>
@@ -2988,7 +2846,7 @@
             <contact>
                 <email>daba.wagnane@assemblee.sn</email>
                 <telephone>771000141</telephone>
-                <adresse_bureau>Batiment B Bureau 142</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 142</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@daba_wagnane</twitter>
                     <facebook>facebook.com/daba.wagnane</facebook>
@@ -3000,7 +2858,6 @@
             <identifiant>
                 <nom>WAGUE</nom>
                 <prenom>BANTA</prenom>
-                <nom_complet>BANTA WAGUE</nom_complet>
                 <date_naissance>1969-03-04</date_naissance>
                 <lieu_naissance>Bokidiawé</lieu_naissance>
             </identifiant>
@@ -3021,7 +2878,6 @@
             <identifiant>
                 <nom>WONE</nom>
                 <prenom>ISMAILA MAMADOU ABDOUL</prenom>
-                <nom_complet>ISMAILA MAMADOU ABDOUL WONE</nom_complet>
                 <date_naissance>1977-10-19</date_naissance>
                 <lieu_naissance>Podor</lieu_naissance>
             </identifiant>
@@ -3042,7 +2898,6 @@
             <identifiant>
                 <nom>FALL</nom>
                 <prenom>PAPE DJIBRIL</prenom>
-                <nom_complet>PAPE DJIBRIL FALL</nom_complet>
                 <date_naissance>1986-01-22</date_naissance>
                 <lieu_naissance>Thiadiaye</lieu_naissance>
             </identifiant>
@@ -3051,7 +2906,7 @@
             <contact>
                 <email>papedjibril.fall@assemblee.sn</email>
                 <telephone>771000144</telephone>
-                <adresse_bureau>Batiment C Bureau 145</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 145</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@pape djibril_fall</twitter>
                     <facebook>facebook.com/pape djibril.fall</facebook>
@@ -3063,7 +2918,6 @@
             <identifiant>
                 <nom>NGOM</nom>
                 <prenom>ANTA BABACAR</prenom>
-                <nom_complet>ANTA BABACAR NGOM</nom_complet>
                 <date_naissance>1984-08-26</date_naissance>
                 <lieu_naissance>Pikine</lieu_naissance>
             </identifiant>
@@ -3084,7 +2938,6 @@
             <identifiant>
                 <nom>YOUM</nom>
                 <prenom>CHEIKH AHMED TIDIANE</prenom>
-                <nom_complet>CHEIKH AHMED TIDIANE YOUM</nom_complet>
                 <date_naissance>1976-08-11</date_naissance>
                 <lieu_naissance>Mbour</lieu_naissance>
             </identifiant>
@@ -3093,7 +2946,7 @@
             <contact>
                 <email>cheikhahmedtidiane.youm@assemblee.sn</email>
                 <telephone>771000146</telephone>
-                <adresse_bureau>Batiment D Bureau 147</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 147</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@cheikh ahmed tidiane_youm</twitter>
                     <facebook>facebook.com/cheikh ahmed tidiane.youm</facebook>
@@ -3105,7 +2958,6 @@
             <identifiant>
                 <nom>SALL</nom>
                 <prenom>THIERNO ALASSANE</prenom>
-                <nom_complet>THIERNO ALASSANE SALL</nom_complet>
                 <date_naissance>1963-11-30</date_naissance>
                 <lieu_naissance>Thiès</lieu_naissance>
             </identifiant>
@@ -3126,7 +2978,6 @@
             <identifiant>
                 <nom>THIOYE</nom>
                 <prenom>TAFSIR</prenom>
-                <nom_complet>TAFSIR THIOYE</nom_complet>
                 <date_naissance>1974-07-07</date_naissance>
                 <lieu_naissance>Mbour</lieu_naissance>
             </identifiant>
@@ -3135,7 +2986,7 @@
             <contact>
                 <email>tafsir.thioye@assemblee.sn</email>
                 <telephone>771000148</telephone>
-                <adresse_bureau>Batiment B Bureau 149</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 149</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@tafsir_thioye</twitter>
                     <facebook>facebook.com/tafsir.thioye</facebook>
@@ -3147,7 +2998,6 @@
             <identifiant>
                 <nom>BA</nom>
                 <prenom>SOKHNA</prenom>
-                <nom_complet>SOKHNA BA</nom_complet>
                 <date_naissance>1970-02-02</date_naissance>
                 <lieu_naissance>OUROSSOGUI</lieu_naissance>
             </identifiant>
@@ -3156,7 +3006,7 @@
             <contact>
                 <email>sokhna.ba@assemblee.sn</email>
                 <telephone>771000149</telephone>
-                <adresse_bureau>Batiment B Bureau 150</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 150</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@sokhna_ba</twitter>
                     <facebook>facebook.com/sokhna.ba</facebook>
@@ -3168,7 +3018,6 @@
             <identifiant>
                 <nom>DIA</nom>
                 <prenom>DAOUDA</prenom>
-                <nom_complet>DAOUDA DIA</nom_complet>
                 <date_naissance>1971-04-05</date_naissance>
                 <lieu_naissance>VENDOU BOSEABE</lieu_naissance>
             </identifiant>
@@ -3177,7 +3026,7 @@
             <contact>
                 <email>daouda.dia@assemblee.sn</email>
                 <telephone>771000150</telephone>
-                <adresse_bureau>Batiment A Bureau 151</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 151</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@daouda_dia</twitter>
                     <facebook>facebook.com/daouda.dia</facebook>
@@ -3189,7 +3038,6 @@
             <identifiant>
                 <nom>DIALLO</nom>
                 <prenom>RAQUI</prenom>
-                <nom_complet>RAQUI DIALLO</nom_complet>
                 <date_naissance>1978-08-03</date_naissance>
                 <lieu_naissance>Kanel</lieu_naissance>
             </identifiant>
@@ -3210,7 +3058,6 @@
             <identifiant>
                 <nom>DIALLO</nom>
                 <prenom>AISSATA OUSMANE</prenom>
-                <nom_complet>AISSATA OUSMANE DIALLO</nom_complet>
                 <date_naissance>1984-01-15</date_naissance>
                 <lieu_naissance>Baladji</lieu_naissance>
             </identifiant>
@@ -3219,7 +3066,7 @@
             <contact>
                 <email>aissataousmane.diallo@assemblee.sn</email>
                 <telephone>771000152</telephone>
-                <adresse_bureau>Batiment D Bureau 153</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 153</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@aissata ousmane_diallo</twitter>
                     <facebook>facebook.com/aissata ousmane.diallo</facebook>
@@ -3231,7 +3078,6 @@
             <identifiant>
                 <nom>DIALLO N°1</nom>
                 <prenom>AMADOU</prenom>
-                <nom_complet>AMADOU DIALLO N°1</nom_complet>
                 <date_naissance>1966-06-20</date_naissance>
                 <lieu_naissance>Civiabé</lieu_naissance>
             </identifiant>
@@ -3240,7 +3086,7 @@
             <contact>
                 <email>amadou.diallo1@assemblee.sn</email>
                 <telephone>771000153</telephone>
-                <adresse_bureau>Batiment B Bureau 154</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 154</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amadou_diallo n°1</twitter>
                     <facebook>facebook.com/amadou.diallo n°1</facebook>
@@ -3252,7 +3098,6 @@
             <identifiant>
                 <nom>DIAW</nom>
                 <prenom>MAMADOU MORY</prenom>
-                <nom_complet>MAMADOU MORY DIAW</nom_complet>
                 <date_naissance>1952-02-27</date_naissance>
                 <lieu_naissance>Matam</lieu_naissance>
             </identifiant>
@@ -3261,7 +3106,7 @@
             <contact>
                 <email>mamadou.diaw@assemblee.sn</email>
                 <telephone>771000154</telephone>
-                <adresse_bureau>Batiment D Bureau 155</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 155</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mamadou mory_diaw</twitter>
                     <facebook>facebook.com/mamadou mory.diaw</facebook>
@@ -3273,7 +3118,6 @@
             <identifiant>
                 <nom>DIOP</nom>
                 <prenom>AMADOU MAME</prenom>
-                <nom_complet>AMADOU MAME DIOP</nom_complet>
                 <date_naissance>1965-07-18</date_naissance>
                 <lieu_naissance>Saint-Louis</lieu_naissance>
             </identifiant>
@@ -3282,7 +3126,7 @@
             <contact>
                 <email>amadoumame.diop@assemblee.sn</email>
                 <telephone>771000155</telephone>
-                <adresse_bureau>Batiment D Bureau 156</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 156</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@amadou mame_diop</twitter>
                     <facebook>facebook.com/amadou mame.diop</facebook>
@@ -3294,7 +3138,6 @@
             <identifiant>
                 <nom>FAYE</nom>
                 <prenom>THERESE</prenom>
-                <nom_complet>THERESE FAYE</nom_complet>
                 <date_naissance>1981-08-03</date_naissance>
                 <lieu_naissance>Dame</lieu_naissance>
             </identifiant>
@@ -3303,7 +3146,7 @@
             <contact>
                 <email>therese.faye@assemblee.sn</email>
                 <telephone>771000156</telephone>
-                <adresse_bureau>Batiment C Bureau 157</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 157</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@therese_faye</twitter>
                     <facebook>facebook.com/therese.faye</facebook>
@@ -3315,7 +3158,6 @@
             <identifiant>
                 <nom>FOFANA</nom>
                 <prenom>BARANE</prenom>
-                <nom_complet>BARANE FOFANA</nom_complet>
                 <date_naissance>1980-02-25</date_naissance>
                 <lieu_naissance>Thilogne</lieu_naissance>
             </identifiant>
@@ -3324,7 +3166,7 @@
             <contact>
                 <email>barane.fofana@assemblee.sn</email>
                 <telephone>771000157</telephone>
-                <adresse_bureau>Batiment B Bureau 158</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 158</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@barane_fofana</twitter>
                     <facebook>facebook.com/barane.fofana</facebook>
@@ -3336,7 +3178,6 @@
             <identifiant>
                 <nom>MBOW</nom>
                 <prenom>ABDOU</prenom>
-                <nom_complet>ABDOU MBOW</nom_complet>
                 <date_naissance>1976-01-09</date_naissance>
                 <lieu_naissance>Thiès</lieu_naissance>
             </identifiant>
@@ -3345,7 +3186,7 @@
             <contact>
                 <email>abdou.mbow@assemblee.sn</email>
                 <telephone>771000158</telephone>
-                <adresse_bureau>Batiment A Bureau 159</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 159</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@abdou_mbow</twitter>
                     <facebook>facebook.com/abdou.mbow</facebook>
@@ -3357,7 +3198,6 @@
             <identifiant>
                 <nom>NDIAYE</nom>
                 <prenom>FABINETA</prenom>
-                <nom_complet>FABINETA NDIAYE</nom_complet>
                 <date_naissance>1974-04-17</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -3366,7 +3206,7 @@
             <contact>
                 <email>fabineta.ndiaye@assemblee.sn</email>
                 <telephone>771000159</telephone>
-                <adresse_bureau>Batiment B Bureau 160</adresse_bureau>
+                <adresse_bureau>Batiment C Bureau 160</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fabineta_ndiaye</twitter>
                     <facebook>facebook.com/fabineta.ndiaye</facebook>
@@ -3378,7 +3218,6 @@
             <identifiant>
                 <nom>NGOM</nom>
                 <prenom>MAHAMADOU</prenom>
-                <nom_complet>MAHAMADOU NGOM</nom_complet>
                 <date_naissance>1971-03-05</date_naissance>
                 <lieu_naissance>Nguidjilone</lieu_naissance>
             </identifiant>
@@ -3387,7 +3226,7 @@
             <contact>
                 <email>mouhamadou.ngom@assemblee.sn</email>
                 <telephone>771000160</telephone>
-                <adresse_bureau>Batiment D Bureau 161</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 161</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mahamadou_ngom</twitter>
                     <facebook>facebook.com/mahamadou.ngom</facebook>
@@ -3399,7 +3238,6 @@
             <identifiant>
                 <nom>SOUARE</nom>
                 <prenom>DJIMO</prenom>
-                <nom_complet>DJIMO SOUARE</nom_complet>
                 <date_naissance>1977-07-31</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -3408,7 +3246,7 @@
             <contact>
                 <email>djimo.souare@assemblee.sn</email>
                 <telephone>771000161</telephone>
-                <adresse_bureau>Batiment D Bureau 162</adresse_bureau>
+                <adresse_bureau>Batiment B Bureau 162</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@djimo_souare</twitter>
                     <facebook>facebook.com/djimo.souare</facebook>
@@ -3420,7 +3258,6 @@
             <identifiant>
                 <nom>SOW</nom>
                 <prenom>FATOU</prenom>
-                <nom_complet>FATOU SOW</nom_complet>
                 <date_naissance>1964-10-22</date_naissance>
                 <lieu_naissance>Keur Massar</lieu_naissance>
             </identifiant>
@@ -3429,7 +3266,7 @@
             <contact>
                 <email>fatou.sow@assemblee.sn</email>
                 <telephone>771000162</telephone>
-                <adresse_bureau>Batiment A Bureau 163</adresse_bureau>
+                <adresse_bureau>Batiment D Bureau 163</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@fatou_sow</twitter>
                     <facebook>facebook.com/fatou.sow</facebook>
@@ -3441,7 +3278,6 @@
             <identifiant>
                 <nom>TALL</nom>
                 <prenom>AISSATA</prenom>
-                <nom_complet>AISSATA TALL</nom_complet>
                 <date_naissance>1957-12-12</date_naissance>
                 <lieu_naissance>Dakar</lieu_naissance>
             </identifiant>
@@ -3462,7 +3298,6 @@
             <identifiant>
                 <nom>THIAM</nom>
                 <prenom>MAMADOU LAMINE</prenom>
-                <nom_complet>MAMADOU LAMINE THIAM</nom_complet>
                 <date_naissance>1958-12-21</date_naissance>
                 <lieu_naissance>Kébémer</lieu_naissance>
             </identifiant>
@@ -3471,7 +3306,7 @@
             <contact>
                 <email>mamadoulamine.thiam@assemblee.sn</email>
                 <telephone>771000164</telephone>
-                <adresse_bureau>Batiment D Bureau 165</adresse_bureau>
+                <adresse_bureau>Batiment A Bureau 165</adresse_bureau>
                 <reseaux_sociaux>
                     <twitter>@mamadou lamine_thiam</twitter>
                     <facebook>facebook.com/mamadou lamine.thiam</facebook>
@@ -3733,19 +3568,15 @@ l&amp;#39;assembl&amp;eacute;e g&amp;eacute;n&amp;eacute;rale, conform&amp;eacut
             <description_sess>Session ordinaire budgétaire et examen des lois de finances</description_sess>
             <periode>Octobre - Juin</periode>
             <date_debut>2024-10-01</date_debut>
-            <date_fin>2025-06-31</date_fin>
-
+            <date_fin>2025-06-30</date_fin>
             <seances>
-
                 <seance id="SE001">
                     <president_seance ref="DPT827"/>
                     <secretaire_seance ref="DPT693"/>
-
                     <ordre_du_jour>
                         <point priorite="haute">Projet de loi de finances 2026</point>
                         <point priorite="moyenne">Réforme du code électoral</point>
                     </ordre_du_jour>
-
                     <votes>
                         <vote texte="Projet de loi de finances 2026" resultat="Adopté">
                             <pour>20</pour>
@@ -3753,7 +3584,6 @@ l&amp;#39;assembl&amp;eacute;e g&amp;eacute;n&amp;eacute;rale, conform&amp;eacut
                             <abstention>20</abstention>
                             <absence>35</absence>
                         </vote>
-
                         <vote texte="Réforme du code électoral" resultat="Adopté">
                             <pour>80</pour>
                             <contre>45</contre>
@@ -3762,16 +3592,13 @@ l&amp;#39;assembl&amp;eacute;e g&amp;eacute;n&amp;eacute;rale, conform&amp;eacut
                         </vote>
                     </votes>
                 </seance>
-
                 <seance id="SE002">
                     <president_seance ref="DPT1710"/>
                     <secretaire_seance ref="DPT1680"/>
-
                     <ordre_du_jour>
                         <point priorite="haute">Loi sur la santé publique</point>
                         <point priorite="moyenne">Loi sur la sécurité alimentaire</point>
                     </ordre_du_jour>
-
                     <votes>
                         <vote texte="Loi sur la santé publique" resultat="Adopté">
                             <pour>50</pour>
@@ -3781,7 +3608,6 @@ l&amp;#39;assembl&amp;eacute;e g&amp;eacute;n&amp;eacute;rale, conform&amp;eacut
                         </vote>
                     </votes>
                 </seance>
-
             </seances>
         </session>
         <session id="S002">
@@ -3789,17 +3615,14 @@ l&amp;#39;assembl&amp;eacute;e g&amp;eacute;n&amp;eacute;rale, conform&amp;eacut
             <periode>Février - Mai</periode>
             <date_debut>2026-02-01</date_debut>
             <date_fin>2026-05-31</date_fin>
-
             <seances>
                 <seance id="SE003">
                     <president_seance ref="DPT1275"/>
                     <secretaire_seance ref="DPT654"/>
-
                     <ordre_du_jour>
                         <point priorite="haute">Loi sur l'éducation numérique</point>
                         <point priorite="moyenne">Réforme du système judiciaire</point>
                     </ordre_du_jour>
-
                     <votes>
                         <vote texte="Loi sur l'éducation numérique" resultat="Adopté">
                             <pour>95</pour>
@@ -3816,17 +3639,14 @@ l&amp;#39;assembl&amp;eacute;e g&amp;eacute;n&amp;eacute;rale, conform&amp;eacut
             <periode>Juin - Août</periode>
             <date_debut>2026-06-01</date_debut>
             <date_fin>2026-08-31</date_fin>
-
             <seances>
                 <seance id="SE004">
                     <president_seance ref="DPT1547"/>
                     <secretaire_seance ref="DPT1763"/>
-
                     <ordre_du_jour>
                         <point priorite="haute">Loi sur la protection de l'environnement</point>
                         <point priorite="moyenne">Programme de sécurité alimentaire</point>
                     </ordre_du_jour>
-
                     <votes>
                         <vote texte="Loi sur la protection de l'environnement" resultat="Adopté">
                             <pour>100</pour>
